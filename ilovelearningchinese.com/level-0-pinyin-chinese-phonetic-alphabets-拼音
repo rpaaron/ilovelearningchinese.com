@@ -1,0 +1,1012 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+<head>
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />	
+	<link rel="pingback" href="https://ilovelearningchinese.com/xmlrpc.php" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+	<title>Level 0 Pinyin &#8211; Chinese Phonetic Alphabets / 拼音 &#8211; I Love Learning Chinese</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/ilovelearningchinese.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.6"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='scap.flashblock-css'  href='https://ilovelearningchinese.com/wp-content/plugins/compact-wp-audio-player/css/flashblock.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='scap.player-css'  href='https://ilovelearningchinese.com/wp-content/plugins/compact-wp-audio-player/css/player.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wpts_ui_css-css'  href='https://ilovelearningchinese.com/wp-content/plugins/wordpress-post-tabs/css/styles/red/style.css?ver=1.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://ilovelearningchinese.com/wp-includes/css/dist/block-library/style.min.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='mediaelement-css'  href='https://ilovelearningchinese.com/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.16' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css'  href='https://ilovelearningchinese.com/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='qwiz_css_handle-css'  href='https://ilovelearningchinese.com/wp-content/plugins/qwiz-online-quizzes-and-flashcards/qwiz.css?ver=3.54' type='text/css' media='all' />
+<link rel='stylesheet' id='qwizcards_css_handle-css'  href='https://ilovelearningchinese.com/wp-content/plugins/qwiz-online-quizzes-and-flashcards/qwizcards.css?ver=3.54' type='text/css' media='all' />
+<link rel='stylesheet' id='lightness_handle-css'  href='https://ilovelearningchinese.com/wp-content/plugins/qwiz-online-quizzes-and-flashcards/jquery-ui.min.lightness.css?ver=3.54' type='text/css' media='all' />
+<link rel='stylesheet' id='magazine-font-awesome-css'  href='https://ilovelearningchinese.com/wp-content/themes/magazinestyle/font-awesome/css/font-awesome.min.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='magazine-style-css'  href='https://ilovelearningchinese.com/wp-content/themes/magazinestyle/style.css?ver=5.6' type='text/css' media='all' />
+<style id='magazine-style-inline-css' type='text/css'>
+
+		nav.top-bar .top-bar-section li:not(.has-form) a:not(.button),
+			nav.top-bar,
+			nav.top-bar.expanded .title-area{
+			background:#333333 !important;
+		}
+		nav.top-bar, nav.top-bar.expanded .title-area{
+			border-color:#FD4326 !important;
+		}
+		#menu-main-menu > li.current_page_item.home-icon > a, #menu-top > li.current_page_item.home-icon > a,
+		nav.top-bar .top-bar-section li:not(.has-form).current-menu-item a:not(.button),
+		nav.top-bar .top-bar-section li:not(.has-form) a:not(.button):hover{
+			background:#FD4326 !important;
+		}
+
+		
+</style>
+<link rel='stylesheet' id='magazine-body-font-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A100%2C300%2C400%2C700&#038;ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='magazine-title-font-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A100%2C300%2C400%2C700&#038;ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='magazine-title-post-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A100%2C300%2C400%2C700&#038;ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='magazine-foundation-css-css'  href='https://ilovelearningchinese.com/wp-content/themes/magazinestyle/foundation/css/foundation.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='magazine-reset-css'  href='https://ilovelearningchinese.com/wp-content/themes/magazinestyle/foundation/css/normalize.css?ver=5.1.1' type='text/css' media='screen' />
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-content/plugins/compact-wp-audio-player/js/soundmanager2-nodebug-jsmin.js?ver=5.6' id='scap.soundmanager2-js'></script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-content/themes/magazinestyle/foundation/js/vendor/jquery.js' id='jquery-js'></script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-content/themes/magazinestyle/js/backscript.js?ver=1.0' id='backscript-js'></script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-content/themes/magazinestyle/foundation/js/vendor/modernizr.js' id='modernizr-js'></script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-content/themes/magazinestyle/js/smoothscroll.js?ver=1.0' id='magazine-smoothscroll-js'></script>
+<link rel="https://api.w.org/" href="https://ilovelearningchinese.com/wp-json/" /><link rel="alternate" type="application/json" href="https://ilovelearningchinese.com/wp-json/wp/v2/pages/535" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://ilovelearningchinese.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://ilovelearningchinese.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.6" />
+<link rel="canonical" href="https://ilovelearningchinese.com/level-0-pinyin-chinese-phonetic-alphabets-%e6%8b%bc%e9%9f%b3" />
+<link rel='shortlink' href='https://ilovelearningchinese.com/?p=535' />
+<link rel="alternate" type="application/json+oembed" href="https://ilovelearningchinese.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Filovelearningchinese.com%2Flevel-0-pinyin-chinese-phonetic-alphabets-%25e6%258b%25bc%25e9%259f%25b3" />
+<link rel="alternate" type="text/xml+oembed" href="https://ilovelearningchinese.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Filovelearningchinese.com%2Flevel-0-pinyin-chinese-phonetic-alphabets-%25e6%258b%25bc%25e9%259f%25b3&#038;format=xml" />
+<script type="text/javascript"><!--
+function powerpress_pinw(pinw_url){window.open(pinw_url, 'PowerPressPlayer','toolbar=0,status=0,resizable=1,width=460,height=320');	return false;}
+//-->
+</script>
+<style type="text/css">#header{background-image:url("https://ilovelearningchinese.com/wp-content/uploads/2016/02/cropped-logo_ILLC_edit_2_small-1.jpg"); background-size: 100% 100%;}</style>       <style type="text/css">
+		body { background: #ffffff}
+			h1.entry-title a{ font-size:14px; font-family: Open Sans; color:#2D89A7;}
+			h2.entry-title a{ font-size:14px; font-family: Open Sans; color:#2D89A7;}
+			h1,h2,h3,h4,h5,h6,
+			.entry p,
+			.entry h1,
+			.entry h2,
+			.entry h3,
+			.entry h4,
+			.entry h5,
+			.entry h6,
+			body{ font-size:14px; font-family: Open Sans; color:#424242;}
+		a{ color: #2D89A7; }
+		#pagenavi span.current, #pagenavi a:hover{ background-color: #333333 !important; }
+		#pagenavi a, #pagenavi span{ background-color: #FD4326 !important;  color: #ffffff !important;}
+		#navigation li:hover > a, #navigation .current_page_item, #navigation .secondary ul li.current-menu-item, #navigation .secondary >ul >li a:hover{ color:#ffffff !important; background: #FD4326 !important;}
+		a:hover{ color: #FD4326 !important; }
+		#top-menu-inner, #top-menu ul ul a{ background: #2693BA !important; }
+		#top-menu .first ul li.current-menu-item, #top-menu .first >ul >li a:hover{ color: #fff !important; background: ##359BED !important; }
+		#navigation, #navigation ul ul a{ background: #333333;}
+		#navigation-inner{ border-color: #FD4326;}
+		
+		#searchsubmit,
+		.readmore,
+		ol.commentlist li div.reply,
+		#commentform #submit{ background: #FD4326;}
+		
+		#sidebar h4, #sidebar h4 a{ background: #333333; border-bottom-color:#FD4326 !important;}
+		#searchsubmit { background: #FD4326;}
+		#sidebar h4, #sidebar h4 a { color: #ffffff;}
+		#bottom-menu h4 { background: #333333; color: #ffffff;}
+		#footer { background: #333333;}
+		#page-inner,#bottom-menu,.menuwidth,div#header{ max-width: 1200px !important;}
+	</style>
+    
+<meta name="google-site-verification" content="UA-51574809-1" />
+<meta name="msvalidate.01" content="B2CB18BAC949E510345C16531DCCEC48"/>
+
+<style type="text/css" xmlns="http://www.w3.org/1999/html">
+
+/*
+PowerPress subscribe sidebar widget
+*/
+.widget-area .widget_powerpress_subscribe h2,
+.widget-area .widget_powerpress_subscribe h3,
+.widget-area .widget_powerpress_subscribe h4,
+.widget_powerpress_subscribe h2,
+.widget_powerpress_subscribe h3,
+.widget_powerpress_subscribe h4 {
+	margin-bottom: 0;
+	padding-bottom: 0;
+}
+</style>
+	<style type="text/css">
+			.site-title,
+		.site-description {
+			position: absolute;
+			clip: rect(1px, 1px, 1px, 1px);
+		}
+		</style>
+	<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #fff8ea; }
+</style>
+	</head>
+
+<body class="page-template-default page page-id-535 custom-background" id="top">
+<div class="wrapper">
+<!-- BEGIN HEADER -->
+	<div id="header">
+    <div id="header-inner" class="clearfix">
+		<div class="large-5 columns">
+		<div id="logo">
+        
+            <h1 class="site-title">
+			<a href="https://ilovelearningchinese.com/" title="I Love Learning Chinese" rel="home">I Love Learning Chinese</a></h1>
+			<h2 class="site-description">Study and Learn Chinese Mandarin online with podcasts and PDF</h2>
+      
+    		
+		</div>		
+		</div>
+<div class="large-7 columns">		
+<!--   
+Package: Free Social Media Icons
+Author: Konstantin 
+Source: http://kovshenin.com/2011/freebies-a-simple-social-icon-set-gpl/
+
+License: GPL v2 http://www.gnu.org/licenses/gpl-2.0.html
+-->
+<ul class="spicesocialwidget">
+
+<li class="facebook">
+<a rel="nofollow" href="https://www.facebook.com/ilovelearningchinese" target="_blank" title="facebook">
+</a></li>
+	<li class="rss">
+<a rel="nofollow" href="http://feeds.feedburner.com/ilovelearningchinese" target="_blank" title="rss">
+</a></li>
+</ul>    </div> <!-- end div #header-inner -->
+    </div> <!-- end div #header-inner -->
+	</div> <!-- end div #header -->
+	<!-- BEGIN TOP NAVIGATION -->	
+
+
+<nav class="top-bar" data-topbar> 
+<div class="menuwidth">   
+<section class="top-bar-section"> 
+	<!-- Right Nav Section -->                 
+	<ul id="menu-menu-1" class="top-bar-menu left"><li class="home-icon"><a href="https://ilovelearningchinese.com/" title="Home"><i class="fa fa-home"></i></a></li><li id="menu-item-330" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-330"><a href="https://ilovelearningchinese.com/start-here">START 开始学习</a></li>
+<li id="menu-item-47" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children active has-dropdown menu-item-47"><a href="https://ilovelearningchinese.com/sample-page">Lessons 课程</a>
+<ul class="sub-menu dropdown">
+	<li id="menu-item-547" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-535 current_page_item active menu-item-547"><a href="https://ilovelearningchinese.com/level-0-pinyin-chinese-phonetic-alphabets-%e6%8b%bc%e9%9f%b3">Level 0 基础</a></li>
+	<li id="menu-item-48" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48"><a href="https://ilovelearningchinese.com/archives/category/grammar/level-1">Level 1 第一集</a></li>
+	<li id="menu-item-1031" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1031"><a href="https://ilovelearningchinese.com/archives/category/grammar/level-2">Level 2 第二集</a></li>
+	<li id="menu-item-1661" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1661"><a href="https://ilovelearningchinese.com/archives/category/grammar/level-3">Level 3 第三集</a></li>
+	<li id="menu-item-2579" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2579"><a href="https://ilovelearningchinese.com/archives/category/grammar/level-4">Level 4 第四集</a></li>
+	<li id="menu-item-3110" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3110"><a href="https://ilovelearningchinese.com/archives/category/grammar/level-5">Level 5 第五集</a></li>
+	<li id="menu-item-3475" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3475"><a href="https://ilovelearningchinese.com/archives/category/grammar/level-6">Level 6 第六集</a></li>
+	<li id="menu-item-3949" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3949"><a href="https://ilovelearningchinese.com/archives/category/grammar/level-7">Level 7 第七集</a></li>
+</ul>
+</li>
+<li id="menu-item-234" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children has-dropdown menu-item-234"><a href="https://ilovelearningchinese.com/extra">Extra 更多内容</a>
+<ul class="sub-menu dropdown">
+	<li id="menu-item-3254" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3254"><a href="https://ilovelearningchinese.com/chineseclass101">Chineseclass101</a></li>
+	<li id="menu-item-1426" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children has-dropdown menu-item-1426"><a href="https://ilovelearningchinese.com/essential-vocab-%e6%a0%b8%e5%bf%83%e8%af%8d%e6%b1%87">Essential Voca 核心词汇</a>
+	<ul class="sub-menu dropdown">
+		<li id="menu-item-679" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-679"><a href="https://ilovelearningchinese.com/archives/category/essential-100-words">1-100 一到一百</a></li>
+	</ul>
+</li>
+	<li id="menu-item-276" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-276"><a href="https://ilovelearningchinese.com/archives/category/chinese-vocab-with-pictures">Picture Vocab 看图识词</a></li>
+	<li id="menu-item-751" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-751"><a href="https://ilovelearningchinese.com/archives/category/essential-100-phrases">Essential Phrases 重要短语</a></li>
+	<li id="menu-item-533" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-533"><a href="https://ilovelearningchinese.com/archives/category/learn-chinese-fortune-cookie">Fortune Cookie 幸运饼干</a></li>
+	<li id="menu-item-2328" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children has-dropdown menu-item-2328"><a href="https://ilovelearningchinese.com/archives/category/just-dialogue">Just Dialogue</a>
+	<ul class="sub-menu dropdown">
+		<li id="menu-item-2329" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2329"><a href="https://ilovelearningchinese.com/archives/category/just-dialogue/beginner">beginner</a></li>
+		<li id="menu-item-2375" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2375"><a href="https://ilovelearningchinese.com/archives/category/just-dialogue/intermediate">intermediate</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1841" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1841"><a href="https://ilovelearningchinese.com/archives/category/childrens-story">Children&#8217;s Story 儿童故事</a></li>
+	<li id="menu-item-265" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-265"><a href="https://ilovelearningchinese.com/archives/category/blog">Short Readings 短文</a></li>
+	<li id="menu-item-1590" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1590"><a href="https://ilovelearningchinese.com/archives/category/news">News In Chinese 新闻</a></li>
+</ul>
+</li>
+</ul>                 
+	<!-- Left Nav Section -->                 
+</section>    
+<ul class="title-area"> 
+	<li class="name">  
+	</li>                 
+	<li class="toggle-topbar menu-icon">
+		<a href="#">
+			Menu<i class="fa fa-bars"></i>
+		</a>
+	</li>                 
+</ul>    
+</div>         
+</nav>
+
+	<!-- BEGIN PAGE -->
+	<div id="page">
+    <div id="page-inner" class="clearfix">
+<div id="banner-top"><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick" />
+<input type="hidden" name="hosted_button_id" value="EASPL2VH48HA6" />
+<input type="image" src="http://ilovelearningchinese.com/wp-content/uploads/2019/09/donate2.jpg" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+</form><br>
+<a href='https://www.chineseclass101.com/member/go.php?r=229854&amp;i=b17'><img src='https://www.chineseclass101.com/images/aff_banner/chinese_mobile_320x50.png' border='0' alt='Learn Chinese with Free Podcasts'></a>
+<?php if (function_exists('sfs_display_count_badge')) sfs_display_count_badge(); ?>
+
+
+</div>				<div class="large-12 columns content">
+										<div id="pagepost-535" class="pagepost clearfix">					
+				<h1 class="entry-title" itemprop="name"><a itemprop="url" href="https://ilovelearningchinese.com/level-0-pinyin-chinese-phonetic-alphabets-%e6%8b%bc%e9%9f%b3" rel="bookmark" title="Level 0 Pinyin &#8211; Chinese Phonetic Alphabets / 拼音">Level 0 Pinyin &#8211; Chinese Phonetic Alphabets / 拼音</a></h1>
+							<div class="entry" class="clearfix">
+																
+								<p><a href="http://ilovelearningchinese.com/wp-content/uploads/2014/06/pinyin-e1403034639165.png"><img loading="lazy" class="size-full wp-image-538 alignleft" src="http://ilovelearningchinese.com/wp-content/uploads/2014/06/pinyin-e1403034639165.png" alt="pinyin" width="249" height="238" /></a><br />
+<br clear="left" /><br />
+In this lesson you will learn how to phonetically read pinyin.  Once you are able to read pinyin you will be able to read the Mandarin pronunciation of any Chinese character since every Chinese character corresponds to pinyin.  Not only that but once you know pinyin you should be able to type Chinese characters since most input keyboards uses pinyin to show you the character you want.</p>
+<iframe src="//docs.google.com/viewer?url=http%3A%2F%2Ftraffic.libsyn.com%2Filovelearningchinese%2Flevel0_lesson_B.pdf&hl=en_US&embedded=true" class="gde-frame" style="width:100%; height:500px; border: none;" scrolling="no"></iframe>
+<p class="gde-text"><a href="http://traffic.libsyn.com/ilovelearningchinese/level0_lesson_B.pdf" class="gde-link">Download (PDF, 101KB)</a></p>
+<h1>Tones</h1>
+<table style="height: 152px;" width="801">
+<tbody>
+<tr>
+<td>
+<p align="CENTER">Hanzi</p>
+</td>
+<td>
+<p align="CENTER">Pinyin</p>
+</td>
+<td>
+<p align="CENTER">Recording</p>
+</td>
+<td>Pitch contour</td>
+<td> Meaning</td>
+<td>
+<p align="CENTER">Just like you say&#8230;</p>
+</td>
+</tr>
+<tr>
+<td> 妈</td>
+<td> <i>mā</i></td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd683650.63243918" class="myButton_play" onClick="play_mp3('play','5ffce3cd683650.63243918','http://traffic.libsyn.com/ilovelearningchinese/1_ma.mp3','80','false');show_hide('play','5ffce3cd683650.63243918');" /><input type="button"  id="btnstop_5ffce3cd683650.63243918" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd683650.63243918','','80','false');show_hide('stop','5ffce3cd683650.63243918');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>high level</td>
+<td> &#8220;mother&#8221;</td>
+<td> ah&#8230;</td>
+</tr>
+<tr>
+<td> 麻</td>
+<td> má</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd683965.14044929" class="myButton_play" onClick="play_mp3('play','5ffce3cd683965.14044929','http://traffic.libsyn.com/ilovelearningchinese/2_ma.mp3','80','false');show_hide('play','5ffce3cd683965.14044929');" /><input type="button"  id="btnstop_5ffce3cd683965.14044929" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd683965.14044929','','80','false');show_hide('stop','5ffce3cd683965.14044929');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>high rising</td>
+<td>&#8220;hemp&#8221;</td>
+<td> Huh?</td>
+</tr>
+<tr>
+<td> 马</td>
+<td> mǎ</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd683be1.82621323" class="myButton_play" onClick="play_mp3('play','5ffce3cd683be1.82621323','http://traffic.libsyn.com/ilovelearningchinese/3_ma.mp3','80','false');show_hide('play','5ffce3cd683be1.82621323');" /><input type="button"  id="btnstop_5ffce3cd683be1.82621323" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd683be1.82621323','','80','false');show_hide('stop','5ffce3cd683be1.82621323');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td> low falling-rising</td>
+<td> &#8220;horse&#8221;</td>
+<td> Really?</td>
+</tr>
+<tr>
+<td> 骂</td>
+<td> mà</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd683e34.99115338" class="myButton_play" onClick="play_mp3('play','5ffce3cd683e34.99115338','http://traffic.libsyn.com/ilovelearningchinese/4_ma.mp3','80','false');show_hide('play','5ffce3cd683e34.99115338');" /><input type="button"  id="btnstop_5ffce3cd683e34.99115338" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd683e34.99115338','','80','false');show_hide('stop','5ffce3cd683e34.99115338');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>high falling</td>
+<td> &#8220;scold&#8221;</td>
+<td> Hey!</td>
+</tr>
+<tr>
+<td> 吗</td>
+<td> ma</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd684085.93577178" class="myButton_play" onClick="play_mp3('play','5ffce3cd684085.93577178','http://traffic.libsyn.com/ilovelearningchinese/5_ma_b.mp3','80','false');show_hide('play','5ffce3cd684085.93577178');" /><input type="button"  id="btnstop_5ffce3cd684085.93577178" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd684085.93577178','','80','false');show_hide('stop','5ffce3cd684085.93577178');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td></td>
+<td> question particle</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h1>Consonant &amp; Vowels</h1>
+<table style="height: 252px;" width="830">
+<tbody>
+<tr>
+<td><b>Letter</b></td>
+<td></td>
+<td>English Word</td>
+<td>Example 1</td>
+<td></td>
+<td>Example 2</td>
+<td></td>
+</tr>
+<tr>
+<td><b>b</b></td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd6842c9.07927889" class="myButton_play" onClick="play_mp3('play','5ffce3cd6842c9.07927889','http://traffic.libsyn.com/ilovelearningchinese/6_b_1.mp3','80','false');show_hide('play','5ffce3cd6842c9.07927889');" /><input type="button"  id="btnstop_5ffce3cd6842c9.07927889" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd6842c9.07927889','','80','false');show_hide('stop','5ffce3cd6842c9.07927889');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>bay</td>
+<td>bā</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd684521.06149628" class="myButton_play" onClick="play_mp3('play','5ffce3cd684521.06149628','http://traffic.libsyn.com/ilovelearningchinese/6_b_2.mp3','80','false');show_hide('play','5ffce3cd684521.06149628');" /><input type="button"  id="btnstop_5ffce3cd684521.06149628" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd684521.06149628','','80','false');show_hide('stop','5ffce3cd684521.06149628');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>bǐ</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd684789.31646016" class="myButton_play" onClick="play_mp3('play','5ffce3cd684789.31646016','http://traffic.libsyn.com/ilovelearningchinese/6_b_3.mp3','80','false');show_hide('play','5ffce3cd684789.31646016');" /><input type="button"  id="btnstop_5ffce3cd684789.31646016" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd684789.31646016','','80','false');show_hide('stop','5ffce3cd684789.31646016');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+</tr>
+<tr>
+<td><b>p</b></td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd6849d6.37739086" class="myButton_play" onClick="play_mp3('play','5ffce3cd6849d6.37739086','http://traffic.libsyn.com/ilovelearningchinese/7_p_1.mp3','80','false');show_hide('play','5ffce3cd6849d6.37739086');" /><input type="button"  id="btnstop_5ffce3cd6849d6.37739086" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd6849d6.37739086','','80','false');show_hide('stop','5ffce3cd6849d6.37739086');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>pay</td>
+<td>péi</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd684c24.05724207" class="myButton_play" onClick="play_mp3('play','5ffce3cd684c24.05724207','http://traffic.libsyn.com/ilovelearningchinese/7_p_2.mp3','80','false');show_hide('play','5ffce3cd684c24.05724207');" /><input type="button"  id="btnstop_5ffce3cd684c24.05724207" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd684c24.05724207','','80','false');show_hide('stop','5ffce3cd684c24.05724207');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>pǐ</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd684e99.14684482" class="myButton_play" onClick="play_mp3('play','5ffce3cd684e99.14684482','http://traffic.libsyn.com/ilovelearningchinese/7_p_3.mp3','80','false');show_hide('play','5ffce3cd684e99.14684482');" /><input type="button"  id="btnstop_5ffce3cd684e99.14684482" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd684e99.14684482','','80','false');show_hide('stop','5ffce3cd684e99.14684482');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+</tr>
+<tr>
+<td><b>m</b></td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd6850e9.95654543" class="myButton_play" onClick="play_mp3('play','5ffce3cd6850e9.95654543','http://traffic.libsyn.com/ilovelearningchinese/8_m_1.mp3','80','false');show_hide('play','5ffce3cd6850e9.95654543');" /><input type="button"  id="btnstop_5ffce3cd6850e9.95654543" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd6850e9.95654543','','80','false');show_hide('stop','5ffce3cd6850e9.95654543');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>may</td>
+<td>mò</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd685326.52294838" class="myButton_play" onClick="play_mp3('play','5ffce3cd685326.52294838','http://traffic.libsyn.com/ilovelearningchinese/8_m_2.mp3','80','false');show_hide('play','5ffce3cd685326.52294838');" /><input type="button"  id="btnstop_5ffce3cd685326.52294838" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd685326.52294838','','80','false');show_hide('stop','5ffce3cd685326.52294838');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>mén</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd685572.33155147" class="myButton_play" onClick="play_mp3('play','5ffce3cd685572.33155147','http://traffic.libsyn.com/ilovelearningchinese/8_m_3.mp3','80','false');show_hide('play','5ffce3cd685572.33155147');" /><input type="button"  id="btnstop_5ffce3cd685572.33155147" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd685572.33155147','','80','false');show_hide('stop','5ffce3cd685572.33155147');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+</tr>
+<tr>
+<td><b>f</b></td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd685887.06897366" class="myButton_play" onClick="play_mp3('play','5ffce3cd685887.06897366','http://traffic.libsyn.com/ilovelearningchinese/9_f_1.mp3','80','false');show_hide('play','5ffce3cd685887.06897366');" /><input type="button"  id="btnstop_5ffce3cd685887.06897366" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd685887.06897366','','80','false');show_hide('stop','5ffce3cd685887.06897366');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>fair</td>
+<td>fā</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd685ac3.92066902" class="myButton_play" onClick="play_mp3('play','5ffce3cd685ac3.92066902','http://traffic.libsyn.com/ilovelearningchinese/9_f_2.mp3','80','false');show_hide('play','5ffce3cd685ac3.92066902');" /><input type="button"  id="btnstop_5ffce3cd685ac3.92066902" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd685ac3.92066902','','80','false');show_hide('stop','5ffce3cd685ac3.92066902');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>fèn</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd685d52.22940693" class="myButton_play" onClick="play_mp3('play','5ffce3cd685d52.22940693','http://traffic.libsyn.com/ilovelearningchinese/9_f_3.mp3','80','false');show_hide('play','5ffce3cd685d52.22940693');" /><input type="button"  id="btnstop_5ffce3cd685d52.22940693" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd685d52.22940693','','80','false');show_hide('stop','5ffce3cd685d52.22940693');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+</tr>
+<tr>
+<td><b>d</b></td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd6860f4.41344247" class="myButton_play" onClick="play_mp3('play','5ffce3cd6860f4.41344247','http://traffic.libsyn.com/ilovelearningchinese/10_d_1.mp3','80','false');show_hide('play','5ffce3cd6860f4.41344247');" /><input type="button"  id="btnstop_5ffce3cd6860f4.41344247" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd6860f4.41344247','','80','false');show_hide('stop','5ffce3cd6860f4.41344247');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>day</td>
+<td>duō</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd686378.61543688" class="myButton_play" onClick="play_mp3('play','5ffce3cd686378.61543688','http://traffic.libsyn.com/ilovelearningchinese/10_d_2.mp3','80','false');show_hide('play','5ffce3cd686378.61543688');" /><input type="button"  id="btnstop_5ffce3cd686378.61543688" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd686378.61543688','','80','false');show_hide('stop','5ffce3cd686378.61543688');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>dāng</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd6865d5.46034071" class="myButton_play" onClick="play_mp3('play','5ffce3cd6865d5.46034071','http://traffic.libsyn.com/ilovelearningchinese/10_d_3.mp3','80','false');show_hide('play','5ffce3cd6865d5.46034071');" /><input type="button"  id="btnstop_5ffce3cd6865d5.46034071" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd6865d5.46034071','','80','false');show_hide('stop','5ffce3cd6865d5.46034071');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+</tr>
+<tr>
+<td><b>t</b></td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd686833.41579275" class="myButton_play" onClick="play_mp3('play','5ffce3cd686833.41579275','http://traffic.libsyn.com/ilovelearningchinese/11_t_1.mp3','80','false');show_hide('play','5ffce3cd686833.41579275');" /><input type="button"  id="btnstop_5ffce3cd686833.41579275" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd686833.41579275','','80','false');show_hide('stop','5ffce3cd686833.41579275');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>take</td>
+<td>tā</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd686a95.37066503" class="myButton_play" onClick="play_mp3('play','5ffce3cd686a95.37066503','http://traffic.libsyn.com/ilovelearningchinese/11_t_2.mp3','80','false');show_hide('play','5ffce3cd686a95.37066503');" /><input type="button"  id="btnstop_5ffce3cd686a95.37066503" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd686a95.37066503','','80','false');show_hide('stop','5ffce3cd686a95.37066503');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>tiān</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd686cf8.20971979" class="myButton_play" onClick="play_mp3('play','5ffce3cd686cf8.20971979','http://traffic.libsyn.com/ilovelearningchinese/11_t_3.mp3','80','false');show_hide('play','5ffce3cd686cf8.20971979');" /><input type="button"  id="btnstop_5ffce3cd686cf8.20971979" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd686cf8.20971979','','80','false');show_hide('stop','5ffce3cd686cf8.20971979');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+</tr>
+<tr>
+<td><b>n</b></td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd686f54.56408354" class="myButton_play" onClick="play_mp3('play','5ffce3cd686f54.56408354','http://traffic.libsyn.com/ilovelearningchinese/12_n_1.mp3','80','false');show_hide('play','5ffce3cd686f54.56408354');" /><input type="button"  id="btnstop_5ffce3cd686f54.56408354" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd686f54.56408354','','80','false');show_hide('stop','5ffce3cd686f54.56408354');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>nine</td>
+<td>nǐ</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd6871b9.59443655" class="myButton_play" onClick="play_mp3('play','5ffce3cd6871b9.59443655','http://traffic.libsyn.com/ilovelearningchinese/12_n_2.mp3','80','false');show_hide('play','5ffce3cd6871b9.59443655');" /><input type="button"  id="btnstop_5ffce3cd6871b9.59443655" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd6871b9.59443655','','80','false');show_hide('stop','5ffce3cd6871b9.59443655');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>nà</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd687408.75270921" class="myButton_play" onClick="play_mp3('play','5ffce3cd687408.75270921','http://traffic.libsyn.com/ilovelearningchinese/12_n_3.mp3','80','false');show_hide('play','5ffce3cd687408.75270921');" /><input type="button"  id="btnstop_5ffce3cd687408.75270921" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd687408.75270921','','80','false');show_hide('stop','5ffce3cd687408.75270921');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+</tr>
+<tr>
+<td><b>l</b></td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd687633.32625505" class="myButton_play" onClick="play_mp3('play','5ffce3cd687633.32625505','http://traffic.libsyn.com/ilovelearningchinese/13_l_1.mp3','80','false');show_hide('play','5ffce3cd687633.32625505');" /><input type="button"  id="btnstop_5ffce3cd687633.32625505" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd687633.32625505','','80','false');show_hide('stop','5ffce3cd687633.32625505');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>lay</td>
+<td>lán</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd687838.14353251" class="myButton_play" onClick="play_mp3('play','5ffce3cd687838.14353251','http://traffic.libsyn.com/ilovelearningchinese/13_l_2.mp3','80','false');show_hide('play','5ffce3cd687838.14353251');" /><input type="button"  id="btnstop_5ffce3cd687838.14353251" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd687838.14353251','','80','false');show_hide('stop','5ffce3cd687838.14353251');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>lǎo</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd687a32.29762376" class="myButton_play" onClick="play_mp3('play','5ffce3cd687a32.29762376','http://traffic.libsyn.com/ilovelearningchinese/13_l_3.mp3','80','false');show_hide('play','5ffce3cd687a32.29762376');" /><input type="button"  id="btnstop_5ffce3cd687a32.29762376" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd687a32.29762376','','80','false');show_hide('stop','5ffce3cd687a32.29762376');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+</tr>
+<tr>
+<td><b>g</b></td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd687cc9.73504353" class="myButton_play" onClick="play_mp3('play','5ffce3cd687cc9.73504353','http://traffic.libsyn.com/ilovelearningchinese/14_g_1.mp3','80','false');show_hide('play','5ffce3cd687cc9.73504353');" /><input type="button"  id="btnstop_5ffce3cd687cc9.73504353" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd687cc9.73504353','','80','false');show_hide('stop','5ffce3cd687cc9.73504353');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>grey</td>
+<td>gāi</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd687f65.89710538" class="myButton_play" onClick="play_mp3('play','5ffce3cd687f65.89710538','http://traffic.libsyn.com/ilovelearningchinese/14_g_2.mp3','80','false');show_hide('play','5ffce3cd687f65.89710538');" /><input type="button"  id="btnstop_5ffce3cd687f65.89710538" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd687f65.89710538','','80','false');show_hide('stop','5ffce3cd687f65.89710538');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>gōng</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd688213.02075377" class="myButton_play" onClick="play_mp3('play','5ffce3cd688213.02075377','http://traffic.libsyn.com/ilovelearningchinese/14_g_3.mp3','80','false');show_hide('play','5ffce3cd688213.02075377');" /><input type="button"  id="btnstop_5ffce3cd688213.02075377" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd688213.02075377','','80','false');show_hide('stop','5ffce3cd688213.02075377');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+</tr>
+<tr>
+<td><b>k</b></td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd6884b2.87530034" class="myButton_play" onClick="play_mp3('play','5ffce3cd6884b2.87530034','http://traffic.libsyn.com/ilovelearningchinese/15_k_1.mp3','80','false');show_hide('play','5ffce3cd6884b2.87530034');" /><input type="button"  id="btnstop_5ffce3cd6884b2.87530034" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd6884b2.87530034','','80','false');show_hide('stop','5ffce3cd6884b2.87530034');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>kay</td>
+<td>kē</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd688730.91799405" class="myButton_play" onClick="play_mp3('play','5ffce3cd688730.91799405','http://traffic.libsyn.com/ilovelearningchinese/15_k_2.mp3','80','false');show_hide('play','5ffce3cd688730.91799405');" /><input type="button"  id="btnstop_5ffce3cd688730.91799405" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd688730.91799405','','80','false');show_hide('stop','5ffce3cd688730.91799405');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>kaò</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd6889c0.16442161" class="myButton_play" onClick="play_mp3('play','5ffce3cd6889c0.16442161','http://traffic.libsyn.com/ilovelearningchinese/15_k_3.mp3','80','false');show_hide('play','5ffce3cd6889c0.16442161');" /><input type="button"  id="btnstop_5ffce3cd6889c0.16442161" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd6889c0.16442161','','80','false');show_hide('stop','5ffce3cd6889c0.16442161');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+</tr>
+<tr>
+<td><b>h</b></td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd688c42.78938878" class="myButton_play" onClick="play_mp3('play','5ffce3cd688c42.78938878','http://traffic.libsyn.com/ilovelearningchinese/16_h_1.mp3','80','false');show_hide('play','5ffce3cd688c42.78938878');" /><input type="button"  id="btnstop_5ffce3cd688c42.78938878" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd688c42.78938878','','80','false');show_hide('stop','5ffce3cd688c42.78938878');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>hay</td>
+<td> hái</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd688f21.72145684" class="myButton_play" onClick="play_mp3('play','5ffce3cd688f21.72145684','http://traffic.libsyn.com/ilovelearningchinese/16_h_2.mp3','80','false');show_hide('play','5ffce3cd688f21.72145684');" /><input type="button"  id="btnstop_5ffce3cd688f21.72145684" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd688f21.72145684','','80','false');show_hide('stop','5ffce3cd688f21.72145684');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td> Huáng Hé</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd689197.06405093" class="myButton_play" onClick="play_mp3('play','5ffce3cd689197.06405093','http://traffic.libsyn.com/ilovelearningchinese/16_h_3.mp3','80','false');show_hide('play','5ffce3cd689197.06405093');" /><input type="button"  id="btnstop_5ffce3cd689197.06405093" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd689197.06405093','','80','false');show_hide('stop','5ffce3cd689197.06405093');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+</tr>
+<tr>
+<td><b>j</b></td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd6893f6.17493999" class="myButton_play" onClick="play_mp3('play','5ffce3cd6893f6.17493999','http://traffic.libsyn.com/ilovelearningchinese/17_j_1.mp3','80','false');show_hide('play','5ffce3cd6893f6.17493999');" /><input type="button"  id="btnstop_5ffce3cd6893f6.17493999" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd6893f6.17493999','','80','false');show_hide('stop','5ffce3cd6893f6.17493999');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>jeep</td>
+<td> jiē</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd689788.59041875" class="myButton_play" onClick="play_mp3('play','5ffce3cd689788.59041875','http://traffic.libsyn.com/ilovelearningchinese/17_j_2.mp3','80','false');show_hide('play','5ffce3cd689788.59041875');" /><input type="button"  id="btnstop_5ffce3cd689788.59041875" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd689788.59041875','','80','false');show_hide('stop','5ffce3cd689788.59041875');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>jiā</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd6899d6.80825119" class="myButton_play" onClick="play_mp3('play','5ffce3cd6899d6.80825119','http://traffic.libsyn.com/ilovelearningchinese/17_j_3.mp3','80','false');show_hide('play','5ffce3cd6899d6.80825119');" /><input type="button"  id="btnstop_5ffce3cd6899d6.80825119" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd6899d6.80825119','','80','false');show_hide('stop','5ffce3cd6899d6.80825119');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+</tr>
+<tr>
+<td><b>q</b></td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd689c06.22204041" class="myButton_play" onClick="play_mp3('play','5ffce3cd689c06.22204041','http://traffic.libsyn.com/ilovelearningchinese/18_q_1.mp3','80','false');show_hide('play','5ffce3cd689c06.22204041');" /><input type="button"  id="btnstop_5ffce3cd689c06.22204041" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd689c06.22204041','','80','false');show_hide('stop','5ffce3cd689c06.22204041');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>cheer</td>
+<td> qián</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd689f32.40690061" class="myButton_play" onClick="play_mp3('play','5ffce3cd689f32.40690061','http://traffic.libsyn.com/ilovelearningchinese/19_q_2.mp3','80','false');show_hide('play','5ffce3cd689f32.40690061');" /><input type="button"  id="btnstop_5ffce3cd689f32.40690061" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd689f32.40690061','','80','false');show_hide('stop','5ffce3cd689f32.40690061');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td> qiē</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd68a178.77021982" class="myButton_play" onClick="play_mp3('play','5ffce3cd68a178.77021982','http://traffic.libsyn.com/ilovelearningchinese/19_q_3.mp3','80','false');show_hide('play','5ffce3cd68a178.77021982');" /><input type="button"  id="btnstop_5ffce3cd68a178.77021982" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd68a178.77021982','','80','false');show_hide('stop','5ffce3cd68a178.77021982');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+</tr>
+<tr>
+<td><b>x</b></td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd68a3b7.80448248" class="myButton_play" onClick="play_mp3('play','5ffce3cd68a3b7.80448248','http://traffic.libsyn.com/ilovelearningchinese/20_x_1.mp3','80','false');show_hide('play','5ffce3cd68a3b7.80448248');" /><input type="button"  id="btnstop_5ffce3cd68a3b7.80448248" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd68a3b7.80448248','','80','false');show_hide('stop','5ffce3cd68a3b7.80448248');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>she</td>
+<td> xiān</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd68a597.39766513" class="myButton_play" onClick="play_mp3('play','5ffce3cd68a597.39766513','http://traffic.libsyn.com/ilovelearningchinese/20_x_2.mp3','80','false');show_hide('play','5ffce3cd68a597.39766513');" /><input type="button"  id="btnstop_5ffce3cd68a597.39766513" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd68a597.39766513','','80','false');show_hide('stop','5ffce3cd68a597.39766513');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>xièxie</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd68a756.28573385" class="myButton_play" onClick="play_mp3('play','5ffce3cd68a756.28573385','http://traffic.libsyn.com/ilovelearningchinese/20_x_3.mp3','80','false');show_hide('play','5ffce3cd68a756.28573385');" /><input type="button"  id="btnstop_5ffce3cd68a756.28573385" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd68a756.28573385','','80','false');show_hide('stop','5ffce3cd68a756.28573385');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+</tr>
+<tr>
+<td><b>zh</b></td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd68a945.62195633" class="myButton_play" onClick="play_mp3('play','5ffce3cd68a945.62195633','http://traffic.libsyn.com/ilovelearningchinese/21_zh_1.mp3','80','false');show_hide('play','5ffce3cd68a945.62195633');" /><input type="button"  id="btnstop_5ffce3cd68a945.62195633" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd68a945.62195633','','80','false');show_hide('stop','5ffce3cd68a945.62195633');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>junk</td>
+<td> zhaō</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd68ab30.40968304" class="myButton_play" onClick="play_mp3('play','5ffce3cd68ab30.40968304','http://traffic.libsyn.com/ilovelearningchinese/21_zh_2.mp3','80','false');show_hide('play','5ffce3cd68ab30.40968304');" /><input type="button"  id="btnstop_5ffce3cd68ab30.40968304" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd68ab30.40968304','','80','false');show_hide('stop','5ffce3cd68ab30.40968304');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td> zhěng</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd68ad10.68975290" class="myButton_play" onClick="play_mp3('play','5ffce3cd68ad10.68975290','http://traffic.libsyn.com/ilovelearningchinese/21_zh_3.mp3','80','false');show_hide('play','5ffce3cd68ad10.68975290');" /><input type="button"  id="btnstop_5ffce3cd68ad10.68975290" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd68ad10.68975290','','80','false');show_hide('stop','5ffce3cd68ad10.68975290');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+</tr>
+<tr>
+<td><b>ch</b></td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd68af42.29297171" class="myButton_play" onClick="play_mp3('play','5ffce3cd68af42.29297171','http://traffic.libsyn.com/ilovelearningchinese/22_ch_1.mp3','80','false');show_hide('play','5ffce3cd68af42.29297171');" /><input type="button"  id="btnstop_5ffce3cd68af42.29297171" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd68af42.29297171','','80','false');show_hide('stop','5ffce3cd68af42.29297171');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>church</td>
+<td> chángcháng</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd68b157.09203487" class="myButton_play" onClick="play_mp3('play','5ffce3cd68b157.09203487','http://traffic.libsyn.com/ilovelearningchinese/22_ch_2.mp3','80','false');show_hide('play','5ffce3cd68b157.09203487');" /><input type="button"  id="btnstop_5ffce3cd68b157.09203487" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd68b157.09203487','','80','false');show_hide('stop','5ffce3cd68b157.09203487');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td> chéng</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd68b357.91570825" class="myButton_play" onClick="play_mp3('play','5ffce3cd68b357.91570825','http://traffic.libsyn.com/ilovelearningchinese/22_ch_3.mp3','80','false');show_hide('play','5ffce3cd68b357.91570825');" /><input type="button"  id="btnstop_5ffce3cd68b357.91570825" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd68b357.91570825','','80','false');show_hide('stop','5ffce3cd68b357.91570825');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+</tr>
+<tr>
+<td><b>sh</b></td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd68b548.37788787" class="myButton_play" onClick="play_mp3('play','5ffce3cd68b548.37788787','http://traffic.libsyn.com/ilovelearningchinese/23_sh_1.mp3','80','false');show_hide('play','5ffce3cd68b548.37788787');" /><input type="button"  id="btnstop_5ffce3cd68b548.37788787" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd68b548.37788787','','80','false');show_hide('stop','5ffce3cd68b548.37788787');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>shirt</td>
+<td> shì</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd68b720.58885862" class="myButton_play" onClick="play_mp3('play','5ffce3cd68b720.58885862','http://traffic.libsyn.com/ilovelearningchinese/23_sh_2.mp3','80','false');show_hide('play','5ffce3cd68b720.58885862');" /><input type="button"  id="btnstop_5ffce3cd68b720.58885862" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd68b720.58885862','','80','false');show_hide('stop','5ffce3cd68b720.58885862');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td> shū</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd68b905.08233006" class="myButton_play" onClick="play_mp3('play','5ffce3cd68b905.08233006','http://traffic.libsyn.com/ilovelearningchinese/23_sh_3.mp3','80','false');show_hide('play','5ffce3cd68b905.08233006');" /><input type="button"  id="btnstop_5ffce3cd68b905.08233006" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd68b905.08233006','','80','false');show_hide('stop','5ffce3cd68b905.08233006');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+</tr>
+<tr>
+<td><b>r</b></td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd68bad5.02268516" class="myButton_play" onClick="play_mp3('play','5ffce3cd68bad5.02268516','http://traffic.libsyn.com/ilovelearningchinese/24_r_1.mp3','80','false');show_hide('play','5ffce3cd68bad5.02268516');" /><input type="button"  id="btnstop_5ffce3cd68bad5.02268516" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd68bad5.02268516','','80','false');show_hide('stop','5ffce3cd68bad5.02268516');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>leisure</td>
+<td> rén</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd68bca6.52814561" class="myButton_play" onClick="play_mp3('play','5ffce3cd68bca6.52814561','http://traffic.libsyn.com/ilovelearningchinese/24_r_2.mp3','80','false');show_hide('play','5ffce3cd68bca6.52814561');" /><input type="button"  id="btnstop_5ffce3cd68bca6.52814561" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd68bca6.52814561','','80','false');show_hide('stop','5ffce3cd68bca6.52814561');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td> ròu</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd68be80.44444474" class="myButton_play" onClick="play_mp3('play','5ffce3cd68be80.44444474','http://traffic.libsyn.com/ilovelearningchinese/24_r_3.mp3','80','false');show_hide('play','5ffce3cd68be80.44444474');" /><input type="button"  id="btnstop_5ffce3cd68be80.44444474" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd68be80.44444474','','80','false');show_hide('stop','5ffce3cd68be80.44444474');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+</tr>
+<tr>
+<td><b>z</b></td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd68c055.82734548" class="myButton_play" onClick="play_mp3('play','5ffce3cd68c055.82734548','http://traffic.libsyn.com/ilovelearningchinese/25_z_1.mp3','80','false');show_hide('play','5ffce3cd68c055.82734548');" /><input type="button"  id="btnstop_5ffce3cd68c055.82734548" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd68c055.82734548','','80','false');show_hide('stop','5ffce3cd68c055.82734548');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td> reads</td>
+<td>zaì</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd68c216.34675101" class="myButton_play" onClick="play_mp3('play','5ffce3cd68c216.34675101','http://traffic.libsyn.com/ilovelearningchinese/25_z_2.mp3','80','false');show_hide('play','5ffce3cd68c216.34675101');" /><input type="button"  id="btnstop_5ffce3cd68c216.34675101" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd68c216.34675101','','80','false');show_hide('stop','5ffce3cd68c216.34675101');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>zǎn</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd68c3e9.05869420" class="myButton_play" onClick="play_mp3('play','5ffce3cd68c3e9.05869420','http://traffic.libsyn.com/ilovelearningchinese/25_z_3.mp3','80','false');show_hide('play','5ffce3cd68c3e9.05869420');" /><input type="button"  id="btnstop_5ffce3cd68c3e9.05869420" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd68c3e9.05869420','','80','false');show_hide('stop','5ffce3cd68c3e9.05869420');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+</tr>
+<tr>
+<td><b>c</b></td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd68c5b1.55916005" class="myButton_play" onClick="play_mp3('play','5ffce3cd68c5b1.55916005','http://traffic.libsyn.com/ilovelearningchinese/26_c_1.mp3','80','false');show_hide('play','5ffce3cd68c5b1.55916005');" /><input type="button"  id="btnstop_5ffce3cd68c5b1.55916005" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd68c5b1.55916005','','80','false');show_hide('stop','5ffce3cd68c5b1.55916005');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td> hats</td>
+<td>cǎo</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd68c778.73290322" class="myButton_play" onClick="play_mp3('play','5ffce3cd68c778.73290322','http://traffic.libsyn.com/ilovelearningchinese/26_c_2.mp3','80','false');show_hide('play','5ffce3cd68c778.73290322');" /><input type="button"  id="btnstop_5ffce3cd68c778.73290322" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd68c778.73290322','','80','false');show_hide('stop','5ffce3cd68c778.73290322');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>cí</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd68c932.39295647" class="myButton_play" onClick="play_mp3('play','5ffce3cd68c932.39295647','http://traffic.libsyn.com/ilovelearningchinese/26_c_3.mp3','80','false');show_hide('play','5ffce3cd68c932.39295647');" /><input type="button"  id="btnstop_5ffce3cd68c932.39295647" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd68c932.39295647','','80','false');show_hide('stop','5ffce3cd68c932.39295647');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+</tr>
+<tr>
+<td><b>s</b></td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd68caf0.03289418" class="myButton_play" onClick="play_mp3('play','5ffce3cd68caf0.03289418','http://traffic.libsyn.com/ilovelearningchinese/27_s_1.mp3','80','false');show_hide('play','5ffce3cd68caf0.03289418');" /><input type="button"  id="btnstop_5ffce3cd68caf0.03289418" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd68caf0.03289418','','80','false');show_hide('stop','5ffce3cd68caf0.03289418');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td> say</td>
+<td>sān</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd68ccb1.77787386" class="myButton_play" onClick="play_mp3('play','5ffce3cd68ccb1.77787386','http://traffic.libsyn.com/ilovelearningchinese/27_s_2.mp3','80','false');show_hide('play','5ffce3cd68ccb1.77787386');" /><input type="button"  id="btnstop_5ffce3cd68ccb1.77787386" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd68ccb1.77787386','','80','false');show_hide('stop','5ffce3cd68ccb1.77787386');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>sòng</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd68ce65.02197977" class="myButton_play" onClick="play_mp3('play','5ffce3cd68ce65.02197977','http://traffic.libsyn.com/ilovelearningchinese/27_s_3.mp3','80','false');show_hide('play','5ffce3cd68ce65.02197977');" /><input type="button"  id="btnstop_5ffce3cd68ce65.02197977" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd68ce65.02197977','','80','false');show_hide('stop','5ffce3cd68ce65.02197977');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+</tr>
+<tr>
+<td><b>y</b></td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd68d028.68179443" class="myButton_play" onClick="play_mp3('play','5ffce3cd68d028.68179443','http://traffic.libsyn.com/ilovelearningchinese/28_y_1.mp3','80','false');show_hide('play','5ffce3cd68d028.68179443');" /><input type="button"  id="btnstop_5ffce3cd68d028.68179443" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd68d028.68179443','','80','false');show_hide('stop','5ffce3cd68d028.68179443');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td> yea</td>
+<td>yǎn</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd68d1d8.25572067" class="myButton_play" onClick="play_mp3('play','5ffce3cd68d1d8.25572067','http://traffic.libsyn.com/ilovelearningchinese/28_y_2.mp3','80','false');show_hide('play','5ffce3cd68d1d8.25572067');" /><input type="button"  id="btnstop_5ffce3cd68d1d8.25572067" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd68d1d8.25572067','','80','false');show_hide('stop','5ffce3cd68d1d8.25572067');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>yéye</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd68d383.93116865" class="myButton_play" onClick="play_mp3('play','5ffce3cd68d383.93116865','http://traffic.libsyn.com/ilovelearningchinese/28_y_3.mp3','80','false');show_hide('play','5ffce3cd68d383.93116865');" /><input type="button"  id="btnstop_5ffce3cd68d383.93116865" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd68d383.93116865','','80','false');show_hide('stop','5ffce3cd68d383.93116865');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+</tr>
+<tr>
+<td><b>w</b></td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd68d619.71333513" class="myButton_play" onClick="play_mp3('play','5ffce3cd68d619.71333513','http://traffic.libsyn.com/ilovelearningchinese/29_w_1.mp3','80','false');show_hide('play','5ffce3cd68d619.71333513');" /><input type="button"  id="btnstop_5ffce3cd68d619.71333513" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd68d619.71333513','','80','false');show_hide('stop','5ffce3cd68d619.71333513');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td> way</td>
+<td>wèn</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd68d7d5.69096782" class="myButton_play" onClick="play_mp3('play','5ffce3cd68d7d5.69096782','http://traffic.libsyn.com/ilovelearningchinese/29_w_2.mp3','80','false');show_hide('play','5ffce3cd68d7d5.69096782');" /><input type="button"  id="btnstop_5ffce3cd68d7d5.69096782" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd68d7d5.69096782','','80','false');show_hide('stop','5ffce3cd68d7d5.69096782');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td> wǔ</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd68d999.79625642" class="myButton_play" onClick="play_mp3('play','5ffce3cd68d999.79625642','http://traffic.libsyn.com/ilovelearningchinese/29_w_3.mp3','80','false');show_hide('play','5ffce3cd68d999.79625642');" /><input type="button"  id="btnstop_5ffce3cd68d999.79625642" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd68d999.79625642','','80','false');show_hide('stop','5ffce3cd68d999.79625642');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+</tr>
+<tr>
+<td><b>a</b></td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd68dc96.53237210" class="myButton_play" onClick="play_mp3('play','5ffce3cd68dc96.53237210','http://traffic.libsyn.com/ilovelearningchinese/30_a_1.mp3','80','false');show_hide('play','5ffce3cd68dc96.53237210');" /><input type="button"  id="btnstop_5ffce3cd68dc96.53237210" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd68dc96.53237210','','80','false');show_hide('stop','5ffce3cd68dc96.53237210');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>father</td>
+<td>tā</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd68de44.10755955" class="myButton_play" onClick="play_mp3('play','5ffce3cd68de44.10755955','http://traffic.libsyn.com/ilovelearningchinese/30_a_2.mp3','80','false');show_hide('play','5ffce3cd68de44.10755955');" /><input type="button"  id="btnstop_5ffce3cd68de44.10755955" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd68de44.10755955','','80','false');show_hide('stop','5ffce3cd68de44.10755955');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>mǎ</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd68dfe7.24457012" class="myButton_play" onClick="play_mp3('play','5ffce3cd68dfe7.24457012','http://traffic.libsyn.com/ilovelearningchinese/30_a_3.mp3','80','false');show_hide('play','5ffce3cd68dfe7.24457012');" /><input type="button"  id="btnstop_5ffce3cd68dfe7.24457012" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd68dfe7.24457012','','80','false');show_hide('stop','5ffce3cd68dfe7.24457012');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+</tr>
+<tr>
+<td><b>o</b></td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd68e172.51392435" class="myButton_play" onClick="play_mp3('play','5ffce3cd68e172.51392435','http://traffic.libsyn.com/ilovelearningchinese/31_o_1.mp3','80','false');show_hide('play','5ffce3cd68e172.51392435');" /><input type="button"  id="btnstop_5ffce3cd68e172.51392435" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd68e172.51392435','','80','false');show_hide('stop','5ffce3cd68e172.51392435');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>poor</td>
+<td>mò</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd68e302.92216350" class="myButton_play" onClick="play_mp3('play','5ffce3cd68e302.92216350','http://traffic.libsyn.com/ilovelearningchinese/31_o_2.mp3','80','false');show_hide('play','5ffce3cd68e302.92216350');" /><input type="button"  id="btnstop_5ffce3cd68e302.92216350" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd68e302.92216350','','80','false');show_hide('stop','5ffce3cd68e302.92216350');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>pō</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd68e486.76137350" class="myButton_play" onClick="play_mp3('play','5ffce3cd68e486.76137350','http://traffic.libsyn.com/ilovelearningchinese/31_o_3.mp3','80','false');show_hide('play','5ffce3cd68e486.76137350');" /><input type="button"  id="btnstop_5ffce3cd68e486.76137350" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd68e486.76137350','','80','false');show_hide('stop','5ffce3cd68e486.76137350');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+</tr>
+<tr>
+<td><b>e</b></td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd68e617.27366227" class="myButton_play" onClick="play_mp3('play','5ffce3cd68e617.27366227','http://traffic.libsyn.com/ilovelearningchinese/32_e_1.mp3','80','false');show_hide('play','5ffce3cd68e617.27366227');" /><input type="button"  id="btnstop_5ffce3cd68e617.27366227" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd68e617.27366227','','80','false');show_hide('stop','5ffce3cd68e617.27366227');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>British &#8220;her&#8221;</td>
+<td>zhè</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd68e7a3.03651131" class="myButton_play" onClick="play_mp3('play','5ffce3cd68e7a3.03651131','http://traffic.libsyn.com/ilovelearningchinese/32_e_2.mp3','80','false');show_hide('play','5ffce3cd68e7a3.03651131');" /><input type="button"  id="btnstop_5ffce3cd68e7a3.03651131" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd68e7a3.03651131','','80','false');show_hide('stop','5ffce3cd68e7a3.03651131');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>chē</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd68e928.78107393" class="myButton_play" onClick="play_mp3('play','5ffce3cd68e928.78107393','http://traffic.libsyn.com/ilovelearningchinese/32_e_3.mp3','80','false');show_hide('play','5ffce3cd68e928.78107393');" /><input type="button"  id="btnstop_5ffce3cd68e928.78107393" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd68e928.78107393','','80','false');show_hide('stop','5ffce3cd68e928.78107393');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+</tr>
+<tr>
+<td><b>i</b></td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd68eaa4.00057615" class="myButton_play" onClick="play_mp3('play','5ffce3cd68eaa4.00057615','http://traffic.libsyn.com/ilovelearningchinese/33_i_1.mp3','80','false');show_hide('play','5ffce3cd68eaa4.00057615');" /><input type="button"  id="btnstop_5ffce3cd68eaa4.00057615" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd68eaa4.00057615','','80','false');show_hide('stop','5ffce3cd68eaa4.00057615');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>see</td>
+<td>tǐ</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd68ec26.81513805" class="myButton_play" onClick="play_mp3('play','5ffce3cd68ec26.81513805','http://traffic.libsyn.com/ilovelearningchinese/33_i_2.mp3','80','false');show_hide('play','5ffce3cd68ec26.81513805');" /><input type="button"  id="btnstop_5ffce3cd68ec26.81513805" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd68ec26.81513805','','80','false');show_hide('stop','5ffce3cd68ec26.81513805');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>qī</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd68ed98.13784126" class="myButton_play" onClick="play_mp3('play','5ffce3cd68ed98.13784126','http://traffic.libsyn.com/ilovelearningchinese/33_i_3.mp3','80','false');show_hide('play','5ffce3cd68ed98.13784126');" /><input type="button"  id="btnstop_5ffce3cd68ed98.13784126" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd68ed98.13784126','','80','false');show_hide('stop','5ffce3cd68ed98.13784126');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+</tr>
+<tr>
+<td><b>u</b></td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd68ef01.36272495" class="myButton_play" onClick="play_mp3('play','5ffce3cd68ef01.36272495','http://traffic.libsyn.com/ilovelearningchinese/34_u_1.mp3','80','false');show_hide('play','5ffce3cd68ef01.36272495');" /><input type="button"  id="btnstop_5ffce3cd68ef01.36272495" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd68ef01.36272495','','80','false');show_hide('stop','5ffce3cd68ef01.36272495');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>rude</td>
+<td>lù</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd68f072.60216926" class="myButton_play" onClick="play_mp3('play','5ffce3cd68f072.60216926','http://traffic.libsyn.com/ilovelearningchinese/34_u_2.mp3','80','false');show_hide('play','5ffce3cd68f072.60216926');" /><input type="button"  id="btnstop_5ffce3cd68f072.60216926" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd68f072.60216926','','80','false');show_hide('stop','5ffce3cd68f072.60216926');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>zhú</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd68f1e1.31825861" class="myButton_play" onClick="play_mp3('play','5ffce3cd68f1e1.31825861','http://traffic.libsyn.com/ilovelearningchinese/34_u_3.mp3','80','false');show_hide('play','5ffce3cd68f1e1.31825861');" /><input type="button"  id="btnstop_5ffce3cd68f1e1.31825861" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd68f1e1.31825861','','80','false');show_hide('stop','5ffce3cd68f1e1.31825861');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+</tr>
+<tr>
+<td><b>ü</b></td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd68f356.30569847" class="myButton_play" onClick="play_mp3('play','5ffce3cd68f356.30569847','http://traffic.libsyn.com/ilovelearningchinese/35_uu_1.mp3','80','false');show_hide('play','5ffce3cd68f356.30569847');" /><input type="button"  id="btnstop_5ffce3cd68f356.30569847" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd68f356.30569847','','80','false');show_hide('stop','5ffce3cd68f356.30569847');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td></td>
+<td>lǜ</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd68f528.24301709" class="myButton_play" onClick="play_mp3('play','5ffce3cd68f528.24301709','http://traffic.libsyn.com/ilovelearningchinese/35_uu_2.mp3','80','false');show_hide('play','5ffce3cd68f528.24301709');" /><input type="button"  id="btnstop_5ffce3cd68f528.24301709" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd68f528.24301709','','80','false');show_hide('stop','5ffce3cd68f528.24301709');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>nǚ</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd68f740.11238761" class="myButton_play" onClick="play_mp3('play','5ffce3cd68f740.11238761','http://traffic.libsyn.com/ilovelearningchinese/35_uu_3.mp3','80','false');show_hide('play','5ffce3cd68f740.11238761');" /><input type="button"  id="btnstop_5ffce3cd68f740.11238761" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd68f740.11238761','','80','false');show_hide('stop','5ffce3cd68f740.11238761');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+</tr>
+<tr>
+<td><b>er</b></td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd68f955.51426071" class="myButton_play" onClick="play_mp3('play','5ffce3cd68f955.51426071','http://traffic.libsyn.com/ilovelearningchinese/36_er_1.mp3','80','false');show_hide('play','5ffce3cd68f955.51426071');" /><input type="button"  id="btnstop_5ffce3cd68f955.51426071" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd68f955.51426071','','80','false');show_hide('stop','5ffce3cd68f955.51426071');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>are</td>
+<td>èr</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd68fb69.31972055" class="myButton_play" onClick="play_mp3('play','5ffce3cd68fb69.31972055','http://traffic.libsyn.com/ilovelearningchinese/36_er_2.mp3','80','false');show_hide('play','5ffce3cd68fb69.31972055');" /><input type="button"  id="btnstop_5ffce3cd68fb69.31972055" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd68fb69.31972055','','80','false');show_hide('stop','5ffce3cd68fb69.31972055');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>ér</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd68fd68.97889545" class="myButton_play" onClick="play_mp3('play','5ffce3cd68fd68.97889545','http://traffic.libsyn.com/ilovelearningchinese/36_er_3.mp3','80','false');show_hide('play','5ffce3cd68fd68.97889545');" /><input type="button"  id="btnstop_5ffce3cd68fd68.97889545" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd68fd68.97889545','','80','false');show_hide('stop','5ffce3cd68fd68.97889545');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+</tr>
+<tr>
+<td><b>ai</b></td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd68ff60.12137576" class="myButton_play" onClick="play_mp3('play','5ffce3cd68ff60.12137576','http://traffic.libsyn.com/ilovelearningchinese/37_ai_1.mp3','80','false');show_hide('play','5ffce3cd68ff60.12137576');" /><input type="button"  id="btnstop_5ffce3cd68ff60.12137576" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd68ff60.12137576','','80','false');show_hide('stop','5ffce3cd68ff60.12137576');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>eye</td>
+<td>hái</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd690169.50008942" class="myButton_play" onClick="play_mp3('play','5ffce3cd690169.50008942','http://traffic.libsyn.com/ilovelearningchinese/37_ai_2.mp3','80','false');show_hide('play','5ffce3cd690169.50008942');" /><input type="button"  id="btnstop_5ffce3cd690169.50008942" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd690169.50008942','','80','false');show_hide('stop','5ffce3cd690169.50008942');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>baǐ</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd690368.86928654" class="myButton_play" onClick="play_mp3('play','5ffce3cd690368.86928654','http://traffic.libsyn.com/ilovelearningchinese/37_ai_3.mp3','80','false');show_hide('play','5ffce3cd690368.86928654');" /><input type="button"  id="btnstop_5ffce3cd690368.86928654" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd690368.86928654','','80','false');show_hide('stop','5ffce3cd690368.86928654');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+</tr>
+<tr>
+<td><b>ei</b></td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd690559.10124398" class="myButton_play" onClick="play_mp3('play','5ffce3cd690559.10124398','http://traffic.libsyn.com/ilovelearningchinese/38_ei_1.mp3','80','false');show_hide('play','5ffce3cd690559.10124398');" /><input type="button"  id="btnstop_5ffce3cd690559.10124398" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd690559.10124398','','80','false');show_hide('stop','5ffce3cd690559.10124398');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>eight</td>
+<td>méi</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd690751.25900919" class="myButton_play" onClick="play_mp3('play','5ffce3cd690751.25900919','http://traffic.libsyn.com/ilovelearningchinese/38_ei_2.mp3','80','false');show_hide('play','5ffce3cd690751.25900919');" /><input type="button"  id="btnstop_5ffce3cd690751.25900919" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd690751.25900919','','80','false');show_hide('stop','5ffce3cd690751.25900919');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>geǐ</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd6908b1.82491617" class="myButton_play" onClick="play_mp3('play','5ffce3cd6908b1.82491617','http://traffic.libsyn.com/ilovelearningchinese/38_ei_3.mp3','80','false');show_hide('play','5ffce3cd6908b1.82491617');" /><input type="button"  id="btnstop_5ffce3cd6908b1.82491617" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd6908b1.82491617','','80','false');show_hide('stop','5ffce3cd6908b1.82491617');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+</tr>
+<tr>
+<td><b>ao</b></td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd690a27.80349987" class="myButton_play" onClick="play_mp3('play','5ffce3cd690a27.80349987','http://traffic.libsyn.com/ilovelearningchinese/39_ao_1.mp3','80','false');show_hide('play','5ffce3cd690a27.80349987');" /><input type="button"  id="btnstop_5ffce3cd690a27.80349987" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd690a27.80349987','','80','false');show_hide('stop','5ffce3cd690a27.80349987');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>now</td>
+<td>hǎo</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd690c00.91882540" class="myButton_play" onClick="play_mp3('play','5ffce3cd690c00.91882540','http://traffic.libsyn.com/ilovelearningchinese/39_ao_2.mp3','80','false');show_hide('play','5ffce3cd690c00.91882540');" /><input type="button"  id="btnstop_5ffce3cd690c00.91882540" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd690c00.91882540','','80','false');show_hide('stop','5ffce3cd690c00.91882540');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>zaō</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd690d84.04193531" class="myButton_play" onClick="play_mp3('play','5ffce3cd690d84.04193531','http://traffic.libsyn.com/ilovelearningchinese/39_ao_3.mp3','80','false');show_hide('play','5ffce3cd690d84.04193531');" /><input type="button"  id="btnstop_5ffce3cd690d84.04193531" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd690d84.04193531','','80','false');show_hide('stop','5ffce3cd690d84.04193531');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+</tr>
+<tr>
+<td><b>ou</b></td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd690f19.23216771" class="myButton_play" onClick="play_mp3('play','5ffce3cd690f19.23216771','http://traffic.libsyn.com/ilovelearningchinese/40_ou_1.mp3','80','false');show_hide('play','5ffce3cd690f19.23216771');" /><input type="button"  id="btnstop_5ffce3cd690f19.23216771" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd690f19.23216771','','80','false');show_hide('stop','5ffce3cd690f19.23216771');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>oh</td>
+<td>doū</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd6910c8.35216390" class="myButton_play" onClick="play_mp3('play','5ffce3cd6910c8.35216390','http://traffic.libsyn.com/ilovelearningchinese/40_ou_2.mp3','80','false');show_hide('play','5ffce3cd6910c8.35216390');" /><input type="button"  id="btnstop_5ffce3cd6910c8.35216390" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd6910c8.35216390','','80','false');show_hide('stop','5ffce3cd6910c8.35216390');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>zhoū</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd691350.46770711" class="myButton_play" onClick="play_mp3('play','5ffce3cd691350.46770711','http://traffic.libsyn.com/ilovelearningchinese/40_ou_3.mp3','80','false');show_hide('play','5ffce3cd691350.46770711');" /><input type="button"  id="btnstop_5ffce3cd691350.46770711" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd691350.46770711','','80','false');show_hide('stop','5ffce3cd691350.46770711');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+</tr>
+<tr>
+<td><b>an</b></td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd6914f2.35693044" class="myButton_play" onClick="play_mp3('play','5ffce3cd6914f2.35693044','http://traffic.libsyn.com/ilovelearningchinese/41_an_1.mp3','80','false');show_hide('play','5ffce3cd6914f2.35693044');" /><input type="button"  id="btnstop_5ffce3cd6914f2.35693044" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd6914f2.35693044','','80','false');show_hide('stop','5ffce3cd6914f2.35693044');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>can</td>
+<td>sǎn</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd691648.49144369" class="myButton_play" onClick="play_mp3('play','5ffce3cd691648.49144369','http://traffic.libsyn.com/ilovelearningchinese/41_an_2.mp3','80','false');show_hide('play','5ffce3cd691648.49144369');" /><input type="button"  id="btnstop_5ffce3cd691648.49144369" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd691648.49144369','','80','false');show_hide('stop','5ffce3cd691648.49144369');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>wǎn</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd691788.77673722" class="myButton_play" onClick="play_mp3('play','5ffce3cd691788.77673722','http://traffic.libsyn.com/ilovelearningchinese/41_an_3.mp3','80','false');show_hide('play','5ffce3cd691788.77673722');" /><input type="button"  id="btnstop_5ffce3cd691788.77673722" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd691788.77673722','','80','false');show_hide('stop','5ffce3cd691788.77673722');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+</tr>
+<tr>
+<td><b>en</b></td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd6918d5.91851482" class="myButton_play" onClick="play_mp3('play','5ffce3cd6918d5.91851482','http://traffic.libsyn.com/ilovelearningchinese/42_en_1.mp3','80','false');show_hide('play','5ffce3cd6918d5.91851482');" /><input type="button"  id="btnstop_5ffce3cd6918d5.91851482" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd6918d5.91851482','','80','false');show_hide('stop','5ffce3cd6918d5.91851482');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>lend</td>
+<td>wén</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd691b86.96119069" class="myButton_play" onClick="play_mp3('play','5ffce3cd691b86.96119069','http://traffic.libsyn.com/ilovelearningchinese/42_en_2.mp3','80','false');show_hide('play','5ffce3cd691b86.96119069');" /><input type="button"  id="btnstop_5ffce3cd691b86.96119069" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd691b86.96119069','','80','false');show_hide('stop','5ffce3cd691b86.96119069');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>fěn</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd691ce5.84541529" class="myButton_play" onClick="play_mp3('play','5ffce3cd691ce5.84541529','http://traffic.libsyn.com/ilovelearningchinese/42_en_3.mp3','80','false');show_hide('play','5ffce3cd691ce5.84541529');" /><input type="button"  id="btnstop_5ffce3cd691ce5.84541529" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd691ce5.84541529','','80','false');show_hide('stop','5ffce3cd691ce5.84541529');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+</tr>
+<tr>
+<td><b>ang</b></td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd691e20.46951752" class="myButton_play" onClick="play_mp3('play','5ffce3cd691e20.46951752','http://traffic.libsyn.com/ilovelearningchinese/43_ang_1.mp3','80','false');show_hide('play','5ffce3cd691e20.46951752');" /><input type="button"  id="btnstop_5ffce3cd691e20.46951752" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd691e20.46951752','','80','false');show_hide('stop','5ffce3cd691e20.46951752');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>long</td>
+<td>wàng</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd691f73.40196961" class="myButton_play" onClick="play_mp3('play','5ffce3cd691f73.40196961','http://traffic.libsyn.com/ilovelearningchinese/43_ang_2.mp3','80','false');show_hide('play','5ffce3cd691f73.40196961');" /><input type="button"  id="btnstop_5ffce3cd691f73.40196961" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd691f73.40196961','','80','false');show_hide('stop','5ffce3cd691f73.40196961');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>tāng</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd6920b1.45169849" class="myButton_play" onClick="play_mp3('play','5ffce3cd6920b1.45169849','http://traffic.libsyn.com/ilovelearningchinese/43_ang_3.mp3','80','false');show_hide('play','5ffce3cd6920b1.45169849');" /><input type="button"  id="btnstop_5ffce3cd6920b1.45169849" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd6920b1.45169849','','80','false');show_hide('stop','5ffce3cd6920b1.45169849');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+</tr>
+<tr>
+<td><b>eng</b></td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd692240.75159418" class="myButton_play" onClick="play_mp3('play','5ffce3cd692240.75159418','http://traffic.libsyn.com/ilovelearningchinese/44_eng_1.mp3','80','false');show_hide('play','5ffce3cd692240.75159418');" /><input type="button"  id="btnstop_5ffce3cd692240.75159418" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd692240.75159418','','80','false');show_hide('stop','5ffce3cd692240.75159418');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>won&#8217;t</td>
+<td>zhèng</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd6923f1.57710245" class="myButton_play" onClick="play_mp3('play','5ffce3cd6923f1.57710245','http://traffic.libsyn.com/ilovelearningchinese/44_eng_2.mp3','80','false');show_hide('play','5ffce3cd6923f1.57710245');" /><input type="button"  id="btnstop_5ffce3cd6923f1.57710245" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd6923f1.57710245','','80','false');show_hide('stop','5ffce3cd6923f1.57710245');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>céng</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd692510.27881592" class="myButton_play" onClick="play_mp3('play','5ffce3cd692510.27881592','http://traffic.libsyn.com/ilovelearningchinese/44_eng_3.mp3','80','false');show_hide('play','5ffce3cd692510.27881592');" /><input type="button"  id="btnstop_5ffce3cd692510.27881592" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd692510.27881592','','80','false');show_hide('stop','5ffce3cd692510.27881592');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+</tr>
+<tr>
+<td><b>ong</b></td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd692650.84965009" class="myButton_play" onClick="play_mp3('play','5ffce3cd692650.84965009','http://traffic.libsyn.com/ilovelearningchinese/45_ong_1.mp3','80','false');show_hide('play','5ffce3cd692650.84965009');" /><input type="button"  id="btnstop_5ffce3cd692650.84965009" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd692650.84965009','','80','false');show_hide('stop','5ffce3cd692650.84965009');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>ding-dong</td>
+<td>zhōng</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd692799.50412402" class="myButton_play" onClick="play_mp3('play','5ffce3cd692799.50412402','http://traffic.libsyn.com/ilovelearningchinese/45_ong_2.mp3','80','false');show_hide('play','5ffce3cd692799.50412402');" /><input type="button"  id="btnstop_5ffce3cd692799.50412402" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd692799.50412402','','80','false');show_hide('stop','5ffce3cd692799.50412402');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>sòng</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd6928c0.28751591" class="myButton_play" onClick="play_mp3('play','5ffce3cd6928c0.28751591','http://traffic.libsyn.com/ilovelearningchinese/45_ong_3.mp3','80','false');show_hide('play','5ffce3cd6928c0.28751591');" /><input type="button"  id="btnstop_5ffce3cd6928c0.28751591" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd6928c0.28751591','','80','false');show_hide('stop','5ffce3cd6928c0.28751591');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+</tr>
+<tr>
+<td><b>ia</b></td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd6929f6.85842459" class="myButton_play" onClick="play_mp3('play','5ffce3cd6929f6.85842459','http://traffic.libsyn.com/ilovelearningchinese/46_ia_1.mp3','80','false');show_hide('play','5ffce3cd6929f6.85842459');" /><input type="button"  id="btnstop_5ffce3cd6929f6.85842459" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd6929f6.85842459','','80','false');show_hide('stop','5ffce3cd6929f6.85842459');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>Asia</td>
+<td>jiā</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd692b27.46907030" class="myButton_play" onClick="play_mp3('play','5ffce3cd692b27.46907030','http://traffic.libsyn.com/ilovelearningchinese/46_ia_2.mp3','80','false');show_hide('play','5ffce3cd692b27.46907030');" /><input type="button"  id="btnstop_5ffce3cd692b27.46907030" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd692b27.46907030','','80','false');show_hide('stop','5ffce3cd692b27.46907030');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>xià</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd692c50.66639669" class="myButton_play" onClick="play_mp3('play','5ffce3cd692c50.66639669','http://traffic.libsyn.com/ilovelearningchinese/46_ia_3.mp3','80','false');show_hide('play','5ffce3cd692c50.66639669');" /><input type="button"  id="btnstop_5ffce3cd692c50.66639669" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd692c50.66639669','','80','false');show_hide('stop','5ffce3cd692c50.66639669');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+</tr>
+<tr>
+<td><b>ie</b></td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd692d80.44604675" class="myButton_play" onClick="play_mp3('play','5ffce3cd692d80.44604675','http://traffic.libsyn.com/ilovelearningchinese/47_ie_1.mp3','80','false');show_hide('play','5ffce3cd692d80.44604675');" /><input type="button"  id="btnstop_5ffce3cd692d80.44604675" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd692d80.44604675','','80','false');show_hide('stop','5ffce3cd692d80.44604675');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>yes</td>
+<td>jiē</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd692ea8.81784040" class="myButton_play" onClick="play_mp3('play','5ffce3cd692ea8.81784040','http://traffic.libsyn.com/ilovelearningchinese/47_ie_2.mp3','80','false');show_hide('play','5ffce3cd692ea8.81784040');" /><input type="button"  id="btnstop_5ffce3cd692ea8.81784040" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd692ea8.81784040','','80','false');show_hide('stop','5ffce3cd692ea8.81784040');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>qiē</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd692fc7.50736763" class="myButton_play" onClick="play_mp3('play','5ffce3cd692fc7.50736763','http://traffic.libsyn.com/ilovelearningchinese/47_ie_3.mp3','80','false');show_hide('play','5ffce3cd692fc7.50736763');" /><input type="button"  id="btnstop_5ffce3cd692fc7.50736763" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd692fc7.50736763','','80','false');show_hide('stop','5ffce3cd692fc7.50736763');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+</tr>
+<tr>
+<td><b>iao</b></td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd6930e4.18029102" class="myButton_play" onClick="play_mp3('play','5ffce3cd6930e4.18029102','http://traffic.libsyn.com/ilovelearningchinese/48_iao_1.mp3','80','false');show_hide('play','5ffce3cd6930e4.18029102');" /><input type="button"  id="btnstop_5ffce3cd6930e4.18029102" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd6930e4.18029102','','80','false');show_hide('stop','5ffce3cd6930e4.18029102');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>yeowl</td>
+<td>qiǎo</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd693202.20435024" class="myButton_play" onClick="play_mp3('play','5ffce3cd693202.20435024','http://traffic.libsyn.com/ilovelearningchinese/48_iao_2.mp3','80','false');show_hide('play','5ffce3cd693202.20435024');" /><input type="button"  id="btnstop_5ffce3cd693202.20435024" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd693202.20435024','','80','false');show_hide('stop','5ffce3cd693202.20435024');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>jiāo</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd693321.72613478" class="myButton_play" onClick="play_mp3('play','5ffce3cd693321.72613478','http://traffic.libsyn.com/ilovelearningchinese/48_iao_3.mp3','80','false');show_hide('play','5ffce3cd693321.72613478');" /><input type="button"  id="btnstop_5ffce3cd693321.72613478" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd693321.72613478','','80','false');show_hide('stop','5ffce3cd693321.72613478');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+</tr>
+<tr>
+<td><b>iu</b></td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd693442.03582794" class="myButton_play" onClick="play_mp3('play','5ffce3cd693442.03582794','http://traffic.libsyn.com/ilovelearningchinese/49_iu_1.mp3','80','false');show_hide('play','5ffce3cd693442.03582794');" /><input type="button"  id="btnstop_5ffce3cd693442.03582794" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd693442.03582794','','80','false');show_hide('stop','5ffce3cd693442.03582794');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>yoke</td>
+<td>jiù</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd693554.83145307" class="myButton_play" onClick="play_mp3('play','5ffce3cd693554.83145307','http://traffic.libsyn.com/ilovelearningchinese/49_iu_2.mp3','80','false');show_hide('play','5ffce3cd693554.83145307');" /><input type="button"  id="btnstop_5ffce3cd693554.83145307" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd693554.83145307','','80','false');show_hide('stop','5ffce3cd693554.83145307');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>liú</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd693666.76132721" class="myButton_play" onClick="play_mp3('play','5ffce3cd693666.76132721','http://traffic.libsyn.com/ilovelearningchinese/49_iu_3.mp3','80','false');show_hide('play','5ffce3cd693666.76132721');" /><input type="button"  id="btnstop_5ffce3cd693666.76132721" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd693666.76132721','','80','false');show_hide('stop','5ffce3cd693666.76132721');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+</tr>
+<tr>
+<td><b>ian</b></td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd693778.17088114" class="myButton_play" onClick="play_mp3('play','5ffce3cd693778.17088114','http://traffic.libsyn.com/ilovelearningchinese/50_ian_1.mp3','80','false');show_hide('play','5ffce3cd693778.17088114');" /><input type="button"  id="btnstop_5ffce3cd693778.17088114" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd693778.17088114','','80','false');show_hide('stop','5ffce3cd693778.17088114');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>yen</td>
+<td>tiān</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd693895.27350759" class="myButton_play" onClick="play_mp3('play','5ffce3cd693895.27350759','http://traffic.libsyn.com/ilovelearningchinese/50_ian_2.mp3','80','false');show_hide('play','5ffce3cd693895.27350759');" /><input type="button"  id="btnstop_5ffce3cd693895.27350759" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd693895.27350759','','80','false');show_hide('stop','5ffce3cd693895.27350759');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>diǎn</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd6939a3.25277263" class="myButton_play" onClick="play_mp3('play','5ffce3cd6939a3.25277263','http://traffic.libsyn.com/ilovelearningchinese/50_ian_3.mp3','80','false');show_hide('play','5ffce3cd6939a3.25277263');" /><input type="button"  id="btnstop_5ffce3cd6939a3.25277263" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd6939a3.25277263','','80','false');show_hide('stop','5ffce3cd6939a3.25277263');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+</tr>
+<tr>
+<td><b>in</b></td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd693aa9.18556657" class="myButton_play" onClick="play_mp3('play','5ffce3cd693aa9.18556657','http://traffic.libsyn.com/ilovelearningchinese/51_in_1.mp3','80','false');show_hide('play','5ffce3cd693aa9.18556657');" /><input type="button"  id="btnstop_5ffce3cd693aa9.18556657" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd693aa9.18556657','','80','false');show_hide('stop','5ffce3cd693aa9.18556657');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>in</td>
+<td>qīn</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd693bb6.78939139" class="myButton_play" onClick="play_mp3('play','5ffce3cd693bb6.78939139','http://traffic.libsyn.com/ilovelearningchinese/51_in_2.mp3','80','false');show_hide('play','5ffce3cd693bb6.78939139');" /><input type="button"  id="btnstop_5ffce3cd693bb6.78939139" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd693bb6.78939139','','80','false');show_hide('stop','5ffce3cd693bb6.78939139');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>jìn</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd693cb1.11096103" class="myButton_play" onClick="play_mp3('play','5ffce3cd693cb1.11096103','http://traffic.libsyn.com/ilovelearningchinese/51_in_3.mp3','80','false');show_hide('play','5ffce3cd693cb1.11096103');" /><input type="button"  id="btnstop_5ffce3cd693cb1.11096103" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd693cb1.11096103','','80','false');show_hide('stop','5ffce3cd693cb1.11096103');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+</tr>
+<tr>
+<td><b>iang</b></td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd693dc5.39018640" class="myButton_play" onClick="play_mp3('play','5ffce3cd693dc5.39018640','http://traffic.libsyn.com/ilovelearningchinese/52_iang_1.mp3','80','false');show_hide('play','5ffce3cd693dc5.39018640');" /><input type="button"  id="btnstop_5ffce3cd693dc5.39018640" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd693dc5.39018640','','80','false');show_hide('stop','5ffce3cd693dc5.39018640');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>e+yang</td>
+<td>liáng</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd693ed6.99263557" class="myButton_play" onClick="play_mp3('play','5ffce3cd693ed6.99263557','http://traffic.libsyn.com/ilovelearningchinese/52_iang_2.mp3','80','false');show_hide('play','5ffce3cd693ed6.99263557');" /><input type="button"  id="btnstop_5ffce3cd693ed6.99263557" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd693ed6.99263557','','80','false');show_hide('stop','5ffce3cd693ed6.99263557');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>xiǎng</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd693fd8.98146280" class="myButton_play" onClick="play_mp3('play','5ffce3cd693fd8.98146280','http://traffic.libsyn.com/ilovelearningchinese/52_iang_3.mp3','80','false');show_hide('play','5ffce3cd693fd8.98146280');" /><input type="button"  id="btnstop_5ffce3cd693fd8.98146280" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd693fd8.98146280','','80','false');show_hide('stop','5ffce3cd693fd8.98146280');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+</tr>
+<tr>
+<td><b>ing</b></td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd6940d8.61679960" class="myButton_play" onClick="play_mp3('play','5ffce3cd6940d8.61679960','http://traffic.libsyn.com/ilovelearningchinese/53_ing_1.mp3','80','false');show_hide('play','5ffce3cd6940d8.61679960');" /><input type="button"  id="btnstop_5ffce3cd6940d8.61679960" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd6940d8.61679960','','80','false');show_hide('stop','5ffce3cd6940d8.61679960');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>sing</td>
+<td>tīng</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd6941c1.07051655" class="myButton_play" onClick="play_mp3('play','5ffce3cd6941c1.07051655','http://traffic.libsyn.com/ilovelearningchinese/53_ing_2.mp3','80','false');show_hide('play','5ffce3cd6941c1.07051655');" /><input type="button"  id="btnstop_5ffce3cd6941c1.07051655" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd6941c1.07051655','','80','false');show_hide('stop','5ffce3cd6941c1.07051655');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>bìng</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd6942c9.38231107" class="myButton_play" onClick="play_mp3('play','5ffce3cd6942c9.38231107','http://traffic.libsyn.com/ilovelearningchinese/53_ing_3.mp3','80','false');show_hide('play','5ffce3cd6942c9.38231107');" /><input type="button"  id="btnstop_5ffce3cd6942c9.38231107" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd6942c9.38231107','','80','false');show_hide('stop','5ffce3cd6942c9.38231107');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+</tr>
+<tr>
+<td><b>iong</b></td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd6943b3.48702450" class="myButton_play" onClick="play_mp3('play','5ffce3cd6943b3.48702450','http://traffic.libsyn.com/ilovelearningchinese/54_iong_1.mp3','80','false');show_hide('play','5ffce3cd6943b3.48702450');" /><input type="button"  id="btnstop_5ffce3cd6943b3.48702450" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd6943b3.48702450','','80','false');show_hide('stop','5ffce3cd6943b3.48702450');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>German Jünger</td>
+<td>xióng</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd6944a1.87811240" class="myButton_play" onClick="play_mp3('play','5ffce3cd6944a1.87811240','http://traffic.libsyn.com/ilovelearningchinese/54_iong_2.mp3','80','false');show_hide('play','5ffce3cd6944a1.87811240');" /><input type="button"  id="btnstop_5ffce3cd6944a1.87811240" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd6944a1.87811240','','80','false');show_hide('stop','5ffce3cd6944a1.87811240');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>qióng</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd694594.80885592" class="myButton_play" onClick="play_mp3('play','5ffce3cd694594.80885592','http://traffic.libsyn.com/ilovelearningchinese/54_iong_3.mp3','80','false');show_hide('play','5ffce3cd694594.80885592');" /><input type="button"  id="btnstop_5ffce3cd694594.80885592" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd694594.80885592','','80','false');show_hide('stop','5ffce3cd694594.80885592');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+</tr>
+<tr>
+<td><b>ua</b></td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd694667.04535711" class="myButton_play" onClick="play_mp3('play','5ffce3cd694667.04535711','http://traffic.libsyn.com/ilovelearningchinese/55_ua_1.mp3','80','false');show_hide('play','5ffce3cd694667.04535711');" /><input type="button"  id="btnstop_5ffce3cd694667.04535711" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd694667.04535711','','80','false');show_hide('stop','5ffce3cd694667.04535711');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>guano</td>
+<td>huà</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd694733.47008411" class="myButton_play" onClick="play_mp3('play','5ffce3cd694733.47008411','http://traffic.libsyn.com/ilovelearningchinese/55_ua_2.mp3','80','false');show_hide('play','5ffce3cd694733.47008411');" /><input type="button"  id="btnstop_5ffce3cd694733.47008411" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd694733.47008411','','80','false');show_hide('stop','5ffce3cd694733.47008411');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>zhuā</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd694814.82001059" class="myButton_play" onClick="play_mp3('play','5ffce3cd694814.82001059','http://traffic.libsyn.com/ilovelearningchinese/55_ua_3.mp3','80','false');show_hide('play','5ffce3cd694814.82001059');" /><input type="button"  id="btnstop_5ffce3cd694814.82001059" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd694814.82001059','','80','false');show_hide('stop','5ffce3cd694814.82001059');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+</tr>
+<tr>
+<td><b>uo</b></td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd6948f3.00857004" class="myButton_play" onClick="play_mp3('play','5ffce3cd6948f3.00857004','http://traffic.libsyn.com/ilovelearningchinese/56_uo_1.mp3','80','false');show_hide('play','5ffce3cd6948f3.00857004');" /><input type="button"  id="btnstop_5ffce3cd6948f3.00857004" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd6948f3.00857004','','80','false');show_hide('stop','5ffce3cd6948f3.00857004');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>wall</td>
+<td>guó</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd6949c3.99370945" class="myButton_play" onClick="play_mp3('play','5ffce3cd6949c3.99370945','http://traffic.libsyn.com/ilovelearningchinese/56_uo_2.mp3','80','false');show_hide('play','5ffce3cd6949c3.99370945');" /><input type="button"  id="btnstop_5ffce3cd6949c3.99370945" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd6949c3.99370945','','80','false');show_hide('stop','5ffce3cd6949c3.99370945');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>cuò</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd694aa6.17733386" class="myButton_play" onClick="play_mp3('play','5ffce3cd694aa6.17733386','http://traffic.libsyn.com/ilovelearningchinese/56_uo_3.mp3','80','false');show_hide('play','5ffce3cd694aa6.17733386');" /><input type="button"  id="btnstop_5ffce3cd694aa6.17733386" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd694aa6.17733386','','80','false');show_hide('stop','5ffce3cd694aa6.17733386');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+</tr>
+<tr>
+<td><b>uai</b></td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd694b78.14602936" class="myButton_play" onClick="play_mp3('play','5ffce3cd694b78.14602936','http://traffic.libsyn.com/ilovelearningchinese/57_uai_1.mp3','80','false');show_hide('play','5ffce3cd694b78.14602936');" /><input type="button"  id="btnstop_5ffce3cd694b78.14602936" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd694b78.14602936','','80','false');show_hide('stop','5ffce3cd694b78.14602936');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>wife</td>
+<td>kuaì</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd694c47.65822944" class="myButton_play" onClick="play_mp3('play','5ffce3cd694c47.65822944','http://traffic.libsyn.com/ilovelearningchinese/57_uai_2.mp3','80','false');show_hide('play','5ffce3cd694c47.65822944');" /><input type="button"  id="btnstop_5ffce3cd694c47.65822944" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd694c47.65822944','','80','false');show_hide('stop','5ffce3cd694c47.65822944');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>guaǐ</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd694d05.06867286" class="myButton_play" onClick="play_mp3('play','5ffce3cd694d05.06867286','http://traffic.libsyn.com/ilovelearningchinese/57_uai_3.mp3','80','false');show_hide('play','5ffce3cd694d05.06867286');" /><input type="button"  id="btnstop_5ffce3cd694d05.06867286" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd694d05.06867286','','80','false');show_hide('stop','5ffce3cd694d05.06867286');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+</tr>
+<tr>
+<td><b>uan</b></td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd694dd6.51933113" class="myButton_play" onClick="play_mp3('play','5ffce3cd694dd6.51933113','http://traffic.libsyn.com/ilovelearningchinese/58_uan_1.mp3','80','false');show_hide('play','5ffce3cd694dd6.51933113');" /><input type="button"  id="btnstop_5ffce3cd694dd6.51933113" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd694dd6.51933113','','80','false');show_hide('stop','5ffce3cd694dd6.51933113');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>one</td>
+<td>yuán</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd694e93.42475303" class="myButton_play" onClick="play_mp3('play','5ffce3cd694e93.42475303','http://traffic.libsyn.com/ilovelearningchinese/58_uan_2.mp3','80','false');show_hide('play','5ffce3cd694e93.42475303');" /><input type="button"  id="btnstop_5ffce3cd694e93.42475303" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd694e93.42475303','','80','false');show_hide('stop','5ffce3cd694e93.42475303');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>zhuǎn</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd694f69.08970784" class="myButton_play" onClick="play_mp3('play','5ffce3cd694f69.08970784','http://traffic.libsyn.com/ilovelearningchinese/58_uan_3.mp3','80','false');show_hide('play','5ffce3cd694f69.08970784');" /><input type="button"  id="btnstop_5ffce3cd694f69.08970784" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd694f69.08970784','','80','false');show_hide('stop','5ffce3cd694f69.08970784');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+</tr>
+<tr>
+<td><b>un</b></td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd695024.11242730" class="myButton_play" onClick="play_mp3('play','5ffce3cd695024.11242730','http://traffic.libsyn.com/ilovelearningchinese/59_un_1.mp3','80','false');show_hide('play','5ffce3cd695024.11242730');" /><input type="button"  id="btnstop_5ffce3cd695024.11242730" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd695024.11242730','','80','false');show_hide('stop','5ffce3cd695024.11242730');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>went</td>
+<td>cùn</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd6951c7.00035948" class="myButton_play" onClick="play_mp3('play','5ffce3cd6951c7.00035948','http://traffic.libsyn.com/ilovelearningchinese/59_un_2.mp3','80','false');show_hide('play','5ffce3cd6951c7.00035948');" /><input type="button"  id="btnstop_5ffce3cd6951c7.00035948" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd6951c7.00035948','','80','false');show_hide('stop','5ffce3cd6951c7.00035948');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>kǔn</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd6952a6.72290554" class="myButton_play" onClick="play_mp3('play','5ffce3cd6952a6.72290554','http://traffic.libsyn.com/ilovelearningchinese/59_un_3.mp3','80','false');show_hide('play','5ffce3cd6952a6.72290554');" /><input type="button"  id="btnstop_5ffce3cd6952a6.72290554" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd6952a6.72290554','','80','false');show_hide('stop','5ffce3cd6952a6.72290554');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+</tr>
+<tr>
+<td><b>uang</b></td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd695358.86479388" class="myButton_play" onClick="play_mp3('play','5ffce3cd695358.86479388','http://traffic.libsyn.com/ilovelearningchinese/60_uang_1.mp3','80','false');show_hide('play','5ffce3cd695358.86479388');" /><input type="button"  id="btnstop_5ffce3cd695358.86479388" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd695358.86479388','','80','false');show_hide('stop','5ffce3cd695358.86479388');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>oo+ahng</td>
+<td>zhuàng</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd695415.31692587" class="myButton_play" onClick="play_mp3('play','5ffce3cd695415.31692587','http://traffic.libsyn.com/ilovelearningchinese/60_uang_2.mp3','80','false');show_hide('play','5ffce3cd695415.31692587');" /><input type="button"  id="btnstop_5ffce3cd695415.31692587" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd695415.31692587','','80','false');show_hide('stop','5ffce3cd695415.31692587');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+<td>guǎng</td>
+<td><div class="sc_player_container1"><input type="button" id="btnplay_5ffce3cd6954a0.66147148" class="myButton_play" onClick="play_mp3('play','5ffce3cd6954a0.66147148','http://traffic.libsyn.com/ilovelearningchinese/60_uang_3.mp3','80','false');show_hide('play','5ffce3cd6954a0.66147148');" /><input type="button"  id="btnstop_5ffce3cd6954a0.66147148" style="display:none" class="myButton_stop" onClick="play_mp3('stop','5ffce3cd6954a0.66147148','','80','false');show_hide('stop','5ffce3cd6954a0.66147148');" /><div id="sm2-container"><!-- flash movie ends up here --></div></div></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<div class="powerpress_player" id="powerpress_player_8029"><!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+<audio class="wp-audio-shortcode" id="audio-535-1" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://traffic.libsyn.com/ilovelearningchinese/level0_final.mp3?_=1" /><a href="http://traffic.libsyn.com/ilovelearningchinese/level0_final.mp3">http://traffic.libsyn.com/ilovelearningchinese/level0_final.mp3</a></audio></div><p class="powerpress_links powerpress_links_mp3">Podcast: <a href="http://traffic.libsyn.com/ilovelearningchinese/level0_final.mp3" class="powerpress_link_pinw" target="_blank" title="Play in new window" onclick="return powerpress_pinw('https://ilovelearningchinese.com/?powerpress_pinw=535-podcast');" rel="nofollow">Play in new window</a> | <a href="http://traffic.libsyn.com/ilovelearningchinese/level0_final.mp3" class="powerpress_link_d" title="Download" rel="nofollow" download="level0_final.mp3">Download</a></p>															</div> <!-- end div .entry -->
+						
+
+								<div class="comments">
+								
+<div id="disqus_thread"></div>
+							</div> <!-- end div .comments -->
+					</div> <!-- end div .post -->
+
+									      		<div id="footerads"></div>		
+		</div> <!-- end div #content -->
+			</div><!-- end div #page-inner -->
+</div><!-- end div #page --><!-- END PAGE --><!-- BEGIN BOTTOM-MENU -->	
+	
+
+
+	<div id="footer">
+	<div id="footer-inner" class="clearfix">
+		<a href="https://ilovelearningchinese.com/" title="I Love Learning Chinese" >I Love Learning Chinese</a>  
+<a href="#" class="scrollup backtop">&#8593;<a>
+
+		
+		</div> <!-- end div #footer-right -->
+
+
+	</div> <!-- end div #footer-inner -->
+	</div> <!-- end div #footer -->
+</div> <!-- end wrapper -->
+
+<!-- WP Audio player plugin v1.9.6 - https://www.tipsandtricks-hq.com/wordpress-audio-music-player-plugin-4556/ -->
+    <script type="text/javascript">
+        soundManager.useFlashBlock = true; // optional - if used, required flashblock.css
+        soundManager.url = 'https://ilovelearningchinese.com/wp-content/plugins/compact-wp-audio-player/swf/soundmanager2.swf';
+        function play_mp3(flg, ids, mp3url, volume, loops)
+        {
+            //Check the file URL parameter value
+            var pieces = mp3url.split("|");
+            if (pieces.length > 1) {//We have got an .ogg file too
+                mp3file = pieces[0];
+                oggfile = pieces[1];
+                //set the file URL to be an array with the mp3 and ogg file
+                mp3url = new Array(mp3file, oggfile);
+            }
+
+            soundManager.createSound({
+                id: 'btnplay_' + ids,
+                volume: volume,
+                url: mp3url
+            });
+
+            if (flg == 'play') {
+    stop_all_tracks();                soundManager.play('btnplay_' + ids, {
+                    onfinish: function() {
+                        if (loops == 'true') {
+                            loopSound('btnplay_' + ids);
+                        }
+                        else {
+                            document.getElementById('btnplay_' + ids).style.display = 'inline';
+                            document.getElementById('btnstop_' + ids).style.display = 'none';
+                        }
+                    }
+                });
+            }
+            else if (flg == 'stop') {
+    //soundManager.stop('btnplay_'+ids);
+                soundManager.pause('btnplay_' + ids);
+            }
+        }
+        function show_hide(flag, ids)
+        {
+            if (flag == 'play') {
+                document.getElementById('btnplay_' + ids).style.display = 'none';
+                document.getElementById('btnstop_' + ids).style.display = 'inline';
+            }
+            else if (flag == 'stop') {
+                document.getElementById('btnplay_' + ids).style.display = 'inline';
+                document.getElementById('btnstop_' + ids).style.display = 'none';
+            }
+        }
+        function loopSound(soundID)
+        {
+            window.setTimeout(function() {
+                soundManager.play(soundID, {onfinish: function() {
+                        loopSound(soundID);
+                    }});
+            }, 1);
+        }
+        function stop_all_tracks()
+        {
+            soundManager.stopAll();
+            var inputs = document.getElementsByTagName("input");
+            for (var i = 0; i < inputs.length; i++) {
+                if (inputs[i].id.indexOf("btnplay_") == 0) {
+                    inputs[i].style.display = 'inline';//Toggle the play button
+                }
+                if (inputs[i].id.indexOf("btnstop_") == 0) {
+                    inputs[i].style.display = 'none';//Hide the stop button
+                }
+            }
+        }
+    </script>
+    <script type='text/javascript' src='https://ilovelearningchinese.com/wp-includes/js/jquery/ui/core.min.js?ver=1.12.1' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-includes/js/jquery/ui/tabs.min.js?ver=1.12.1' id='jquery-ui-tabs-js'></script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-content/plugins/wordpress-post-tabs/js/jquery.posttabs.js?ver=1.6.2' id='jquery-posttabs-js'></script>
+<script type='text/javascript' id='disqus_count-js-extra'>
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"ilovelearningchinese"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-content/plugins/disqus-comment-system/public/js/comment_count.js?ver=3.0.17' id='disqus_count-js'></script>
+<script type='text/javascript' id='disqus_embed-js-extra'>
+/* <![CDATA[ */
+var embedVars = {"disqusConfig":{"integration":"wordpress 3.0.17"},"disqusIdentifier":"535 http:\/\/ilovelearningchinese.com\/?page_id=535","disqusShortname":"ilovelearningchinese","disqusTitle":"Level 0 Pinyin \u2013 Chinese Phonetic Alphabets \/ \u62fc\u97f3","disqusUrl":"https:\/\/ilovelearningchinese.com\/level-0-pinyin-chinese-phonetic-alphabets-%e6%8b%bc%e9%9f%b3","postId":"535"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-content/plugins/disqus-comment-system/public/js/comment_embed.js?ver=3.0.17' id='disqus_embed-js'></script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-includes/js/jquery/ui/menu.min.js?ver=1.12.1' id='jquery-ui-menu-js'></script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=7.4.4' id='wp-polyfill-js'></script>
+<script type='text/javascript' id='wp-polyfill-js-after'>
+( 'fetch' in window ) || document.write( '<script src="https://ilovelearningchinese.com/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js?ver=3.0.0"></scr' + 'ipt>' );( document.contains ) || document.write( '<script src="https://ilovelearningchinese.com/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.DOMRect ) || document.write( '<script src="https://ilovelearningchinese.com/wp-includes/js/dist/vendor/wp-polyfill-dom-rect.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.URL && window.URL.prototype && window.URLSearchParams ) || document.write( '<script src="https://ilovelearningchinese.com/wp-includes/js/dist/vendor/wp-polyfill-url.min.js?ver=3.6.4"></scr' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="https://ilovelearningchinese.com/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js?ver=3.0.12"></scr' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="https://ilovelearningchinese.com/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js?ver=2.0.2"></scr' + 'ipt>' );
+</script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-includes/js/dist/dom-ready.min.js?ver=5316a69cb8a665ca6252926589751f9a' id='wp-dom-ready-js'></script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-includes/js/dist/i18n.min.js?ver=326fe7fbfdb407b6edbcfba7e17f3909' id='wp-i18n-js'></script>
+<script type='text/javascript' id='wp-a11y-js-translations'>
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", { "locale_data": { "messages": { "": {} } } } );
+</script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-includes/js/dist/a11y.min.js?ver=693bc76804871970d5d4bf16475f9010' id='wp-a11y-js'></script>
+<script type='text/javascript' id='jquery-ui-autocomplete-js-extra'>
+/* <![CDATA[ */
+var uiAutocompleteL10n = {"noResults":"No results found.","oneResult":"1 result found. Use up and down arrow keys to navigate.","manyResults":"%d results found. Use up and down arrow keys to navigate.","itemSelected":"Item selected."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.12.1' id='jquery-ui-autocomplete-js'></script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-includes/js/jquery/ui/controlgroup.min.js?ver=1.12.1' id='jquery-ui-controlgroup-js'></script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-includes/js/jquery/ui/checkboxradio.min.js?ver=1.12.1' id='jquery-ui-checkboxradio-js'></script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-includes/js/jquery/ui/button.min.js?ver=1.12.1' id='jquery-ui-button-js'></script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.12.1' id='jquery-ui-mouse-js'></script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-includes/js/jquery/ui/resizable.min.js?ver=1.12.1' id='jquery-ui-resizable-js'></script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-includes/js/jquery/ui/draggable.min.js?ver=1.12.1' id='jquery-ui-draggable-js'></script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-includes/js/jquery/ui/dialog.min.js?ver=1.12.1' id='jquery-ui-dialog-js'></script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-includes/js/jquery/ui/droppable.min.js?ver=1.12.1' id='jquery-ui-droppable-js'></script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-includes/js/jquery/ui/progressbar.min.js?ver=1.12.1' id='jquery-ui-progressbar-js'></script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-includes/js/jquery/ui/tooltip.min.js?ver=1.12.1' id='jquery-ui-tooltip-js'></script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-includes/js/underscore.min.js?ver=1.8.3' id='underscore-js'></script>
+<script type='text/javascript' id='wp-util-js-extra'>
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-includes/js/wp-util.min.js?ver=5.6' id='wp-util-js'></script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-includes/js/backbone.min.js?ver=1.4.0' id='backbone-js'></script>
+<script type='text/javascript' id='mediaelement-core-js-before'>
+var mejsL10n = {"language":"en","strings":{"mejs.download-file":"Download File","mejs.install-flash":"You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen":"Fullscreen","mejs.play":"Play","mejs.pause":"Pause","mejs.time-slider":"Time Slider","mejs.time-help-text":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.","mejs.live-broadcast":"Live Broadcast","mejs.volume-help-text":"Use Up\/Down Arrow keys to increase or decrease volume.","mejs.unmute":"Unmute","mejs.mute":"Mute","mejs.volume-slider":"Volume Slider","mejs.video-player":"Video Player","mejs.audio-player":"Audio Player","mejs.captions-subtitles":"Captions\/Subtitles","mejs.captions-chapters":"Chapters","mejs.none":"None","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanian","mejs.arabic":"Arabic","mejs.belarusian":"Belarusian","mejs.bulgarian":"Bulgarian","mejs.catalan":"Catalan","mejs.chinese":"Chinese","mejs.chinese-simplified":"Chinese (Simplified)","mejs.chinese-traditional":"Chinese (Traditional)","mejs.croatian":"Croatian","mejs.czech":"Czech","mejs.danish":"Danish","mejs.dutch":"Dutch","mejs.english":"English","mejs.estonian":"Estonian","mejs.filipino":"Filipino","mejs.finnish":"Finnish","mejs.french":"French","mejs.galician":"Galician","mejs.german":"German","mejs.greek":"Greek","mejs.haitian-creole":"Haitian Creole","mejs.hebrew":"Hebrew","mejs.hindi":"Hindi","mejs.hungarian":"Hungarian","mejs.icelandic":"Icelandic","mejs.indonesian":"Indonesian","mejs.irish":"Irish","mejs.italian":"Italian","mejs.japanese":"Japanese","mejs.korean":"Korean","mejs.latvian":"Latvian","mejs.lithuanian":"Lithuanian","mejs.macedonian":"Macedonian","mejs.malay":"Malay","mejs.maltese":"Maltese","mejs.norwegian":"Norwegian","mejs.persian":"Persian","mejs.polish":"Polish","mejs.portuguese":"Portuguese","mejs.romanian":"Romanian","mejs.russian":"Russian","mejs.serbian":"Serbian","mejs.slovak":"Slovak","mejs.slovenian":"Slovenian","mejs.spanish":"Spanish","mejs.swahili":"Swahili","mejs.swedish":"Swedish","mejs.tagalog":"Tagalog","mejs.thai":"Thai","mejs.turkish":"Turkish","mejs.ukrainian":"Ukrainian","mejs.vietnamese":"Vietnamese","mejs.welsh":"Welsh","mejs.yiddish":"Yiddish"}};
+</script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.16' id='mediaelement-core-js'></script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=5.6' id='mediaelement-migrate-js'></script>
+<script type='text/javascript' id='mediaelement-js-extra'>
+/* <![CDATA[ */
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-includes/js/mediaelement/wp-playlist.min.js?ver=5.6' id='wp-playlist-js'></script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-content/plugins/qwiz-online-quizzes-and-flashcards/qwiz_qcards_common.js?ver=3.54' id='qwiz_qcards_common_handle-js'></script>
+<script type='text/javascript' id='qwiz_handle-js-extra'>
+/* <![CDATA[ */
+var qwiz_params = {"url":"https:\/\/ilovelearningchinese.com\/wp-content\/plugins\/qwiz-online-quizzes-and-flashcards\/","mobile_enabled":"Disabled","icon_qwiz":"Not displayed","content":"div.entry-content, div.post-entry","beta":"","server_loc":"http:\/\/qwizcards.com\/admin","secure_server_loc":"https:\/\/qwizcards.com\/admin","use_dict":"false","use_terms":"false","hint_timeout_sec":"20","hangman_hints":"2","post_id":"0","ajaxurl":"https:\/\/ilovelearningchinese.com\/wp-admin\/admin-ajax.php","includes_url":"https:\/\/ilovelearningchinese.com\/wp-includes\/","qwizcards_version":"3.54","wp_server_address":"50.87.151.116","wp_site_url":"https:\/\/ilovelearningchinese.com","qjax_bypass":"","qwiz_syntax_check_manual_only":"","T":{"zero":"zero","one":"one","two":"two","three":"three","four":"four","five":"five","six":"six","seven":"seven","eight":"eight","nine":"nine","ten":"ten","a team":"a team","Add team member":"Add team member","All":"All","answer":"answer","answers":"answers","Both":"Both","card":"card","cards":"cards","cards total":"cards total","card was":"card was","cards were":"cards were","Check answer":"Check answer","Congratulations, you answered all questions correctly":"Congratulations, you answered all questions correctly","correct":"correct","Correct!":"Correct!","Could not read terms file":"Could not read terms file","Excellent!":"Excellent!","Flip":"Check answer","Flip back":"Flip back","For topic":"For topic","found, but not":"found, but not","Forgot password?":"Forgot password?","Good!":"Good!","Got it!":"Got it!","Great!":"Great!","hint":"hint","Hint":"Hint","In finishing this":"In finishing this","In this":"In this","In this %s-flashcard stack, you clicked":"In this %s-flashcard stack, you clicked","on the first try for every card":"on the first try for every card","incorrect":"incorrect","It took you":"It took you","It took you one try":"It took you one try","It took you %s tries":"It took you %s tries","item":"item","items":"items","Learn":"Learn","Learn mode: questions repeat until answered correctly":"Learn mode: questions repeat until answered correctly","letter":"letter","letters":"letters","Log in":"Log in","Logged in as":"Logged in as","Login incorrect. Please try again":"Login incorrect. Please try again","Move each item to its correct <span class=\"qwizzled_target_border\">place<\/span>":"Move each item to its correct <span class=\"qwizzled_target_border\">place<\/span>","My scores":"My scores","Need help?  Try the \"hint\" button":"Need help?  Try the \"hint\" button","Need more practice":"Need more practice","Next question":"Next question","No.":"No.","No thanks":"No thanks","No, that's not correct.":"No, that's not correct.","on the first try":"on the first try","Now you've got it, but remember your answer -- you'll see this question again soon.":"Now you've got it, but remember your answer -- you'll see this question again soon.","not":"not","Not":"Not","OK.  Only %s is logged in now":"OK.  Only %s is logged in now","out of":"out of","Password":"Password","Please try again":"Please try again","Practice more flashcards":"Practice more flashcards","Practice more questions":"Practice more questions","Put this card at the bottom of the stack, show the next card":"Put this card at the bottom of the stack, show the next card","Qs":"Qs","question":"question","questions":"questions","Questions in this quiz:":"Questions in this quiz:","Randomly shuffle the remaining cards":"Randomly shuffle the remaining cards","Record score\/credit?":"Record score\/credit?","Register":"Register","reviewed":"reviewed","Remember":"Remember","Remove this card from the stack":"Remove this card from the stack","response":"response","responses":"responses","Review this flashcard stack again":"Review this flashcard stack again","Save preference (do not use on shared computer":"Save preference (do not use on shared computer","Show the other side":"Show the other side","Sign out":"Sign out","Signed out":"Signed out","Shuffle":"Shuffle","Skip login in the future":"Skip login in the future","Sorry, that's not correct.":"Sorry, that's not correct.","Sorry, you entered more than three incorrect letters.":"Sorry, you entered more than three incorrect letters.","Start quiz":"Start quiz","Start reviewing cards":"Start reviewing cards","Take the quiz again":"Take the quiz again","Test":"Test","Test mode: incorrectly-answered questions do not repeat":"Test mode: incorrectly-answered questions do not repeat","The topic of the only question you answered incorrectly is":"The topic of the only question you answered incorrectly is","There was":"There was","There were":"There were","These are the topics of cards where you clicked":"These are the topics of cards where you clicked","These are the topics of questions that you answered incorrectly":"These are the topics of questions that you answered incorrectly","This":"This","This flashcard stack had %s cards.":"This flashcard stack had %s cards.","This is the only topic for which you clicked":"This is the only topic for which you clicked","for each card":"for each card","to answer this question correctly":"to answer this question correctly","to answer these questions correctly":"to answer these questions correctly","to go":"to go","tries":"tries","try":"try","Type a letter":"Type a letter","Type a letter\/number":"Type a letter\/number","Type %s+ letters":"Type %s+ letters","Type %s+ letters\/numbers":"Type %s+ letters\/numbers","Type %s+ letters\/numbers, then select":"Type %s+ letters\/numbers, then select","Type letters in the box":"Type letters in the box","Type numbers in the box":"Type numbers in the box","until you felt comfortable enough to click":"until you felt comfortable enough to click","for this card":"for this card","User name":"User name","View summary report":"View summary report","You are logged in as":"You are logged in as","You answered all of these questions correctly":"You answered all of these questions correctly","You answered both of these questions correctly":"You answered both of these questions correctly","You answered this question correctly":"You answered this question correctly","You can get":"You can get","You can get two hint letters":"You can get two hint letters","You entered":"You entered","You wrote":"You wrote","Your score is":"Your score is","Your score is %s correct out of %s":"Your score is %s correct out of %s","A new question shortcode [q] has been placed inside an existing question.  Please move it outside and try again.":"A new question shortcode [q] has been placed inside an existing question.  Please move it outside and try again.","Create a target \"drop zone\" for a label - click here, then click label":"Create a target \"drop zone\" for a label - click here, then click label","Could not find editing window.  You need to be editing a page or post in Visual mode.":"Could not find editing window.  You need to be editing a page or post in Visual mode.","Did not find [qwiz]...[\/qwiz] shortcodes":"Did not find [qwiz]...[\/qwiz] shortcodes","End of labeled-diagram question":"End of labeled-diagram question","Error":"Error","Error: no text selected":"Error: no text selected","Label [l] is blank":"Label [l] is blank","labeled diagram editing menu":"labeled diagram editing menu","Please select \"Visual\" mode to create a target\/drop zone":"Please select \"Visual\" mode to create a target\/drop zone","Select the text or click on the image (you may have to click twice) where you want the target \"drop zone\" for this label":"Select the text or click on the image (you may have to click twice) where you want the target \"drop zone\" for this label","Sorry, labeled diagrams do not work with images that have captions.  Please edit the image, delete the caption, and try again.":"Sorry, labeled diagrams do not work with images that have captions.  Please edit the image, delete the caption, and try again.","You can position and resize the target \"drop zone\" how you want in relation to the image":"You can position and resize the target \"drop zone\" how you want in relation to the image","choice":"choice","Did not find answer (\"[a]\") -- card back -- for":"Did not find answer (\"[a]\") -- card back -- for","Did not find any labels [l] within [qwiz]...[\/qwiz] shortcode pairs":"Did not find any labels [l] within [qwiz]...[\/qwiz] shortcode pairs","Did not find any questions [q] within [qwiz]...[\/qwiz] shortcode pairs":"Did not find any questions [q] within [qwiz]...[\/qwiz] shortcode pairs","Did not find choices (\"[c]\") for":"Did not find choices (\"[c]\") for","Did not find choices (\"[c]\") or labels (\"[l]\") for":"Did not find choices (\"[c]\") or labels (\"[l]\") for","Did not find end of image area.  Please check that all labels and target \"drop zones\" were correctly processed and saved during the edit of this page":"Did not find end of image area.  Please check that all labels and target \"drop zones\" were correctly processed and saved during the edit of this page","Did not find feedback (\"[f]\") for":"Did not find feedback (\"[f]\") for","Did not find question tags (\"[q]\") for":"Did not find question tags (\"[q]\") for","Did not find target \"drop-zones\" for labels.  Please check that all labels and target \"drop zones\" were correctly processed and saved during the edit of this page":"Did not find target \"drop-zones\" for labels.  Please check that all labels and target \"drop zones\" were correctly processed and saved during the edit of this page","Did not find [terms]...[\/terms] shortcode pair in file":"Did not find [terms]...[\/terms] shortcode pair in file","Do you want to continue?  (Click \"Cancel\" to sign out)":"Do you want to continue?  (Click \"Cancel\" to sign out)","Do you want to continue as this team?":"Do you want to continue as this team?","does not match number of labels":"does not match number of labels","Error found":"Error found","Errors found":"Errors found","(exit text) must be last":"(exit text) must be last","Feedback [f] is required for a one-choice question":"Feedback [f] is required for a one-choice question","For [textentry] question, wildcard choice (\"*\", for any other user entry) cannot be marked correct \"[c*]\"":"For [textentry] question, wildcard choice (\"*\", for any other user entry) cannot be marked correct \"[c*]\"","For [textentry] question, wildcard choice (\"*\", for any other user entry) must be accompanied by feedback \"[f]\"":"For [textentry] question, wildcard choice (\"*\", for any other user entry) must be accompanied by feedback \"[f]\"","Got more than one answer (\"[a]\") -- card back -- for":"Got more than one answer (\"[a]\") -- card back -- for","More than one choice was marked correct":"More than one choice was marked correct","More than one feedback shortcode [f] given with choice":"More than one feedback shortcode [f] given with choice","No choice was marked correct":"No choice was marked correct","No data read from terms file":"No data read from terms file","No text given for [textentry] choice":"No text given for [textentry] choice","Number of feedback items does not match number of choices":"Number of feedback items does not match number of choices","Number of feedback items":"Number of feedback items","Please fix and try again":"Please fix and try again","Text before header":"Text before header","Text before intro":"Text before intro","There should be two feedback items -- correct and incorrect -- for each label":"There should be two feedback items -- correct and incorrect -- for each label","[textentry] on back of card, but not on front":"[textentry] on back of card, but not on front","Too many feedback shortcodes":"Too many feedback shortcodes","Topic(s) were given for at least one question, but at least one question doesn't have a topic":"Topic(s) were given for at least one question, but at least one question doesn't have a topic","Unmatched [qdeck] - [\/qdeck] pairs":"Unmatched [qdeck] - [\/qdeck] pairs","Unmatched [qwiz] - [\/qwiz] pairs":"Unmatched [qwiz] - [\/qwiz] pairs"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-content/plugins/qwiz-online-quizzes-and-flashcards/qwiz.js?ver=3.54' id='qwiz_handle-js'></script>
+<script type='text/javascript' id='qwizcards_handle-js-extra'>
+/* <![CDATA[ */
+var qwiz_params = {"url":"https:\/\/ilovelearningchinese.com\/wp-content\/plugins\/qwiz-online-quizzes-and-flashcards\/","mobile_enabled":"Disabled","icon_qwiz":"Not displayed","content":"div.entry-content, div.post-entry","beta":"","server_loc":"http:\/\/qwizcards.com\/admin","secure_server_loc":"https:\/\/qwizcards.com\/admin","use_dict":"false","use_terms":"false","hint_timeout_sec":"20","hangman_hints":"2","post_id":"0","ajaxurl":"https:\/\/ilovelearningchinese.com\/wp-admin\/admin-ajax.php","includes_url":"https:\/\/ilovelearningchinese.com\/wp-includes\/","qwizcards_version":"3.54","wp_server_address":"50.87.151.116","wp_site_url":"https:\/\/ilovelearningchinese.com","qjax_bypass":"","qwiz_syntax_check_manual_only":"","T":{"zero":"zero","one":"one","two":"two","three":"three","four":"four","five":"five","six":"six","seven":"seven","eight":"eight","nine":"nine","ten":"ten","a team":"a team","Add team member":"Add team member","All":"All","answer":"answer","answers":"answers","Both":"Both","card":"card","cards":"cards","cards total":"cards total","card was":"card was","cards were":"cards were","Check answer":"Check answer","Congratulations, you answered all questions correctly":"Congratulations, you answered all questions correctly","correct":"correct","Correct!":"Correct!","Could not read terms file":"Could not read terms file","Excellent!":"Excellent!","Flip":"Check answer","Flip back":"Flip back","For topic":"For topic","found, but not":"found, but not","Forgot password?":"Forgot password?","Good!":"Good!","Got it!":"Got it!","Great!":"Great!","hint":"hint","Hint":"Hint","In finishing this":"In finishing this","In this":"In this","In this %s-flashcard stack, you clicked":"In this %s-flashcard stack, you clicked","on the first try for every card":"on the first try for every card","incorrect":"incorrect","It took you":"It took you","It took you one try":"It took you one try","It took you %s tries":"It took you %s tries","item":"item","items":"items","Learn":"Learn","Learn mode: questions repeat until answered correctly":"Learn mode: questions repeat until answered correctly","letter":"letter","letters":"letters","Log in":"Log in","Logged in as":"Logged in as","Login incorrect. Please try again":"Login incorrect. Please try again","Move each item to its correct <span class=\"qwizzled_target_border\">place<\/span>":"Move each item to its correct <span class=\"qwizzled_target_border\">place<\/span>","My scores":"My scores","Need help?  Try the \"hint\" button":"Need help?  Try the \"hint\" button","Need more practice":"Need more practice","Next question":"Next question","No.":"No.","No thanks":"No thanks","No, that's not correct.":"No, that's not correct.","on the first try":"on the first try","Now you've got it, but remember your answer -- you'll see this question again soon.":"Now you've got it, but remember your answer -- you'll see this question again soon.","not":"not","Not":"Not","OK.  Only %s is logged in now":"OK.  Only %s is logged in now","out of":"out of","Password":"Password","Please try again":"Please try again","Practice more flashcards":"Practice more flashcards","Practice more questions":"Practice more questions","Put this card at the bottom of the stack, show the next card":"Put this card at the bottom of the stack, show the next card","Qs":"Qs","question":"question","questions":"questions","Questions in this quiz:":"Questions in this quiz:","Randomly shuffle the remaining cards":"Randomly shuffle the remaining cards","Record score\/credit?":"Record score\/credit?","Register":"Register","reviewed":"reviewed","Remember":"Remember","Remove this card from the stack":"Remove this card from the stack","response":"response","responses":"responses","Review this flashcard stack again":"Review this flashcard stack again","Save preference (do not use on shared computer":"Save preference (do not use on shared computer","Show the other side":"Show the other side","Sign out":"Sign out","Signed out":"Signed out","Shuffle":"Shuffle","Skip login in the future":"Skip login in the future","Sorry, that's not correct.":"Sorry, that's not correct.","Sorry, you entered more than three incorrect letters.":"Sorry, you entered more than three incorrect letters.","Start quiz":"Start quiz","Start reviewing cards":"Start reviewing cards","Take the quiz again":"Take the quiz again","Test":"Test","Test mode: incorrectly-answered questions do not repeat":"Test mode: incorrectly-answered questions do not repeat","The topic of the only question you answered incorrectly is":"The topic of the only question you answered incorrectly is","There was":"There was","There were":"There were","These are the topics of cards where you clicked":"These are the topics of cards where you clicked","These are the topics of questions that you answered incorrectly":"These are the topics of questions that you answered incorrectly","This":"This","This flashcard stack had %s cards.":"This flashcard stack had %s cards.","This is the only topic for which you clicked":"This is the only topic for which you clicked","for each card":"for each card","to answer this question correctly":"to answer this question correctly","to answer these questions correctly":"to answer these questions correctly","to go":"to go","tries":"tries","try":"try","Type a letter":"Type a letter","Type a letter\/number":"Type a letter\/number","Type %s+ letters":"Type %s+ letters","Type %s+ letters\/numbers":"Type %s+ letters\/numbers","Type %s+ letters\/numbers, then select":"Type %s+ letters\/numbers, then select","Type letters in the box":"Type letters in the box","Type numbers in the box":"Type numbers in the box","until you felt comfortable enough to click":"until you felt comfortable enough to click","for this card":"for this card","User name":"User name","View summary report":"View summary report","You are logged in as":"You are logged in as","You answered all of these questions correctly":"You answered all of these questions correctly","You answered both of these questions correctly":"You answered both of these questions correctly","You answered this question correctly":"You answered this question correctly","You can get":"You can get","You can get two hint letters":"You can get two hint letters","You entered":"You entered","You wrote":"You wrote","Your score is":"Your score is","Your score is %s correct out of %s":"Your score is %s correct out of %s","A new question shortcode [q] has been placed inside an existing question.  Please move it outside and try again.":"A new question shortcode [q] has been placed inside an existing question.  Please move it outside and try again.","Create a target \"drop zone\" for a label - click here, then click label":"Create a target \"drop zone\" for a label - click here, then click label","Could not find editing window.  You need to be editing a page or post in Visual mode.":"Could not find editing window.  You need to be editing a page or post in Visual mode.","Did not find [qwiz]...[\/qwiz] shortcodes":"Did not find [qwiz]...[\/qwiz] shortcodes","End of labeled-diagram question":"End of labeled-diagram question","Error":"Error","Error: no text selected":"Error: no text selected","Label [l] is blank":"Label [l] is blank","labeled diagram editing menu":"labeled diagram editing menu","Please select \"Visual\" mode to create a target\/drop zone":"Please select \"Visual\" mode to create a target\/drop zone","Select the text or click on the image (you may have to click twice) where you want the target \"drop zone\" for this label":"Select the text or click on the image (you may have to click twice) where you want the target \"drop zone\" for this label","Sorry, labeled diagrams do not work with images that have captions.  Please edit the image, delete the caption, and try again.":"Sorry, labeled diagrams do not work with images that have captions.  Please edit the image, delete the caption, and try again.","You can position and resize the target \"drop zone\" how you want in relation to the image":"You can position and resize the target \"drop zone\" how you want in relation to the image","choice":"choice","Did not find answer (\"[a]\") -- card back -- for":"Did not find answer (\"[a]\") -- card back -- for","Did not find any labels [l] within [qwiz]...[\/qwiz] shortcode pairs":"Did not find any labels [l] within [qwiz]...[\/qwiz] shortcode pairs","Did not find any questions [q] within [qwiz]...[\/qwiz] shortcode pairs":"Did not find any questions [q] within [qwiz]...[\/qwiz] shortcode pairs","Did not find choices (\"[c]\") for":"Did not find choices (\"[c]\") for","Did not find choices (\"[c]\") or labels (\"[l]\") for":"Did not find choices (\"[c]\") or labels (\"[l]\") for","Did not find end of image area.  Please check that all labels and target \"drop zones\" were correctly processed and saved during the edit of this page":"Did not find end of image area.  Please check that all labels and target \"drop zones\" were correctly processed and saved during the edit of this page","Did not find feedback (\"[f]\") for":"Did not find feedback (\"[f]\") for","Did not find question tags (\"[q]\") for":"Did not find question tags (\"[q]\") for","Did not find target \"drop-zones\" for labels.  Please check that all labels and target \"drop zones\" were correctly processed and saved during the edit of this page":"Did not find target \"drop-zones\" for labels.  Please check that all labels and target \"drop zones\" were correctly processed and saved during the edit of this page","Did not find [terms]...[\/terms] shortcode pair in file":"Did not find [terms]...[\/terms] shortcode pair in file","Do you want to continue?  (Click \"Cancel\" to sign out)":"Do you want to continue?  (Click \"Cancel\" to sign out)","Do you want to continue as this team?":"Do you want to continue as this team?","does not match number of labels":"does not match number of labels","Error found":"Error found","Errors found":"Errors found","(exit text) must be last":"(exit text) must be last","Feedback [f] is required for a one-choice question":"Feedback [f] is required for a one-choice question","For [textentry] question, wildcard choice (\"*\", for any other user entry) cannot be marked correct \"[c*]\"":"For [textentry] question, wildcard choice (\"*\", for any other user entry) cannot be marked correct \"[c*]\"","For [textentry] question, wildcard choice (\"*\", for any other user entry) must be accompanied by feedback \"[f]\"":"For [textentry] question, wildcard choice (\"*\", for any other user entry) must be accompanied by feedback \"[f]\"","Got more than one answer (\"[a]\") -- card back -- for":"Got more than one answer (\"[a]\") -- card back -- for","More than one choice was marked correct":"More than one choice was marked correct","More than one feedback shortcode [f] given with choice":"More than one feedback shortcode [f] given with choice","No choice was marked correct":"No choice was marked correct","No data read from terms file":"No data read from terms file","No text given for [textentry] choice":"No text given for [textentry] choice","Number of feedback items does not match number of choices":"Number of feedback items does not match number of choices","Number of feedback items":"Number of feedback items","Please fix and try again":"Please fix and try again","Text before header":"Text before header","Text before intro":"Text before intro","There should be two feedback items -- correct and incorrect -- for each label":"There should be two feedback items -- correct and incorrect -- for each label","[textentry] on back of card, but not on front":"[textentry] on back of card, but not on front","Too many feedback shortcodes":"Too many feedback shortcodes","Topic(s) were given for at least one question, but at least one question doesn't have a topic":"Topic(s) were given for at least one question, but at least one question doesn't have a topic","Unmatched [qdeck] - [\/qdeck] pairs":"Unmatched [qdeck] - [\/qdeck] pairs","Unmatched [qwiz] - [\/qwiz] pairs":"Unmatched [qwiz] - [\/qwiz] pairs"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-content/plugins/qwiz-online-quizzes-and-flashcards/qwizcards.js?ver=3.54' id='qwizcards_handle-js'></script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-content/plugins/qwiz-online-quizzes-and-flashcards/jquery.ui.touch-punch.min.js?ver=3.54' id='jquery_ui_touchpunch_handle-js'></script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-content/themes/magazinestyle/foundation/js/foundation.min.js' id='foundation-js'></script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-content/themes/magazinestyle/foundation/js/foundation_init.js' id='foundation_init-js'></script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-includes/js/comment-reply.min.js?ver=5.6' id='comment-reply-js'></script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-includes/js/wp-embed.min.js?ver=5.6' id='wp-embed-js'></script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-content/plugins/powerpress/player.min.js?ver=5.6' id='powerpress-player-js'></script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=5.6' id='wp-mediaelement-js'></script>
+<script>
+    $(document).foundation();
+</script>
+</body>
+</html>

@@ -1,0 +1,593 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+<head>
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />	
+	<link rel="pingback" href="https://ilovelearningchinese.com/xmlrpc.php" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+	<title>Lessons &#8211; I Love Learning Chinese</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/ilovelearningchinese.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.6"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='scap.flashblock-css'  href='https://ilovelearningchinese.com/wp-content/plugins/compact-wp-audio-player/css/flashblock.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='scap.player-css'  href='https://ilovelearningchinese.com/wp-content/plugins/compact-wp-audio-player/css/player.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='wpts_ui_css-css'  href='https://ilovelearningchinese.com/wp-content/plugins/wordpress-post-tabs/css/styles/red/style.css?ver=1.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://ilovelearningchinese.com/wp-includes/css/dist/block-library/style.min.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='mediaelement-css'  href='https://ilovelearningchinese.com/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.16' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css'  href='https://ilovelearningchinese.com/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='qwiz_css_handle-css'  href='https://ilovelearningchinese.com/wp-content/plugins/qwiz-online-quizzes-and-flashcards/qwiz.css?ver=3.54' type='text/css' media='all' />
+<link rel='stylesheet' id='qwizcards_css_handle-css'  href='https://ilovelearningchinese.com/wp-content/plugins/qwiz-online-quizzes-and-flashcards/qwizcards.css?ver=3.54' type='text/css' media='all' />
+<link rel='stylesheet' id='lightness_handle-css'  href='https://ilovelearningchinese.com/wp-content/plugins/qwiz-online-quizzes-and-flashcards/jquery-ui.min.lightness.css?ver=3.54' type='text/css' media='all' />
+<link rel='stylesheet' id='magazine-font-awesome-css'  href='https://ilovelearningchinese.com/wp-content/themes/magazinestyle/font-awesome/css/font-awesome.min.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='magazine-style-css'  href='https://ilovelearningchinese.com/wp-content/themes/magazinestyle/style.css?ver=5.6' type='text/css' media='all' />
+<style id='magazine-style-inline-css' type='text/css'>
+
+		nav.top-bar .top-bar-section li:not(.has-form) a:not(.button),
+			nav.top-bar,
+			nav.top-bar.expanded .title-area{
+			background:#333333 !important;
+		}
+		nav.top-bar, nav.top-bar.expanded .title-area{
+			border-color:#FD4326 !important;
+		}
+		#menu-main-menu > li.current_page_item.home-icon > a, #menu-top > li.current_page_item.home-icon > a,
+		nav.top-bar .top-bar-section li:not(.has-form).current-menu-item a:not(.button),
+		nav.top-bar .top-bar-section li:not(.has-form) a:not(.button):hover{
+			background:#FD4326 !important;
+		}
+
+		
+</style>
+<link rel='stylesheet' id='magazine-body-font-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A100%2C300%2C400%2C700&#038;ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='magazine-title-font-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A100%2C300%2C400%2C700&#038;ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='magazine-title-post-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A100%2C300%2C400%2C700&#038;ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='magazine-foundation-css-css'  href='https://ilovelearningchinese.com/wp-content/themes/magazinestyle/foundation/css/foundation.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='magazine-reset-css'  href='https://ilovelearningchinese.com/wp-content/themes/magazinestyle/foundation/css/normalize.css?ver=5.1.1' type='text/css' media='screen' />
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-content/plugins/compact-wp-audio-player/js/soundmanager2-nodebug-jsmin.js?ver=5.6' id='scap.soundmanager2-js'></script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-content/themes/magazinestyle/foundation/js/vendor/jquery.js' id='jquery-js'></script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-content/themes/magazinestyle/js/backscript.js?ver=1.0' id='backscript-js'></script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-content/themes/magazinestyle/foundation/js/vendor/modernizr.js' id='modernizr-js'></script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-content/themes/magazinestyle/js/smoothscroll.js?ver=1.0' id='magazine-smoothscroll-js'></script>
+<link rel="https://api.w.org/" href="https://ilovelearningchinese.com/wp-json/" /><link rel="alternate" type="application/json" href="https://ilovelearningchinese.com/wp-json/wp/v2/pages/2" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://ilovelearningchinese.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://ilovelearningchinese.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.6" />
+<link rel="canonical" href="https://ilovelearningchinese.com/sample-page" />
+<link rel='shortlink' href='https://ilovelearningchinese.com/?p=2' />
+<link rel="alternate" type="application/json+oembed" href="https://ilovelearningchinese.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Filovelearningchinese.com%2Fsample-page" />
+<link rel="alternate" type="text/xml+oembed" href="https://ilovelearningchinese.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Filovelearningchinese.com%2Fsample-page&#038;format=xml" />
+<script type="text/javascript"><!--
+function powerpress_pinw(pinw_url){window.open(pinw_url, 'PowerPressPlayer','toolbar=0,status=0,resizable=1,width=460,height=320');	return false;}
+//-->
+</script>
+<style type="text/css">#header{background-image:url("https://ilovelearningchinese.com/wp-content/uploads/2016/02/cropped-logo_ILLC_edit_2_small-1.jpg"); background-size: 100% 100%;}</style>       <style type="text/css">
+		body { background: #ffffff}
+			h1.entry-title a{ font-size:14px; font-family: Open Sans; color:#2D89A7;}
+			h2.entry-title a{ font-size:14px; font-family: Open Sans; color:#2D89A7;}
+			h1,h2,h3,h4,h5,h6,
+			.entry p,
+			.entry h1,
+			.entry h2,
+			.entry h3,
+			.entry h4,
+			.entry h5,
+			.entry h6,
+			body{ font-size:14px; font-family: Open Sans; color:#424242;}
+		a{ color: #2D89A7; }
+		#pagenavi span.current, #pagenavi a:hover{ background-color: #333333 !important; }
+		#pagenavi a, #pagenavi span{ background-color: #FD4326 !important;  color: #ffffff !important;}
+		#navigation li:hover > a, #navigation .current_page_item, #navigation .secondary ul li.current-menu-item, #navigation .secondary >ul >li a:hover{ color:#ffffff !important; background: #FD4326 !important;}
+		a:hover{ color: #FD4326 !important; }
+		#top-menu-inner, #top-menu ul ul a{ background: #2693BA !important; }
+		#top-menu .first ul li.current-menu-item, #top-menu .first >ul >li a:hover{ color: #fff !important; background: ##359BED !important; }
+		#navigation, #navigation ul ul a{ background: #333333;}
+		#navigation-inner{ border-color: #FD4326;}
+		
+		#searchsubmit,
+		.readmore,
+		ol.commentlist li div.reply,
+		#commentform #submit{ background: #FD4326;}
+		
+		#sidebar h4, #sidebar h4 a{ background: #333333; border-bottom-color:#FD4326 !important;}
+		#searchsubmit { background: #FD4326;}
+		#sidebar h4, #sidebar h4 a { color: #ffffff;}
+		#bottom-menu h4 { background: #333333; color: #ffffff;}
+		#footer { background: #333333;}
+		#page-inner,#bottom-menu,.menuwidth,div#header{ max-width: 1200px !important;}
+	</style>
+    
+<meta name="google-site-verification" content="UA-51574809-1" />
+<meta name="msvalidate.01" content="B2CB18BAC949E510345C16531DCCEC48"/>
+
+<style type="text/css" xmlns="http://www.w3.org/1999/html">
+
+/*
+PowerPress subscribe sidebar widget
+*/
+.widget-area .widget_powerpress_subscribe h2,
+.widget-area .widget_powerpress_subscribe h3,
+.widget-area .widget_powerpress_subscribe h4,
+.widget_powerpress_subscribe h2,
+.widget_powerpress_subscribe h3,
+.widget_powerpress_subscribe h4 {
+	margin-bottom: 0;
+	padding-bottom: 0;
+}
+</style>
+	<style type="text/css">
+			.site-title,
+		.site-description {
+			position: absolute;
+			clip: rect(1px, 1px, 1px, 1px);
+		}
+		</style>
+	<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #fff8ea; }
+</style>
+	</head>
+
+<body class="page-template-default page page-id-2 custom-background" id="top">
+<div class="wrapper">
+<!-- BEGIN HEADER -->
+	<div id="header">
+    <div id="header-inner" class="clearfix">
+		<div class="large-5 columns">
+		<div id="logo">
+        
+            <h1 class="site-title">
+			<a href="https://ilovelearningchinese.com/" title="I Love Learning Chinese" rel="home">I Love Learning Chinese</a></h1>
+			<h2 class="site-description">Study and Learn Chinese Mandarin online with podcasts and PDF</h2>
+      
+    		
+		</div>		
+		</div>
+<div class="large-7 columns">		
+<!--   
+Package: Free Social Media Icons
+Author: Konstantin 
+Source: http://kovshenin.com/2011/freebies-a-simple-social-icon-set-gpl/
+
+License: GPL v2 http://www.gnu.org/licenses/gpl-2.0.html
+-->
+<ul class="spicesocialwidget">
+
+<li class="facebook">
+<a rel="nofollow" href="https://www.facebook.com/ilovelearningchinese" target="_blank" title="facebook">
+</a></li>
+	<li class="rss">
+<a rel="nofollow" href="http://feeds.feedburner.com/ilovelearningchinese" target="_blank" title="rss">
+</a></li>
+</ul>    </div> <!-- end div #header-inner -->
+    </div> <!-- end div #header-inner -->
+	</div> <!-- end div #header -->
+	<!-- BEGIN TOP NAVIGATION -->	
+
+
+<nav class="top-bar" data-topbar> 
+<div class="menuwidth">   
+<section class="top-bar-section"> 
+	<!-- Right Nav Section -->                 
+	<ul id="menu-menu-1" class="top-bar-menu left"><li class="home-icon"><a href="https://ilovelearningchinese.com/" title="Home"><i class="fa fa-home"></i></a></li><li id="menu-item-330" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-330"><a href="https://ilovelearningchinese.com/start-here">START 开始学习</a></li>
+<li id="menu-item-47" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2 current_page_item menu-item-has-children active has-dropdown menu-item-47"><a href="https://ilovelearningchinese.com/sample-page">Lessons 课程</a>
+<ul class="sub-menu dropdown">
+	<li id="menu-item-547" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-547"><a href="https://ilovelearningchinese.com/level-0-pinyin-chinese-phonetic-alphabets-%e6%8b%bc%e9%9f%b3">Level 0 基础</a></li>
+	<li id="menu-item-48" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-48"><a href="https://ilovelearningchinese.com/archives/category/grammar/level-1">Level 1 第一集</a></li>
+	<li id="menu-item-1031" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1031"><a href="https://ilovelearningchinese.com/archives/category/grammar/level-2">Level 2 第二集</a></li>
+	<li id="menu-item-1661" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1661"><a href="https://ilovelearningchinese.com/archives/category/grammar/level-3">Level 3 第三集</a></li>
+	<li id="menu-item-2579" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2579"><a href="https://ilovelearningchinese.com/archives/category/grammar/level-4">Level 4 第四集</a></li>
+	<li id="menu-item-3110" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3110"><a href="https://ilovelearningchinese.com/archives/category/grammar/level-5">Level 5 第五集</a></li>
+	<li id="menu-item-3475" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3475"><a href="https://ilovelearningchinese.com/archives/category/grammar/level-6">Level 6 第六集</a></li>
+	<li id="menu-item-3949" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3949"><a href="https://ilovelearningchinese.com/archives/category/grammar/level-7">Level 7 第七集</a></li>
+</ul>
+</li>
+<li id="menu-item-234" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children has-dropdown menu-item-234"><a href="https://ilovelearningchinese.com/extra">Extra 更多内容</a>
+<ul class="sub-menu dropdown">
+	<li id="menu-item-3254" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3254"><a href="https://ilovelearningchinese.com/chineseclass101">Chineseclass101</a></li>
+	<li id="menu-item-1426" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children has-dropdown menu-item-1426"><a href="https://ilovelearningchinese.com/essential-vocab-%e6%a0%b8%e5%bf%83%e8%af%8d%e6%b1%87">Essential Voca 核心词汇</a>
+	<ul class="sub-menu dropdown">
+		<li id="menu-item-679" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-679"><a href="https://ilovelearningchinese.com/archives/category/essential-100-words">1-100 一到一百</a></li>
+	</ul>
+</li>
+	<li id="menu-item-276" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-276"><a href="https://ilovelearningchinese.com/archives/category/chinese-vocab-with-pictures">Picture Vocab 看图识词</a></li>
+	<li id="menu-item-751" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-751"><a href="https://ilovelearningchinese.com/archives/category/essential-100-phrases">Essential Phrases 重要短语</a></li>
+	<li id="menu-item-533" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-533"><a href="https://ilovelearningchinese.com/archives/category/learn-chinese-fortune-cookie">Fortune Cookie 幸运饼干</a></li>
+	<li id="menu-item-2328" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children has-dropdown menu-item-2328"><a href="https://ilovelearningchinese.com/archives/category/just-dialogue">Just Dialogue</a>
+	<ul class="sub-menu dropdown">
+		<li id="menu-item-2329" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2329"><a href="https://ilovelearningchinese.com/archives/category/just-dialogue/beginner">beginner</a></li>
+		<li id="menu-item-2375" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2375"><a href="https://ilovelearningchinese.com/archives/category/just-dialogue/intermediate">intermediate</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1841" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1841"><a href="https://ilovelearningchinese.com/archives/category/childrens-story">Children&#8217;s Story 儿童故事</a></li>
+	<li id="menu-item-265" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-265"><a href="https://ilovelearningchinese.com/archives/category/blog">Short Readings 短文</a></li>
+	<li id="menu-item-1590" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1590"><a href="https://ilovelearningchinese.com/archives/category/news">News In Chinese 新闻</a></li>
+</ul>
+</li>
+</ul>                 
+	<!-- Left Nav Section -->                 
+</section>    
+<ul class="title-area"> 
+	<li class="name">  
+	</li>                 
+	<li class="toggle-topbar menu-icon">
+		<a href="#">
+			Menu<i class="fa fa-bars"></i>
+		</a>
+	</li>                 
+</ul>    
+</div>         
+</nav>
+
+	<!-- BEGIN PAGE -->
+	<div id="page">
+    <div id="page-inner" class="clearfix">
+<div id="banner-top"><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick" />
+<input type="hidden" name="hosted_button_id" value="EASPL2VH48HA6" />
+<input type="image" src="http://ilovelearningchinese.com/wp-content/uploads/2019/09/donate2.jpg" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+</form><br>
+<a href='https://www.chineseclass101.com/member/go.php?r=229854&amp;i=b17'><img src='https://www.chineseclass101.com/images/aff_banner/chinese_mobile_320x50.png' border='0' alt='Learn Chinese with Free Podcasts'></a>
+<?php if (function_exists('sfs_display_count_badge')) sfs_display_count_badge(); ?>
+
+
+</div>				<div class="large-12 columns content">
+										<div id="pagepost-2" class="pagepost clearfix">					
+				<h1 class="entry-title" itemprop="name"><a itemprop="url" href="https://ilovelearningchinese.com/sample-page" rel="bookmark" title="Lessons">Lessons</a></h1>
+							<div class="entry" class="clearfix">
+																
+								<p>We hope that through our podcast you will be able to learn the ropes to make Chinese your language.</p>
+<h1>Level 0</h1>
+<p><a title="Level 0 Pinyin – Chinese Phonetic Alphabets / 拼音" href="http://ilovelearningchinese.com/?page_id=535" target="_blank" rel="noopener noreferrer">Pinyin</a></p>
+<h1>Level 1</h1>
+<p><a title="Level 1 Lesson 1 / Hello! / 你好！" href="http://ilovelearningchinese.com/?p=1" target="_blank" rel="noopener noreferrer">Lesson 1 &#8211; Hello! , Thank You!; Good Bye / 你好; 谢谢; 再见</a></p>
+<p><a title="Level 1 Lesson 2 / I’m called… / 我叫。。。" href="http://ilovelearningchinese.com/?p=178" target="_blank" rel="noopener noreferrer">Lesson 2 &#8211; I&#8217;m Called&#8230;; I&#8217;m Sorry; Nevermind; What? / 我叫; 对不起; 没关系; 什么</a></p>
+<p><a title="Level 1 Lesson 3 / I’m…, How about you?, to like / 我是。。。,你呢？,喜欢,。。。" href="http://ilovelearningchinese.com/?p=231" target="_blank" rel="noopener noreferrer">Lesson 3 / I&#8217;m&#8230;; How about you?; to like / 我是&#8230;;你呢？;喜欢</a>&#8230;</p>
+<p><a title="Level 1 Lesson 4 / What is this? What is that? My… / 这是什么? 那是什么? 我的…" href="http://ilovelearningchinese.com/?p=303" target="_blank" rel="noopener noreferrer">Lesson 4 / What is this? What is that? My&#8230; / 这是什么? 那是什么? 我的&#8230;</a></p>
+<p><a title="Level 1 Lesson 5 / Review/ Correct, What kind of… / 复习 / 对，这是什…?" href="http://ilovelearningchinese.com/?p=489" target="_blank" rel="noopener noreferrer">Lesson 5 / Review/ Correct, What kind of&#8230; / 复习 / 对，这是什&#8230;?</a></p>
+<p><a title="Level 1 Lesson 6 / Also, To go, Numbers / 也, 去, 数字" href="http://ilovelearningchinese.com/?p=552" target="_blank" rel="noopener noreferrer">Lesson 6 / Also, To go, Numbers / 也, 去, 数字</a></p>
+<p><a title="Level 1 Lesson 7 / 0, What time…., Weekends / 零, 现在几点了？, 你周末做什么?" href="http://ilovelearningchinese.com/?p=575" target="_blank" rel="noopener noreferrer">Lesson 7 / 0, What time&#8230;., Weekends / 零, 现在几点了？, 你周末做什么?</a></p>
+<p><a title="Level 1 Lesson 8 / Calendar / 日历" href="http://ilovelearningchinese.com/?p=602" target="_blank" rel="noopener noreferrer">Lesson 8 / Calendar / 日历</a></p>
+<p><a title="Level 1 Lesson 9 – Yesterday, Today, Tomorrow / 昨天, 今天, 明天" href="http://ilovelearningchinese.com/?p=615" target="_blank" rel="noopener noreferrer">Lesson 9 &#8211; Yesterday, Today, Tomorrow / 昨天, 今天, 明天</a></p>
+<p><a href="http://ilovelearningchinese.com/?p=698%20" target="_blank" rel="noopener noreferrer">Lesson10 &#8211; I Like Traveling / 我喜欢旅游</a></p>
+<p><a title="Level 1 Lesson 11 – Have or Have Not, Drink Tea / 有没有, 喝茶" href="http://ilovelearningchinese.com/?p=733" target="_blank" rel="noopener noreferrer">Lesson 11 &#8211; Have or Have Not, Drink Tea  / 有没有, 喝茶</a></p>
+<p><a title="Level 1 Lesson 12 – How you feeling today? / 你心情怎么样？" href="http://ilovelearningchinese.com/?p=758" target="_blank" rel="noopener noreferrer">Lesson 12 &#8211; How you feeling today?  / 你心情怎么样？</a></p>
+<p><a title="Level 1 Lesson 13 – How is the weather? / 天气怎么样？" href="http://ilovelearningchinese.com/?p=774" target="_blank" rel="noopener noreferrer">Lesson 13 &#8211; How is the weather?  / 天气怎么样？</a></p>
+<p><a title="Level 1 Lesson 14 – Where’s the Bathroom / 洗手间在哪？" href="http://ilovelearningchinese.com/?p=781" target="_blank" rel="noopener noreferrer">Lesson 14 &#8211; Where&#8217;s the Bathroom  / 洗手间在哪？</a></p>
+<p><a title="Level 1 Lesson 15 – Have you been to Sea World? / 你去过Sea World 吗？(Review)" href="http://ilovelearningchinese.com/?p=789" target="_blank" rel="noopener noreferrer">Lesson 15 &#8211; Have you been to Sea World?  / 你去过Sea World 吗？(Review)</a></p>
+<p><a title="Level 1 Lesson 16 – I Would like Coffee / 我要咖啡" href="http://ilovelearningchinese.com/?p=797" target="_blank" rel="noopener noreferrer">Lesson 16 &#8211; I Would like Coffee  / 我要咖啡</a></p>
+<p><a title="Level 1 Lesson 17 – 你能做饭吗？ / Are you able to cook?" href="http://ilovelearningchinese.com/?p=842" target="_blank" rel="noopener noreferrer">Lesson 17 &#8211; 你能做饭吗？  / Are you able to cook?</a></p>
+<p><a title="Level 1 Lesson 18 – 我在健身房 / I’m at the gym" href="http://ilovelearningchinese.com/?p=853" target="_blank" rel="noopener noreferrer">Lesson 18 &#8211; 我在健身房  / I&#8217;m at the gym</a></p>
+<p><a title="Level 1 Lesson 19 – 多少钱 / How much Money?" href="http://ilovelearningchinese.com/?p=907" target="_blank" rel="noopener noreferrer">Lesson 19 &#8211; 多少钱  / How much Money?</a></p>
+<p><a title="Level 1 Lesson 20 – 失而复得 / Lost Something but Found it (Review)" href="http://ilovelearningchinese.com/?p=921" target="_blank" rel="noopener noreferrer">Lesson 20 &#8211; 失而复得  / Lost Something but Found it (Review)</a></p>
+<p><a title="Level 1 Lesson 21 – 什么 / What" href="http://ilovelearningchinese.com/?p=929" target="_blank" rel="noopener noreferrer">Lesson 21 &#8211; 什么  / What</a></p>
+<p><a title="Level 1 Lesson 22 – 为什么 / Why" href="http://ilovelearningchinese.com/free/level-1-lesson-22-%e4%b8%ba%e4%bb%80%e4%b9%88-why/" target="_blank" rel="noopener noreferrer">Lesson 22 &#8211; 为什么  / Why</a></p>
+<p><a title="Level 1 Lesson 23 – 感恩节的火鸡 / Thanksgiving’s Turkey" href="http://ilovelearningchinese.com/free/level-1-lesson-23-%e6%84%9f%e6%81%a9%e8%8a%82%e7%9a%84%e7%81%ab%e9%b8%a1-thanksgivings-turkey/" target="_blank" rel="noopener noreferrer">Lesson 23 &#8211; 感恩节的火鸡  / Thanksgiving&#8217;s Turkey</a></p>
+<p><a title="Level 1 Lesson 24 – 做买卖 / To do Business" href="http://ilovelearningchinese.com/free/level-1-lesson-24-%e5%81%9a%e4%b9%b0%e5%8d%96-to-do-business/" target="_blank" rel="noopener noreferrer">Lesson 24 &#8211; 做买卖  / To do Business</a></p>
+<p><a title="Level 1 Lesson 25 – 新年快乐 / Happy New Year (Review)" href="http://ilovelearningchinese.com/free/study/level-1-lesson-25-%e6%96%b0%e5%b9%b4%e5%bf%ab%e4%b9%90-happy-new-year-review/" target="_blank" rel="noopener noreferrer">Lesson 25 &#8211; 新年快乐  / Happy New Year (Review)</a></p>
+<h1>Level 2</h1>
+<p><a title="Level 2 Lesson 1 – 累死了/ Tired to Death" href="http://ilovelearningchinese.com/free/study/level-2-lesson-1-%e7%b4%af%e6%ad%bb%e4%ba%86-tired-to-death/" target="_blank" rel="noopener noreferrer">Lesson 1 &#8211; 累死了/ Tired to Death</a></p>
+<p><a title="Level 2 Lesson 2 – 好莱坞比较有名/ Hollywood is Comparatively Famous" href="http://ilovelearningchinese.com/free/study/level-2-lesson-2-%e5%a5%bd%e8%8e%b1%e5%9d%9e%e6%af%94%e8%be%83%e6%9c%89%e5%90%8d-hollywood-is-comparatively-famous/" target="_blank" rel="noopener noreferrer">Lesson 2 &#8211; 好莱坞比较有名/ Hollywood is Comparatively Famous</a></p>
+<p><a title="Level 2 Lesson 3 – 宝宝多睡觉是应该的/ Babies are supposed to sleep a lot" href="http://ilovelearningchinese.com/free/study/level-2-lesson-3-%e5%ae%9d%e5%ae%9d%e5%a4%9a%e7%9d%a1%e8%a7%89%e6%98%af%e5%ba%94%e8%af%a5%e7%9a%84-babies-are-supposed-to-sleep-a-lot/" target="_blank" rel="noopener noreferrer">Lesson 3 &#8211; 宝宝多睡觉是应该的/ Babies are supposed to sleep a lot</a></p>
+<p><a class="row-title" title="Edit “Level 2 Lesson 4 – 小的时候我喜欢吃糖 / When I was little I liked to eat candy”" href="http://ilovelearningchinese.com/free/study/level-2-lesson-4-%e5%b0%8f%e7%9a%84%e6%97%b6%e5%80%99%e6%88%91%e5%96%9c%e6%ac%a2%e5%90%83%e7%b3%96-when-i-was-little-i-liked-to-eat-candy/" target="_blank" rel="noopener noreferrer">Level 2 Lesson 4 – 小的时候我喜欢吃糖 / When I was little I liked to eat candy</a></p>
+<p><a class="row-title" title="Edit “Level 2 Lesson 5 – 我要打工 / I’m going to work (Review/复习)”" href="http://ilovelearningchinese.com/free/study/level-2-lesson-5-%e6%88%91%e8%a6%81%e6%89%93%e5%b7%a5-im-going-to-work-review%e5%a4%8d%e4%b9%a0/" target="_blank" rel="noopener noreferrer">Level 2 Lesson 5 – 我要打工 / I’m going to work (Review/复习)</a></p>
+<p><a class="row-title" title="Edit “Level 2 Lesson 6 – 接一下电话 / Please pick up the phone”" href="http://ilovelearningchinese.com/free/study/level-2-lesson-6-%e6%8e%a5%e4%b8%80%e4%b8%8b%e7%94%b5%e8%af%9d-please-pick-up-the-phone/" target="_blank" rel="noopener noreferrer">Level 2 Lesson 6 – 接一下电话 / Please pick up the phone</a></p>
+<p><a class="row-title" title="Edit “Level 2 Lesson 7 – 你总是喝可乐吗？/ Do you always drink Coke?”" href="http://ilovelearningchinese.com/free/study/level-2-lesson-7-%e4%bd%a0%e6%80%bb%e6%98%af%e5%96%9d%e5%8f%af%e4%b9%90%e5%90%97%ef%bc%9f-do-you-always-drink-coke/" target="_blank" rel="noopener noreferrer">Level 2 Lesson 7 – 你总是喝可乐吗？/ Do you always drink Coke?</a></p>
+<p><a class="row-title" title="Edit “Level 2 Lesson 8 – 我很喜欢吃意大利菜，可是不常常做 / I like Italian food, but I don’t cook often”" href="http://ilovelearningchinese.com/free/study/level-2-lesson-8-%e6%88%91%e5%be%88%e5%96%9c%e6%ac%a2%e5%90%83%e6%84%8f%e5%a4%a7%e5%88%a9%e8%8f%9c%ef%bc%8c%e5%8f%af%e6%98%af%e4%b8%8d%e5%b8%b8%e5%b8%b8%e5%81%9a-i-like-italian-food-but-i-dont/" target="_blank" rel="noopener noreferrer">Level 2 Lesson 8 – 我很喜欢吃意大利菜，可是不常常做 / I like Italian food, but I don’t cook often</a></p>
+<p><a class="row-title" title="Edit “Level 2 Lesson 9 – 别吃太多垃圾食品 / Don’t eat too much junk food”" href="http://ilovelearningchinese.com/free/study/level-2-lesson-9-%e5%88%ab%e5%90%83%e5%a4%aa%e5%a4%9a%e5%9e%83%e5%9c%be%e9%a3%9f%e5%93%81-dont-eat-too-much-junk-food/" target="_blank" rel="noopener noreferrer">Level 2 Lesson 9 – 别吃太多垃圾食品 / Don’t eat too much junk food</a></p>
+<p><a class="row-title" title="Edit “Level 2 Lesson 10 – 别忘了防晒霜和太阳镜 / Don’t forget to take sunscreen and sunglasses (Review)”" href="http://ilovelearningchinese.com/free/study/level-2-lesson-10-%e5%88%ab%e5%bf%98%e4%ba%86%e9%98%b2%e6%99%92%e9%9c%9c%e5%92%8c%e5%a4%aa%e9%98%b3%e9%95%9c-dont-forget-to-take-sunscreen-and-sunglasses-review/" target="_blank" rel="noopener noreferrer">Level 2 Lesson 10 – 别忘了防晒霜和太阳镜 / Don’t forget to take sunscreen and sunglasses (Review)</a></p>
+<p><a class="row-title" title="Edit “Level 2 Lesson 11 – 你想明年结婚吗? / Would you like to get married next year?”" href="http://ilovelearningchinese.com/free/study/level-2-lesson-11-%e4%bd%a0%e6%83%b3%e6%98%8e%e5%b9%b4%e7%bb%93%e5%a9%9a%e5%90%97-would-you-like-to-get-married-next-year/" target="_blank" rel="noopener noreferrer">Level 2 Lesson 11 – 你想明年结婚吗? / Would you like to get married next year?</a></p>
+<p><a class="row-title" title="Edit “Level 2 Lesson 12 – 春天有的时候下雨… / In the Spring Sometimes it Rains…”" href="http://ilovelearningchinese.com/free/study/level-2-lesson-12-%e6%98%a5%e5%a4%a9%e6%9c%89%e7%9a%84%e6%97%b6%e5%80%99%e4%b8%8b%e9%9b%a8-in-the-spring-sometimes-it-rains/" target="_blank" rel="noopener noreferrer">Level 2 Lesson 12 – 春天有的时候下雨… / In the Spring Sometimes it Rains…</a></p>
+<p><a class="row-title" title="Edit “Level 2 Lesson 13 – 我的朋友从来没有开过车 / My Friend Has Never Driven a Car”" href="http://ilovelearningchinese.com/free/study/level-2-lesson-13-%e6%88%91%e7%9a%84%e6%9c%8b%e5%8f%8b%e4%bb%8e%e6%9d%a5%e6%b2%a1%e6%9c%89%e5%bc%80%e8%bf%87%e8%bd%a6-my-friend-has-never-driven-a-car/" target="_blank" rel="noopener noreferrer">Level 2 Lesson 13 – 我的朋友从来没有开过车 / My Friend Has Never Driven a Car</a></p>
+<p><a class="row-title" title="Edit “Level 2 Lesson 14 – 电话怎么没有人接？ / How come nobody is picking up the phone?”" href="http://ilovelearningchinese.com/free/study/level-2-lesson-14-%e7%94%b5%e8%af%9d%e6%80%8e%e4%b9%88%e6%b2%a1%e6%9c%89%e4%ba%ba%e6%8e%a5%ef%bc%9f-how-come-nobody-is-picking-up-the-phone/" target="_blank" rel="noopener noreferrer">Level 2 Lesson 14 – 电话怎么没有人接？ / How come nobody is picking up the phone?</a></p>
+<p><a class="row-title" title="Edit “Level 2 Lesson 15 – 我想去迪士尼，也想去坐游轮 / I’d like to go to Disney, and also on a cruise (Review)”" href="http://ilovelearningchinese.com/free/study/level-2-lesson-15-%e6%88%91%e6%83%b3%e5%8e%bb%e8%bf%aa%e5%a3%ab%e5%b0%bc%ef%bc%8c%e4%b9%9f%e6%83%b3%e5%8e%bb%e5%9d%90%e6%b8%b8%e8%bd%ae-id-like-to-go-to-disney-and-also-on-a-cruise-review/" target="_blank" rel="noopener noreferrer">Level 2 Lesson 15 – 我想去迪士尼，也想去坐游轮 / I’d like to go to Disney, and also on a cruise (Review)</a></p>
+<p><a class="row-title" title="Edit “Level 2 Lesson 16 – Jacky 喜欢Daisy, 可是一直不告诉她 / Jacky likes Daisy but doesn’t tell her.”" href="http://ilovelearningchinese.com/free/study/level-2-lesson-16-jacky-%e5%96%9c%e6%ac%a2daisy-%e5%8f%af%e6%98%af%e4%b8%80%e7%9b%b4%e4%b8%8d%e5%91%8a%e8%af%89%e5%a5%b9-jacky-likes-daisy-but-doesnt-tell-her/" target="_blank" rel="noopener noreferrer">Level 2 Lesson 16 – Jacky 喜欢Daisy, 可是一直不告诉她 / Jacky likes Daisy but doesn’t tell her.</a></p>
+<p><a class="row-title" title="Edit “Level 2 Lesson 17 – 我最讨厌吃火鸡，买东西 / I most dislike eating turkey, shopping.”" href="http://ilovelearningchinese.com/free/study/level-2-lesson-17-%e6%88%91%e6%9c%80%e8%ae%a8%e5%8e%8c%e5%90%83%e7%81%ab%e9%b8%a1%ef%bc%8c%e4%b9%b0%e4%b8%9c%e8%a5%bf-i-most-dislike-eating-turkey-shopping/" target="_blank" rel="noopener noreferrer">Level 2 Lesson 17 – 我最讨厌吃火鸡，买东西 / I most dislike eating turkey, shopping.</a></p>
+<p><a class="row-title" title="Edit “Level 2 Lesson 18 – 商店里人已经很多了 / The stores are already crowded”" href="http://ilovelearningchinese.com/free/study/level-2-lesson-18-%e5%95%86%e5%ba%97%e9%87%8c%e4%ba%ba%e5%b7%b2%e7%bb%8f%e5%be%88%e5%a4%9a%e4%ba%86-the-stores-are-already-crowded/" target="_blank" rel="noopener noreferrer">Level 2 Lesson 18 – 商店里人已经很多了 / The stores are already crowded</a></p>
+<p><a class="row-title" title="Edit “Level 2 Lesson 19 – 中文好学 / It is easy to learn Chinese”" href="http://ilovelearningchinese.com/free/study/level-2-lesson-19-%e4%b8%ad%e6%96%87%e5%a5%bd%e5%ad%a6-it-is-easy-to-learn-chinese/" target="_blank" rel="noopener noreferrer">Level 2 Lesson 19 – 中文好学 / It is easy to learn Chinese</a></p>
+<p><a class="row-title" title="Edit “Level 2 Lesson 20 – 好吃又好玩 / Delicious and Fun (Review)”" href="http://ilovelearningchinese.com/free/study/level-2-lesson-20-%e5%a5%bd%e5%90%83%e5%8f%88%e5%a5%bd%e7%8e%a9-delicious-and-fun-review/" target="_blank" rel="noopener noreferrer">Level 2 Lesson 20 – 好吃又好玩 / Delicious and Fun (Review)</a></p>
+<p><a href="http://ilovelearningchinese.com/free/study/level-2-lesson-21-%e5%90%ac%e8%af%b4%e7%a5%a8%e5%bf%ab%e5%8d%96%e5%ae%8c%e4%ba%86-i-heard-tickets-were-almost-sold-out/" target="_blank" rel="noopener noreferrer">Level 2 Lesson 21 &#8211; 听说票快卖完了 / I heard tickets were almost sold out</a></p>
+<p><a href="http://ilovelearningchinese.com/free/study/level-2-lesson-22-%e4%bd%a0%e4%b8%8d%e5%96%9c%e6%ac%a2%e8%96%af%e6%9d%a1%ef%bc%9f%e6%88%91%e4%b9%9f%e4%b8%80%e6%a0%b7-you-dont-like-fries-me-too/" target="_blank" rel="noopener noreferrer">Level 2 Lesson 22 &#8211; 你不喜欢薯条？我也一样 / You don&#8217;t like fries? Me too.</a></p>
+<p><a href="http://ilovelearningchinese.com/free/study/level-2-lesson-23-%e4%bd%a0%e5%96%9d%e8%8c%b6%e8%bf%98%e6%98%af%e5%92%96%e5%95%a1%ef%bc%9f-would-you-like-to-drink-tea-or-coffee/" target="_blank" rel="noopener noreferrer">Level 2 Lesson 23 &#8211; 你喝茶还是咖啡？ / Would you like to drink tea or coffee?</a></p>
+<p><a href="http://ilovelearningchinese.com/free/study/level-2-lesson-24-%e6%88%91%e4%bb%8e%e4%b8%ad%e5%9b%bd%e4%b8%8a%e6%b5%b7%e5%88%b0%e7%be%8e%e5%9b%bd%e5%ad%a6%e4%b9%a0-ive-come-from-china-to-us-for-learning/" target="_blank" rel="noopener noreferrer">Level 2 Lesson 24 &#8211; 我从中国上海到美国学习 / I&#8217;ve Come From China To US for Learning</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/1672" target="_blank" rel="noopener noreferrer">Level 2 Lesson 25 &#8211; 你会做饺子还是年糕？/ Can you make dumpling or rice cake? (Review)</a></p>
+<h1>Level 3</h1>
+<p><a href="http://ilovelearningchinese.com/archives/1711" target="_blank" rel="noopener noreferrer">Level 3 Lesson 1 &#8211; 你怎么庆祝情人节？/ How do you celebrate Valentine&#8217;s Day? (Level Test)</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/1740" target="_blank" rel="noopener noreferrer">Level 3 Lesson 2 &#8211; 作业差不多做完了 / Homework is almost done</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/1787" target="_blank" rel="noopener noreferrer">Level 3 Lesson 3 &#8211; 二零一五年的税你报完了吗？ / Have you filed your 2015 taxes?</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/1829" target="_blank" rel="noopener noreferrer">Level 3 Lesson 4 &#8211; 买车要花很多时间呢 / Buying a car you need to spend a lot of time</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/1852" target="_blank" rel="noopener noreferrer">Level 3 Lesson 5 &#8211; 基金没有股票风险大 / Mutual funds are not as risky as stocks</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/1887" target="_blank" rel="noopener noreferrer">Level 3 Lesson 6 &#8211; 什么语言都难学 / All Kinds of Language is Hard to Learn</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/1906" target="_blank" rel="noopener noreferrer">Level 3 Lesson 7 &#8211; 优胜美地多大？ / How Big is Yosemite?</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/1945">Level 3 Lesson 8 &#8211; 我喝完咖啡开始复习功课 / I started reviewing my lessons after finishing drinking coffee</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/1987">Level 3 Lesson 9 &#8211; 你会打网球吗? / Do you know how to play tennis?</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/1191">Level 3 Lesson 10 &#8211; 你会用微信吗? / Do you know how to use Wechat?</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/2057">Level 3 Lesson 11 &#8211; 太吵了，没办法看书 / It is too noisy, there&#8217;s no way to read books</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/2078" target="_blank" rel="noopener noreferrer">Level 3 Lesson 12 &#8211; 上海迪士尼开业了 / Shanghai&#8217;s Disney has opened</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/2095" target="_blank" rel="noopener noreferrer">Level 3 Lesson 13 &#8211; 警察给我罚单了 / The Police Gave Me a Ticket</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/2108" target="_blank" rel="noopener noreferrer">Level 3 Lesson 14 -上个周末我在巴哈马 / Last weekend I was at the Bahamas</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/2121" target="_blank" rel="noopener noreferrer">Level 3 Lesson 15 -飓风过去了 / Hurricane has passed</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/2138" target="_blank" rel="noopener noreferrer">Level 3 Lesson 16 -你们应该开始存钱 / You should start saving money</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/2150" target="_blank" rel="noopener noreferrer">Level 3 Lesson 17 -好玩的生日 / Fun Birthday Party</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/2163" target="_blank" rel="noopener noreferrer">Level 3 Lesson 18 -我听不懂 / I don&#8217;t understand</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/2174" target="_blank" rel="noopener noreferrer">Level 3 Lesson 19 -学费太贵了，所以要节约 / Tuition is too high so I need to save</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/2185" target="_blank" rel="noopener noreferrer">Level 3 Lesson 20 -在海边你们都做什么？ / What do you all do at the beach?</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/2194" target="_blank" rel="noopener noreferrer">Level 3 Lesson 21 -一双运动鞋 / One Pair of Sneakers</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/2307" target="_blank" rel="noopener noreferrer">Level 3 Lesson 22 -爱的五种语言 / The 5 Love Languages</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/2332" target="_blank" rel="noopener noreferrer">Level 3 Lesson 23 -祝贺你买了新车! / Congratulations on your new car!</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/2416" target="_blank" rel="noopener noreferrer">Level 3 Lesson 24 -每个人都喜欢Raymond / Everybody Loves Raymond</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/2585" target="_blank" rel="noopener noreferrer">Level 3 Lesson 25 -我就喜欢晒太阳 / I like to be exposed in the sun (REVIEW)</a></p>
+<h1>Level 4</h1>
+<p><a href="http://ilovelearningchinese.com/archives/2680" target="_blank" rel="noopener noreferrer">Level 4 Lesson 1 -你学的怎么样? / How is your studying?</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/2698" target="_blank" rel="noopener noreferrer">Level 4 Lesson 2 -刚才做好的饺子 / Dumplings have just been freshly made</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/2731" target="_blank" rel="noopener noreferrer">Level 4 Lesson 3 -昨晚中国有地震 / Yesterday there was an earthquake in China</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/2758" target="_blank" rel="noopener noreferrer">Level 4 Lesson 4 -日全食十分难得 / Total Eclipse is very rare</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/2763" target="_blank" rel="noopener noreferrer">Level 4 Lesson 5 -今晚我跟你去看电影 / Tonight I&#8217;ll Watch A Movie With You</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/2771" target="_blank" rel="noopener noreferrer">Level 4 Lesson 6 &#8211; 你病好一些了吗？/ Are you feeling better?</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/2780" target="_blank" rel="noopener noreferrer">Level 4 Lesson 7 &#8211; 这个主意好极了/ This idea was so great</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/2805" target="_blank" rel="noopener noreferrer">Level 4 Lesson 8 &#8211; 不过我不知道捐到哪里/ But I don&#8217;t know where to donate</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/2817" target="_blank" rel="noopener noreferrer">Level 4 Lesson 9 &#8211; 没怎么吃东西 / did not eat much</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/2833" target="_blank" rel="noopener noreferrer">Level 4 Lesson 10 &#8211; 不过我们没怎么开会 / But we didn&#8217;t really have a meeting</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/2846" target="_blank" rel="noopener noreferrer">Level 4 Lesson 11 &#8211; 去旧金山是为了看朋友 / Went to San Francisco to see a friend</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/2855" target="_blank" rel="noopener noreferrer">Level 4 Lesson 12 &#8211; 我差点上学迟到 / I was almost late for school</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/2909" target="_blank" rel="noopener noreferrer">Level 4 Lesson 13 &#8211; 快起床，要不校车走了 / Get up quick, otherwise the school bus will leave</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/2921" target="_blank" rel="noopener noreferrer">Level 4 Lesson 14 &#8211; 姐姐比妹妹高很多 / Older sister is much taller than younger sister</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/2943" target="_blank" rel="noopener noreferrer">Level 4 Lesson 15 &#8211; 秋季把时间往后调一个小时 / In the fall the time moves back 1 hour</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/2964" target="_blank" rel="noopener noreferrer">Level 4 Lesson 16 &#8211; 幸好你告诉我 / Good thing you told me</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/2972" target="_blank" rel="noopener noreferrer">Level 4 Lesson 17 &#8211; 今天的天气正好 / today&#8217;s weather is just right</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/2986" target="_blank" rel="noopener noreferrer">Level 4 Lesson 18 &#8211; 原来的老师更有耐心 / The previous teacher was more patient</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/2993" target="_blank" rel="noopener noreferrer">Level 4 Lesson 19 &#8211; 我的手机只有百分之二十的电了 / My cellphone only has 20% of its power</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/3021" target="_blank" rel="noopener noreferrer">Level 4 Lesson 20 &#8211; 你喜欢哪一种礼物？ / Which kind of gift do you like? (Review)</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/3035" target="_blank" rel="noopener noreferrer">Level 4 Lesson 21 &#8211; 这个包虽然很贵但是质量不好 / Though this purse is very expensive, it&#8217;s quality isn&#8217;t good</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/3041" target="_blank" rel="noopener noreferrer">Level 4 Lesson 22 &#8211; 公司用很多广告来介绍新产品 / Companies use lots of ads to introduce new products</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/3050" target="_blank" rel="noopener noreferrer">Level 4 Lesson 23 &#8211; 晚上要开车，你最好不要喝啤酒 / In the evening you will drive, you best not drink beer</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/3080" target="_blank" rel="noopener noreferrer">Level 4 Lesson 24 &#8211; 小李好像是老师 / Little Li seems to be a teacher</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/3096" target="_blank" rel="noopener noreferrer">Level 4 Lesson 25 &#8211; 这家公司完全通过网络来做广告 / The company advertises entirely online (Review)</a></p>
+<h1>Level 5</h1>
+<p><a href="http://ilovelearningchinese.com/archives/3107" target="_blank" rel="noopener noreferrer">Level 5 Lesson 1 &#8211; 我在买房子 / I&#8217;m buying a house</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/3124" target="_blank" rel="noopener noreferrer">Level 5 Lesson 2 &#8211; 不用客气 ,应该的 / you are welcome, no big deal</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/3132" target="_blank" rel="noopener noreferrer">Level 5 Lesson 3 &#8211; 哥哥应该不应该给女朋友送礼物？ / Should older brother give his girl friend a gift?</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/3144" target="_blank" rel="noopener noreferrer">Level 5 Lesson 4 &#8211; 开车多长时间？ / How long was the the drive?</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/3155" target="_blank" rel="noopener noreferrer">Level 5 Lesson 5 &#8211; 我对股票很感兴趣 / I&#8217;m very interested in stocks.</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/3163" target="_blank" rel="noopener noreferrer">Level 5 Lesson 6 &#8211; 现在才早上10点，你已经饿了吗？ / It is only 10am, you are already hungry?</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/3170" target="_blank" rel="noopener noreferrer">Level 5 Lesson 7 &#8211; 先洗手再吃饭 / first wash hands and then eat</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/3182" target="_blank" rel="noopener noreferrer">Level 5 Lesson 8 &#8211; 就要下雨了 你要带雨伞啊 / It is about to rain, you have to take umbrella</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/3191" target="_blank" rel="noopener noreferrer">Level 5 Lesson 9 &#8211; 有问题的话就给我打电话 / If you have questions call me</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/3199" target="_blank" rel="noopener noreferrer">Level 5 Lesson 10 &#8211; 老板对我的报告很满意 / My boss was very satisfied about my report</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/3208" target="_blank" rel="noopener noreferrer">Level 5 Lesson 11 &#8211; 看起来像要下雨 / Looks like it will rain</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/3348" target="_blank" rel="noopener noreferrer">Level 5 Lesson 12 &#8211; 我点的是咖啡，结果拿到的是可乐 / I ordered coffee but got coke.</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/3356" target="_blank" rel="noopener noreferrer">Level 5 Lesson 13 &#8211; 我不喜欢麦当劳之类的快餐 / I don&#8217;t like fast-food such as McDonald</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/3368" target="_blank" rel="noopener noreferrer">Level 5 Lesson 14 &#8211; 这不算 什么 / Not a big deal</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/3375" target="_blank" rel="noopener noreferrer">Level 5 Lesson 15 &#8211; 这花算是我的生日礼物吗？ / Do these flowers count as my birthday gifts?</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/3385" target="_blank" rel="noopener noreferrer">Level 5 Lesson 16 &#8211; 我就要去，别说了 / I am leaving don’t talk</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/3390" target="_blank" rel="noopener noreferrer">Level 5 Lesson 17 &#8211; 互相帮助 / to help each other</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/3396" target="_blank" rel="noopener noreferrer">Level 5 Lesson 18 &#8211; 够好了 / good enough</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/3404" target="_blank" rel="noopener noreferrer">Level 5 Lesson 19 &#8211; 西瓜又大又甜 / Watermelon is both big and sweet</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/3415" target="_blank" rel="noopener noreferrer">Level 5 Lesson 20 -再找找 / to look for it again</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/3413" target="_blank" rel="noopener noreferrer">Level 5 Lesson 21 &#8211; 一下子摔倒了 / I fell all of sudden</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/3442" target="_blank" rel="noopener noreferrer">Level 5 Lesson 22 &#8211; 小李说话从来都很大声 / Little Li always talks loud</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/3451" target="_blank" rel="noopener noreferrer">Level 5 Lesson 23 &#8211; 我们全家都喜欢看书 / All my family likes to read</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/3459" target="_blank" rel="noopener noreferrer">Level 5 Lesson 24 &#8211; 这样学中文有意思 / Studying Chinese this way is fun</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/3465" target="_blank" rel="noopener noreferrer">Level 5 Lesson 25 &#8211; 不算什么，别客气 / Piece of cake, you’re welcome</a></p>
+<h1>Level 6</h1>
+<p><a href="http://ilovelearningchinese.com/archives/3477" target="_blank" rel="noopener noreferrer">Level 6 Lesson 1 &#8211; 我生病了，不过不是很严重 / I’m sick but not very serious</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/3485" target="_blank" rel="noopener noreferrer">Level 6 Lesson 2 &#8211; 去不去得看我的心情 / Going or not depends on how I feel</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/3492" target="_blank" rel="noopener noreferrer">Level 6 Lesson 3 &#8211; 晚饭总算做好了 / Finally dinner is done</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/3608" target="_blank" rel="noopener noreferrer">Level 6 Lesson 4 &#8211; 太贵了，另外，颜色也不适合你 / It&#8217;s too expense and the color doesn&#8217;t fit you</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/3626" target="_blank" rel="noopener noreferrer">Level 6 Lesson 5 &#8211; 请给我买一杯咖啡 / Please buy me a cup of coffee</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/3800" target="_blank" rel="noopener noreferrer">Level 6 Lesson 6 &#8211; 我家就两个孩子 / Our family only has two children</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/3811" target="_blank" rel="noopener noreferrer">Level 6 Lesson 7 &#8211; 你想去哪就去哪 / You can go wherever you’d like to go</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/3819" target="_blank" rel="noopener noreferrer">Level 6 Lesson 8 &#8211; 好吃的话就多吃点 / If it tastes good , then eat more</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/3825" target="_blank" rel="noopener noreferrer">Level 6 Lesson 9 &#8211; 等雨停了，我就去公园散步 / When the rain stops, I’ll take a walk in the park</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/3830" target="_blank" rel="noopener noreferrer">Level 6 Lesson 10 &#8211; 你喜欢休假吗? / Do you like vacation?</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/3834" target="_blank" rel="noopener noreferrer">Level 6 Lesson 11 &#8211; 读下去，这本书很有意思 / Keep reading, this book is very interesting</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/3840" target="_blank" rel="noopener noreferrer">Level 6 Lesson 12 &#8211; 因为发烧，我没怎么吃东西 / Because of fever, I did not eat a lot</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/3844" target="_blank" rel="noopener noreferrer">Level 6 Lesson 13 &#8211; 我喜欢所有的水果 / I like all kinds of fruits</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/3851" target="_blank" rel="noopener noreferrer">Level 6 Lesson 14 &#8211; 李小姐被狗咬了 / Miss Li was bitten by a dog</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/3856" target="_blank" rel="noopener noreferrer">Level 6 Lesson 15 &#8211; 复习课 / Review Lesson</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/3863" target="_blank" rel="noopener noreferrer">Level 6 Lesson 16 &#8211; 新朋友向我招手 / My new friend is waving to me.</a></p>
+<p><a href="http://ilovelearningchinese.com/archives/3869" target="_blank" rel="noopener noreferrer">Level 6 Lesson 17 &#8211; 好像要下雨 / It seems like it is going to rain</a></p>
+															</div> <!-- end div .entry -->
+						
+
+								<div class="comments">
+								
+<div id="disqus_thread"></div>
+							</div> <!-- end div .comments -->
+					</div> <!-- end div .post -->
+
+									      		<div id="footerads"></div>		
+		</div> <!-- end div #content -->
+			</div><!-- end div #page-inner -->
+</div><!-- end div #page --><!-- END PAGE --><!-- BEGIN BOTTOM-MENU -->	
+	
+
+
+	<div id="footer">
+	<div id="footer-inner" class="clearfix">
+		<a href="https://ilovelearningchinese.com/" title="I Love Learning Chinese" >I Love Learning Chinese</a>  
+<a href="#" class="scrollup backtop">&#8593;<a>
+
+		
+		</div> <!-- end div #footer-right -->
+
+
+	</div> <!-- end div #footer-inner -->
+	</div> <!-- end div #footer -->
+</div> <!-- end wrapper -->
+
+<!-- WP Audio player plugin v1.9.6 - https://www.tipsandtricks-hq.com/wordpress-audio-music-player-plugin-4556/ -->
+    <script type="text/javascript">
+        soundManager.useFlashBlock = true; // optional - if used, required flashblock.css
+        soundManager.url = 'https://ilovelearningchinese.com/wp-content/plugins/compact-wp-audio-player/swf/soundmanager2.swf';
+        function play_mp3(flg, ids, mp3url, volume, loops)
+        {
+            //Check the file URL parameter value
+            var pieces = mp3url.split("|");
+            if (pieces.length > 1) {//We have got an .ogg file too
+                mp3file = pieces[0];
+                oggfile = pieces[1];
+                //set the file URL to be an array with the mp3 and ogg file
+                mp3url = new Array(mp3file, oggfile);
+            }
+
+            soundManager.createSound({
+                id: 'btnplay_' + ids,
+                volume: volume,
+                url: mp3url
+            });
+
+            if (flg == 'play') {
+    stop_all_tracks();                soundManager.play('btnplay_' + ids, {
+                    onfinish: function() {
+                        if (loops == 'true') {
+                            loopSound('btnplay_' + ids);
+                        }
+                        else {
+                            document.getElementById('btnplay_' + ids).style.display = 'inline';
+                            document.getElementById('btnstop_' + ids).style.display = 'none';
+                        }
+                    }
+                });
+            }
+            else if (flg == 'stop') {
+    //soundManager.stop('btnplay_'+ids);
+                soundManager.pause('btnplay_' + ids);
+            }
+        }
+        function show_hide(flag, ids)
+        {
+            if (flag == 'play') {
+                document.getElementById('btnplay_' + ids).style.display = 'none';
+                document.getElementById('btnstop_' + ids).style.display = 'inline';
+            }
+            else if (flag == 'stop') {
+                document.getElementById('btnplay_' + ids).style.display = 'inline';
+                document.getElementById('btnstop_' + ids).style.display = 'none';
+            }
+        }
+        function loopSound(soundID)
+        {
+            window.setTimeout(function() {
+                soundManager.play(soundID, {onfinish: function() {
+                        loopSound(soundID);
+                    }});
+            }, 1);
+        }
+        function stop_all_tracks()
+        {
+            soundManager.stopAll();
+            var inputs = document.getElementsByTagName("input");
+            for (var i = 0; i < inputs.length; i++) {
+                if (inputs[i].id.indexOf("btnplay_") == 0) {
+                    inputs[i].style.display = 'inline';//Toggle the play button
+                }
+                if (inputs[i].id.indexOf("btnstop_") == 0) {
+                    inputs[i].style.display = 'none';//Hide the stop button
+                }
+            }
+        }
+    </script>
+    <script type='text/javascript' src='https://ilovelearningchinese.com/wp-includes/js/jquery/ui/core.min.js?ver=1.12.1' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-includes/js/jquery/ui/tabs.min.js?ver=1.12.1' id='jquery-ui-tabs-js'></script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-content/plugins/wordpress-post-tabs/js/jquery.posttabs.js?ver=1.6.2' id='jquery-posttabs-js'></script>
+<script type='text/javascript' id='disqus_count-js-extra'>
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"ilovelearningchinese"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-content/plugins/disqus-comment-system/public/js/comment_count.js?ver=3.0.17' id='disqus_count-js'></script>
+<script type='text/javascript' id='disqus_embed-js-extra'>
+/* <![CDATA[ */
+var embedVars = {"disqusConfig":{"integration":"wordpress 3.0.17"},"disqusIdentifier":"2 ","disqusShortname":"ilovelearningchinese","disqusTitle":"Lessons","disqusUrl":"https:\/\/ilovelearningchinese.com\/sample-page","postId":"2"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-content/plugins/disqus-comment-system/public/js/comment_embed.js?ver=3.0.17' id='disqus_embed-js'></script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-includes/js/jquery/ui/menu.min.js?ver=1.12.1' id='jquery-ui-menu-js'></script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=7.4.4' id='wp-polyfill-js'></script>
+<script type='text/javascript' id='wp-polyfill-js-after'>
+( 'fetch' in window ) || document.write( '<script src="https://ilovelearningchinese.com/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js?ver=3.0.0"></scr' + 'ipt>' );( document.contains ) || document.write( '<script src="https://ilovelearningchinese.com/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.DOMRect ) || document.write( '<script src="https://ilovelearningchinese.com/wp-includes/js/dist/vendor/wp-polyfill-dom-rect.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.URL && window.URL.prototype && window.URLSearchParams ) || document.write( '<script src="https://ilovelearningchinese.com/wp-includes/js/dist/vendor/wp-polyfill-url.min.js?ver=3.6.4"></scr' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="https://ilovelearningchinese.com/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js?ver=3.0.12"></scr' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="https://ilovelearningchinese.com/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js?ver=2.0.2"></scr' + 'ipt>' );
+</script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-includes/js/dist/dom-ready.min.js?ver=5316a69cb8a665ca6252926589751f9a' id='wp-dom-ready-js'></script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-includes/js/dist/i18n.min.js?ver=326fe7fbfdb407b6edbcfba7e17f3909' id='wp-i18n-js'></script>
+<script type='text/javascript' id='wp-a11y-js-translations'>
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", { "locale_data": { "messages": { "": {} } } } );
+</script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-includes/js/dist/a11y.min.js?ver=693bc76804871970d5d4bf16475f9010' id='wp-a11y-js'></script>
+<script type='text/javascript' id='jquery-ui-autocomplete-js-extra'>
+/* <![CDATA[ */
+var uiAutocompleteL10n = {"noResults":"No results found.","oneResult":"1 result found. Use up and down arrow keys to navigate.","manyResults":"%d results found. Use up and down arrow keys to navigate.","itemSelected":"Item selected."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.12.1' id='jquery-ui-autocomplete-js'></script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-includes/js/jquery/ui/controlgroup.min.js?ver=1.12.1' id='jquery-ui-controlgroup-js'></script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-includes/js/jquery/ui/checkboxradio.min.js?ver=1.12.1' id='jquery-ui-checkboxradio-js'></script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-includes/js/jquery/ui/button.min.js?ver=1.12.1' id='jquery-ui-button-js'></script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.12.1' id='jquery-ui-mouse-js'></script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-includes/js/jquery/ui/resizable.min.js?ver=1.12.1' id='jquery-ui-resizable-js'></script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-includes/js/jquery/ui/draggable.min.js?ver=1.12.1' id='jquery-ui-draggable-js'></script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-includes/js/jquery/ui/dialog.min.js?ver=1.12.1' id='jquery-ui-dialog-js'></script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-includes/js/jquery/ui/droppable.min.js?ver=1.12.1' id='jquery-ui-droppable-js'></script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-includes/js/jquery/ui/progressbar.min.js?ver=1.12.1' id='jquery-ui-progressbar-js'></script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-includes/js/jquery/ui/tooltip.min.js?ver=1.12.1' id='jquery-ui-tooltip-js'></script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-includes/js/underscore.min.js?ver=1.8.3' id='underscore-js'></script>
+<script type='text/javascript' id='wp-util-js-extra'>
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-includes/js/wp-util.min.js?ver=5.6' id='wp-util-js'></script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-includes/js/backbone.min.js?ver=1.4.0' id='backbone-js'></script>
+<script type='text/javascript' id='mediaelement-core-js-before'>
+var mejsL10n = {"language":"en","strings":{"mejs.download-file":"Download File","mejs.install-flash":"You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen":"Fullscreen","mejs.play":"Play","mejs.pause":"Pause","mejs.time-slider":"Time Slider","mejs.time-help-text":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.","mejs.live-broadcast":"Live Broadcast","mejs.volume-help-text":"Use Up\/Down Arrow keys to increase or decrease volume.","mejs.unmute":"Unmute","mejs.mute":"Mute","mejs.volume-slider":"Volume Slider","mejs.video-player":"Video Player","mejs.audio-player":"Audio Player","mejs.captions-subtitles":"Captions\/Subtitles","mejs.captions-chapters":"Chapters","mejs.none":"None","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanian","mejs.arabic":"Arabic","mejs.belarusian":"Belarusian","mejs.bulgarian":"Bulgarian","mejs.catalan":"Catalan","mejs.chinese":"Chinese","mejs.chinese-simplified":"Chinese (Simplified)","mejs.chinese-traditional":"Chinese (Traditional)","mejs.croatian":"Croatian","mejs.czech":"Czech","mejs.danish":"Danish","mejs.dutch":"Dutch","mejs.english":"English","mejs.estonian":"Estonian","mejs.filipino":"Filipino","mejs.finnish":"Finnish","mejs.french":"French","mejs.galician":"Galician","mejs.german":"German","mejs.greek":"Greek","mejs.haitian-creole":"Haitian Creole","mejs.hebrew":"Hebrew","mejs.hindi":"Hindi","mejs.hungarian":"Hungarian","mejs.icelandic":"Icelandic","mejs.indonesian":"Indonesian","mejs.irish":"Irish","mejs.italian":"Italian","mejs.japanese":"Japanese","mejs.korean":"Korean","mejs.latvian":"Latvian","mejs.lithuanian":"Lithuanian","mejs.macedonian":"Macedonian","mejs.malay":"Malay","mejs.maltese":"Maltese","mejs.norwegian":"Norwegian","mejs.persian":"Persian","mejs.polish":"Polish","mejs.portuguese":"Portuguese","mejs.romanian":"Romanian","mejs.russian":"Russian","mejs.serbian":"Serbian","mejs.slovak":"Slovak","mejs.slovenian":"Slovenian","mejs.spanish":"Spanish","mejs.swahili":"Swahili","mejs.swedish":"Swedish","mejs.tagalog":"Tagalog","mejs.thai":"Thai","mejs.turkish":"Turkish","mejs.ukrainian":"Ukrainian","mejs.vietnamese":"Vietnamese","mejs.welsh":"Welsh","mejs.yiddish":"Yiddish"}};
+</script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.16' id='mediaelement-core-js'></script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=5.6' id='mediaelement-migrate-js'></script>
+<script type='text/javascript' id='mediaelement-js-extra'>
+/* <![CDATA[ */
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-includes/js/mediaelement/wp-playlist.min.js?ver=5.6' id='wp-playlist-js'></script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-content/plugins/qwiz-online-quizzes-and-flashcards/qwiz_qcards_common.js?ver=3.54' id='qwiz_qcards_common_handle-js'></script>
+<script type='text/javascript' id='qwiz_handle-js-extra'>
+/* <![CDATA[ */
+var qwiz_params = {"url":"https:\/\/ilovelearningchinese.com\/wp-content\/plugins\/qwiz-online-quizzes-and-flashcards\/","mobile_enabled":"Disabled","icon_qwiz":"Not displayed","content":"div.entry-content, div.post-entry","beta":"","server_loc":"http:\/\/qwizcards.com\/admin","secure_server_loc":"https:\/\/qwizcards.com\/admin","use_dict":"false","use_terms":"false","hint_timeout_sec":"20","hangman_hints":"2","post_id":"0","ajaxurl":"https:\/\/ilovelearningchinese.com\/wp-admin\/admin-ajax.php","includes_url":"https:\/\/ilovelearningchinese.com\/wp-includes\/","qwizcards_version":"3.54","wp_server_address":"50.87.151.116","wp_site_url":"https:\/\/ilovelearningchinese.com","qjax_bypass":"","qwiz_syntax_check_manual_only":"","T":{"zero":"zero","one":"one","two":"two","three":"three","four":"four","five":"five","six":"six","seven":"seven","eight":"eight","nine":"nine","ten":"ten","a team":"a team","Add team member":"Add team member","All":"All","answer":"answer","answers":"answers","Both":"Both","card":"card","cards":"cards","cards total":"cards total","card was":"card was","cards were":"cards were","Check answer":"Check answer","Congratulations, you answered all questions correctly":"Congratulations, you answered all questions correctly","correct":"correct","Correct!":"Correct!","Could not read terms file":"Could not read terms file","Excellent!":"Excellent!","Flip":"Check answer","Flip back":"Flip back","For topic":"For topic","found, but not":"found, but not","Forgot password?":"Forgot password?","Good!":"Good!","Got it!":"Got it!","Great!":"Great!","hint":"hint","Hint":"Hint","In finishing this":"In finishing this","In this":"In this","In this %s-flashcard stack, you clicked":"In this %s-flashcard stack, you clicked","on the first try for every card":"on the first try for every card","incorrect":"incorrect","It took you":"It took you","It took you one try":"It took you one try","It took you %s tries":"It took you %s tries","item":"item","items":"items","Learn":"Learn","Learn mode: questions repeat until answered correctly":"Learn mode: questions repeat until answered correctly","letter":"letter","letters":"letters","Log in":"Log in","Logged in as":"Logged in as","Login incorrect. Please try again":"Login incorrect. Please try again","Move each item to its correct <span class=\"qwizzled_target_border\">place<\/span>":"Move each item to its correct <span class=\"qwizzled_target_border\">place<\/span>","My scores":"My scores","Need help?  Try the \"hint\" button":"Need help?  Try the \"hint\" button","Need more practice":"Need more practice","Next question":"Next question","No.":"No.","No thanks":"No thanks","No, that's not correct.":"No, that's not correct.","on the first try":"on the first try","Now you've got it, but remember your answer -- you'll see this question again soon.":"Now you've got it, but remember your answer -- you'll see this question again soon.","not":"not","Not":"Not","OK.  Only %s is logged in now":"OK.  Only %s is logged in now","out of":"out of","Password":"Password","Please try again":"Please try again","Practice more flashcards":"Practice more flashcards","Practice more questions":"Practice more questions","Put this card at the bottom of the stack, show the next card":"Put this card at the bottom of the stack, show the next card","Qs":"Qs","question":"question","questions":"questions","Questions in this quiz:":"Questions in this quiz:","Randomly shuffle the remaining cards":"Randomly shuffle the remaining cards","Record score\/credit?":"Record score\/credit?","Register":"Register","reviewed":"reviewed","Remember":"Remember","Remove this card from the stack":"Remove this card from the stack","response":"response","responses":"responses","Review this flashcard stack again":"Review this flashcard stack again","Save preference (do not use on shared computer":"Save preference (do not use on shared computer","Show the other side":"Show the other side","Sign out":"Sign out","Signed out":"Signed out","Shuffle":"Shuffle","Skip login in the future":"Skip login in the future","Sorry, that's not correct.":"Sorry, that's not correct.","Sorry, you entered more than three incorrect letters.":"Sorry, you entered more than three incorrect letters.","Start quiz":"Start quiz","Start reviewing cards":"Start reviewing cards","Take the quiz again":"Take the quiz again","Test":"Test","Test mode: incorrectly-answered questions do not repeat":"Test mode: incorrectly-answered questions do not repeat","The topic of the only question you answered incorrectly is":"The topic of the only question you answered incorrectly is","There was":"There was","There were":"There were","These are the topics of cards where you clicked":"These are the topics of cards where you clicked","These are the topics of questions that you answered incorrectly":"These are the topics of questions that you answered incorrectly","This":"This","This flashcard stack had %s cards.":"This flashcard stack had %s cards.","This is the only topic for which you clicked":"This is the only topic for which you clicked","for each card":"for each card","to answer this question correctly":"to answer this question correctly","to answer these questions correctly":"to answer these questions correctly","to go":"to go","tries":"tries","try":"try","Type a letter":"Type a letter","Type a letter\/number":"Type a letter\/number","Type %s+ letters":"Type %s+ letters","Type %s+ letters\/numbers":"Type %s+ letters\/numbers","Type %s+ letters\/numbers, then select":"Type %s+ letters\/numbers, then select","Type letters in the box":"Type letters in the box","Type numbers in the box":"Type numbers in the box","until you felt comfortable enough to click":"until you felt comfortable enough to click","for this card":"for this card","User name":"User name","View summary report":"View summary report","You are logged in as":"You are logged in as","You answered all of these questions correctly":"You answered all of these questions correctly","You answered both of these questions correctly":"You answered both of these questions correctly","You answered this question correctly":"You answered this question correctly","You can get":"You can get","You can get two hint letters":"You can get two hint letters","You entered":"You entered","You wrote":"You wrote","Your score is":"Your score is","Your score is %s correct out of %s":"Your score is %s correct out of %s","A new question shortcode [q] has been placed inside an existing question.  Please move it outside and try again.":"A new question shortcode [q] has been placed inside an existing question.  Please move it outside and try again.","Create a target \"drop zone\" for a label - click here, then click label":"Create a target \"drop zone\" for a label - click here, then click label","Could not find editing window.  You need to be editing a page or post in Visual mode.":"Could not find editing window.  You need to be editing a page or post in Visual mode.","Did not find [qwiz]...[\/qwiz] shortcodes":"Did not find [qwiz]...[\/qwiz] shortcodes","End of labeled-diagram question":"End of labeled-diagram question","Error":"Error","Error: no text selected":"Error: no text selected","Label [l] is blank":"Label [l] is blank","labeled diagram editing menu":"labeled diagram editing menu","Please select \"Visual\" mode to create a target\/drop zone":"Please select \"Visual\" mode to create a target\/drop zone","Select the text or click on the image (you may have to click twice) where you want the target \"drop zone\" for this label":"Select the text or click on the image (you may have to click twice) where you want the target \"drop zone\" for this label","Sorry, labeled diagrams do not work with images that have captions.  Please edit the image, delete the caption, and try again.":"Sorry, labeled diagrams do not work with images that have captions.  Please edit the image, delete the caption, and try again.","You can position and resize the target \"drop zone\" how you want in relation to the image":"You can position and resize the target \"drop zone\" how you want in relation to the image","choice":"choice","Did not find answer (\"[a]\") -- card back -- for":"Did not find answer (\"[a]\") -- card back -- for","Did not find any labels [l] within [qwiz]...[\/qwiz] shortcode pairs":"Did not find any labels [l] within [qwiz]...[\/qwiz] shortcode pairs","Did not find any questions [q] within [qwiz]...[\/qwiz] shortcode pairs":"Did not find any questions [q] within [qwiz]...[\/qwiz] shortcode pairs","Did not find choices (\"[c]\") for":"Did not find choices (\"[c]\") for","Did not find choices (\"[c]\") or labels (\"[l]\") for":"Did not find choices (\"[c]\") or labels (\"[l]\") for","Did not find end of image area.  Please check that all labels and target \"drop zones\" were correctly processed and saved during the edit of this page":"Did not find end of image area.  Please check that all labels and target \"drop zones\" were correctly processed and saved during the edit of this page","Did not find feedback (\"[f]\") for":"Did not find feedback (\"[f]\") for","Did not find question tags (\"[q]\") for":"Did not find question tags (\"[q]\") for","Did not find target \"drop-zones\" for labels.  Please check that all labels and target \"drop zones\" were correctly processed and saved during the edit of this page":"Did not find target \"drop-zones\" for labels.  Please check that all labels and target \"drop zones\" were correctly processed and saved during the edit of this page","Did not find [terms]...[\/terms] shortcode pair in file":"Did not find [terms]...[\/terms] shortcode pair in file","Do you want to continue?  (Click \"Cancel\" to sign out)":"Do you want to continue?  (Click \"Cancel\" to sign out)","Do you want to continue as this team?":"Do you want to continue as this team?","does not match number of labels":"does not match number of labels","Error found":"Error found","Errors found":"Errors found","(exit text) must be last":"(exit text) must be last","Feedback [f] is required for a one-choice question":"Feedback [f] is required for a one-choice question","For [textentry] question, wildcard choice (\"*\", for any other user entry) cannot be marked correct \"[c*]\"":"For [textentry] question, wildcard choice (\"*\", for any other user entry) cannot be marked correct \"[c*]\"","For [textentry] question, wildcard choice (\"*\", for any other user entry) must be accompanied by feedback \"[f]\"":"For [textentry] question, wildcard choice (\"*\", for any other user entry) must be accompanied by feedback \"[f]\"","Got more than one answer (\"[a]\") -- card back -- for":"Got more than one answer (\"[a]\") -- card back -- for","More than one choice was marked correct":"More than one choice was marked correct","More than one feedback shortcode [f] given with choice":"More than one feedback shortcode [f] given with choice","No choice was marked correct":"No choice was marked correct","No data read from terms file":"No data read from terms file","No text given for [textentry] choice":"No text given for [textentry] choice","Number of feedback items does not match number of choices":"Number of feedback items does not match number of choices","Number of feedback items":"Number of feedback items","Please fix and try again":"Please fix and try again","Text before header":"Text before header","Text before intro":"Text before intro","There should be two feedback items -- correct and incorrect -- for each label":"There should be two feedback items -- correct and incorrect -- for each label","[textentry] on back of card, but not on front":"[textentry] on back of card, but not on front","Too many feedback shortcodes":"Too many feedback shortcodes","Topic(s) were given for at least one question, but at least one question doesn't have a topic":"Topic(s) were given for at least one question, but at least one question doesn't have a topic","Unmatched [qdeck] - [\/qdeck] pairs":"Unmatched [qdeck] - [\/qdeck] pairs","Unmatched [qwiz] - [\/qwiz] pairs":"Unmatched [qwiz] - [\/qwiz] pairs"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-content/plugins/qwiz-online-quizzes-and-flashcards/qwiz.js?ver=3.54' id='qwiz_handle-js'></script>
+<script type='text/javascript' id='qwizcards_handle-js-extra'>
+/* <![CDATA[ */
+var qwiz_params = {"url":"https:\/\/ilovelearningchinese.com\/wp-content\/plugins\/qwiz-online-quizzes-and-flashcards\/","mobile_enabled":"Disabled","icon_qwiz":"Not displayed","content":"div.entry-content, div.post-entry","beta":"","server_loc":"http:\/\/qwizcards.com\/admin","secure_server_loc":"https:\/\/qwizcards.com\/admin","use_dict":"false","use_terms":"false","hint_timeout_sec":"20","hangman_hints":"2","post_id":"0","ajaxurl":"https:\/\/ilovelearningchinese.com\/wp-admin\/admin-ajax.php","includes_url":"https:\/\/ilovelearningchinese.com\/wp-includes\/","qwizcards_version":"3.54","wp_server_address":"50.87.151.116","wp_site_url":"https:\/\/ilovelearningchinese.com","qjax_bypass":"","qwiz_syntax_check_manual_only":"","T":{"zero":"zero","one":"one","two":"two","three":"three","four":"four","five":"five","six":"six","seven":"seven","eight":"eight","nine":"nine","ten":"ten","a team":"a team","Add team member":"Add team member","All":"All","answer":"answer","answers":"answers","Both":"Both","card":"card","cards":"cards","cards total":"cards total","card was":"card was","cards were":"cards were","Check answer":"Check answer","Congratulations, you answered all questions correctly":"Congratulations, you answered all questions correctly","correct":"correct","Correct!":"Correct!","Could not read terms file":"Could not read terms file","Excellent!":"Excellent!","Flip":"Check answer","Flip back":"Flip back","For topic":"For topic","found, but not":"found, but not","Forgot password?":"Forgot password?","Good!":"Good!","Got it!":"Got it!","Great!":"Great!","hint":"hint","Hint":"Hint","In finishing this":"In finishing this","In this":"In this","In this %s-flashcard stack, you clicked":"In this %s-flashcard stack, you clicked","on the first try for every card":"on the first try for every card","incorrect":"incorrect","It took you":"It took you","It took you one try":"It took you one try","It took you %s tries":"It took you %s tries","item":"item","items":"items","Learn":"Learn","Learn mode: questions repeat until answered correctly":"Learn mode: questions repeat until answered correctly","letter":"letter","letters":"letters","Log in":"Log in","Logged in as":"Logged in as","Login incorrect. Please try again":"Login incorrect. Please try again","Move each item to its correct <span class=\"qwizzled_target_border\">place<\/span>":"Move each item to its correct <span class=\"qwizzled_target_border\">place<\/span>","My scores":"My scores","Need help?  Try the \"hint\" button":"Need help?  Try the \"hint\" button","Need more practice":"Need more practice","Next question":"Next question","No.":"No.","No thanks":"No thanks","No, that's not correct.":"No, that's not correct.","on the first try":"on the first try","Now you've got it, but remember your answer -- you'll see this question again soon.":"Now you've got it, but remember your answer -- you'll see this question again soon.","not":"not","Not":"Not","OK.  Only %s is logged in now":"OK.  Only %s is logged in now","out of":"out of","Password":"Password","Please try again":"Please try again","Practice more flashcards":"Practice more flashcards","Practice more questions":"Practice more questions","Put this card at the bottom of the stack, show the next card":"Put this card at the bottom of the stack, show the next card","Qs":"Qs","question":"question","questions":"questions","Questions in this quiz:":"Questions in this quiz:","Randomly shuffle the remaining cards":"Randomly shuffle the remaining cards","Record score\/credit?":"Record score\/credit?","Register":"Register","reviewed":"reviewed","Remember":"Remember","Remove this card from the stack":"Remove this card from the stack","response":"response","responses":"responses","Review this flashcard stack again":"Review this flashcard stack again","Save preference (do not use on shared computer":"Save preference (do not use on shared computer","Show the other side":"Show the other side","Sign out":"Sign out","Signed out":"Signed out","Shuffle":"Shuffle","Skip login in the future":"Skip login in the future","Sorry, that's not correct.":"Sorry, that's not correct.","Sorry, you entered more than three incorrect letters.":"Sorry, you entered more than three incorrect letters.","Start quiz":"Start quiz","Start reviewing cards":"Start reviewing cards","Take the quiz again":"Take the quiz again","Test":"Test","Test mode: incorrectly-answered questions do not repeat":"Test mode: incorrectly-answered questions do not repeat","The topic of the only question you answered incorrectly is":"The topic of the only question you answered incorrectly is","There was":"There was","There were":"There were","These are the topics of cards where you clicked":"These are the topics of cards where you clicked","These are the topics of questions that you answered incorrectly":"These are the topics of questions that you answered incorrectly","This":"This","This flashcard stack had %s cards.":"This flashcard stack had %s cards.","This is the only topic for which you clicked":"This is the only topic for which you clicked","for each card":"for each card","to answer this question correctly":"to answer this question correctly","to answer these questions correctly":"to answer these questions correctly","to go":"to go","tries":"tries","try":"try","Type a letter":"Type a letter","Type a letter\/number":"Type a letter\/number","Type %s+ letters":"Type %s+ letters","Type %s+ letters\/numbers":"Type %s+ letters\/numbers","Type %s+ letters\/numbers, then select":"Type %s+ letters\/numbers, then select","Type letters in the box":"Type letters in the box","Type numbers in the box":"Type numbers in the box","until you felt comfortable enough to click":"until you felt comfortable enough to click","for this card":"for this card","User name":"User name","View summary report":"View summary report","You are logged in as":"You are logged in as","You answered all of these questions correctly":"You answered all of these questions correctly","You answered both of these questions correctly":"You answered both of these questions correctly","You answered this question correctly":"You answered this question correctly","You can get":"You can get","You can get two hint letters":"You can get two hint letters","You entered":"You entered","You wrote":"You wrote","Your score is":"Your score is","Your score is %s correct out of %s":"Your score is %s correct out of %s","A new question shortcode [q] has been placed inside an existing question.  Please move it outside and try again.":"A new question shortcode [q] has been placed inside an existing question.  Please move it outside and try again.","Create a target \"drop zone\" for a label - click here, then click label":"Create a target \"drop zone\" for a label - click here, then click label","Could not find editing window.  You need to be editing a page or post in Visual mode.":"Could not find editing window.  You need to be editing a page or post in Visual mode.","Did not find [qwiz]...[\/qwiz] shortcodes":"Did not find [qwiz]...[\/qwiz] shortcodes","End of labeled-diagram question":"End of labeled-diagram question","Error":"Error","Error: no text selected":"Error: no text selected","Label [l] is blank":"Label [l] is blank","labeled diagram editing menu":"labeled diagram editing menu","Please select \"Visual\" mode to create a target\/drop zone":"Please select \"Visual\" mode to create a target\/drop zone","Select the text or click on the image (you may have to click twice) where you want the target \"drop zone\" for this label":"Select the text or click on the image (you may have to click twice) where you want the target \"drop zone\" for this label","Sorry, labeled diagrams do not work with images that have captions.  Please edit the image, delete the caption, and try again.":"Sorry, labeled diagrams do not work with images that have captions.  Please edit the image, delete the caption, and try again.","You can position and resize the target \"drop zone\" how you want in relation to the image":"You can position and resize the target \"drop zone\" how you want in relation to the image","choice":"choice","Did not find answer (\"[a]\") -- card back -- for":"Did not find answer (\"[a]\") -- card back -- for","Did not find any labels [l] within [qwiz]...[\/qwiz] shortcode pairs":"Did not find any labels [l] within [qwiz]...[\/qwiz] shortcode pairs","Did not find any questions [q] within [qwiz]...[\/qwiz] shortcode pairs":"Did not find any questions [q] within [qwiz]...[\/qwiz] shortcode pairs","Did not find choices (\"[c]\") for":"Did not find choices (\"[c]\") for","Did not find choices (\"[c]\") or labels (\"[l]\") for":"Did not find choices (\"[c]\") or labels (\"[l]\") for","Did not find end of image area.  Please check that all labels and target \"drop zones\" were correctly processed and saved during the edit of this page":"Did not find end of image area.  Please check that all labels and target \"drop zones\" were correctly processed and saved during the edit of this page","Did not find feedback (\"[f]\") for":"Did not find feedback (\"[f]\") for","Did not find question tags (\"[q]\") for":"Did not find question tags (\"[q]\") for","Did not find target \"drop-zones\" for labels.  Please check that all labels and target \"drop zones\" were correctly processed and saved during the edit of this page":"Did not find target \"drop-zones\" for labels.  Please check that all labels and target \"drop zones\" were correctly processed and saved during the edit of this page","Did not find [terms]...[\/terms] shortcode pair in file":"Did not find [terms]...[\/terms] shortcode pair in file","Do you want to continue?  (Click \"Cancel\" to sign out)":"Do you want to continue?  (Click \"Cancel\" to sign out)","Do you want to continue as this team?":"Do you want to continue as this team?","does not match number of labels":"does not match number of labels","Error found":"Error found","Errors found":"Errors found","(exit text) must be last":"(exit text) must be last","Feedback [f] is required for a one-choice question":"Feedback [f] is required for a one-choice question","For [textentry] question, wildcard choice (\"*\", for any other user entry) cannot be marked correct \"[c*]\"":"For [textentry] question, wildcard choice (\"*\", for any other user entry) cannot be marked correct \"[c*]\"","For [textentry] question, wildcard choice (\"*\", for any other user entry) must be accompanied by feedback \"[f]\"":"For [textentry] question, wildcard choice (\"*\", for any other user entry) must be accompanied by feedback \"[f]\"","Got more than one answer (\"[a]\") -- card back -- for":"Got more than one answer (\"[a]\") -- card back -- for","More than one choice was marked correct":"More than one choice was marked correct","More than one feedback shortcode [f] given with choice":"More than one feedback shortcode [f] given with choice","No choice was marked correct":"No choice was marked correct","No data read from terms file":"No data read from terms file","No text given for [textentry] choice":"No text given for [textentry] choice","Number of feedback items does not match number of choices":"Number of feedback items does not match number of choices","Number of feedback items":"Number of feedback items","Please fix and try again":"Please fix and try again","Text before header":"Text before header","Text before intro":"Text before intro","There should be two feedback items -- correct and incorrect -- for each label":"There should be two feedback items -- correct and incorrect -- for each label","[textentry] on back of card, but not on front":"[textentry] on back of card, but not on front","Too many feedback shortcodes":"Too many feedback shortcodes","Topic(s) were given for at least one question, but at least one question doesn't have a topic":"Topic(s) were given for at least one question, but at least one question doesn't have a topic","Unmatched [qdeck] - [\/qdeck] pairs":"Unmatched [qdeck] - [\/qdeck] pairs","Unmatched [qwiz] - [\/qwiz] pairs":"Unmatched [qwiz] - [\/qwiz] pairs"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-content/plugins/qwiz-online-quizzes-and-flashcards/qwizcards.js?ver=3.54' id='qwizcards_handle-js'></script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-content/plugins/qwiz-online-quizzes-and-flashcards/jquery.ui.touch-punch.min.js?ver=3.54' id='jquery_ui_touchpunch_handle-js'></script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-content/themes/magazinestyle/foundation/js/foundation.min.js' id='foundation-js'></script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-content/themes/magazinestyle/foundation/js/foundation_init.js' id='foundation_init-js'></script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-includes/js/comment-reply.min.js?ver=5.6' id='comment-reply-js'></script>
+<script type='text/javascript' src='https://ilovelearningchinese.com/wp-includes/js/wp-embed.min.js?ver=5.6' id='wp-embed-js'></script>
+<script>
+    $(document).foundation();
+</script>
+</body>
+</html>
